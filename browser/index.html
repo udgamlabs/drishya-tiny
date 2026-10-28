@@ -1,0 +1,222 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Drishya Tiny in your browser · Udgam Labs</title>
+<meta name="description" content="Drishya Tiny, a 212M-parameter video generator, turning a text prompt (and optionally a photo) into a 2-second clip entirely on your device.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@500&family=Figtree:wght@400;500&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root { --ink:#1C1B18; --graphite:#5E5C57; --rule:#E6E3DC; --surface:#F7F5F0; --bg:#FFFFFF; --muted:#8F8A7E; }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--ink); font: 16px/1.55 Figtree, system-ui, sans-serif; }
+  main { max-width: 760px; margin: 0 auto; padding: 32px 16px 48px; }
+  .eyebrow { font: 500 12px/1 "IBM Plex Mono", monospace; letter-spacing: .12em; text-transform: uppercase; color: var(--graphite); }
+  h1 { font: 500 40px/1.1 Outfit, sans-serif; margin: 10px 0 8px; }
+  .lede { color: #34332F; margin: 0 0 20px; }
+  .panel { border: 1px solid var(--rule); background: var(--bg); }
+  .loadbox { padding: 20px; background: var(--surface); border-bottom: 1px solid var(--rule); }
+  .bar { height: 4px; background: var(--rule); margin-top: 12px; }
+  .bar > div { height: 100%; width: 0; background: var(--ink); transition: width .2s; }
+  .status, .meta { font: 13px "IBM Plex Mono", monospace; color: var(--graphite); margin-top: 8px; }
+  button { font: 500 15px Figtree, sans-serif; border: 1px solid var(--ink); background: var(--ink); color: #F3EFE6; padding: 10px 16px; cursor: pointer; border-radius: 0; }
+  button.secondary { background: var(--bg); color: var(--ink); }
+  button:disabled { opacity: .45; cursor: default; }
+  [hidden] { display: none !important; }
+  textarea { width: 100%; font: 16px/1.55 Figtree, sans-serif; border: 1px solid var(--rule); padding: 10px; resize: vertical; min-height: 72px; border-radius: 0; }
+  select, input[type=number] { font: 14px "IBM Plex Mono", monospace; border: 1px solid var(--rule); padding: 6px 8px; border-radius: 0; background: var(--bg); color: var(--ink); }
+  .work { padding: 16px 20px; display: grid; gap: 12px; }
+  .chips { display: flex; flex-wrap: wrap; gap: 8px; }
+  .chip { font: 14px Figtree, sans-serif; background: var(--bg); color: var(--ink); border: 1px solid var(--rule); padding: 6px 10px; text-align: left; }
+  .row { display: flex; gap: 16px; flex-wrap: wrap; align-items: center; }
+  .row label { font: 13px "IBM Plex Mono", monospace; color: var(--graphite); display: flex; gap: 8px; align-items: center; }
+  .actions { display: flex; gap: 8px; flex-wrap: wrap; }
+  .stage { border-top: 1px solid var(--rule); padding-top: 12px; display: grid; gap: 8px; justify-items: start; }
+  .photo { display: grid; gap: 8px; }
+  input[type=file] { font: 14px Figtree, sans-serif; max-width: 100%; }
+  canvas#photoview { width: 128px; aspect-ratio: 1; border: 1px solid var(--rule); background: var(--surface); }
+  canvas#view { width: min(100%, 384px); aspect-ratio: 1; background: var(--surface); border: 1px solid var(--rule); image-rendering: auto; }
+  .note { font-size: 14px; color: var(--graphite); margin-top: 16px; }
+  footer { margin-top: 28px; padding-top: 14px; border-top: 1px solid var(--rule); font-size: 14px; color: var(--graphite); display: flex; justify-content: space-between; gap: 12px; flex-wrap: wrap; }
+  a { color: var(--ink); }
+  @media (max-width: 520px) { h1 { font-size: 32px; } }
+</style>
+</head>
+<body>
+<main>
+  <div class="eyebrow">Udgam Labs · Video model · Runs on your device</div>
+  <h1>Drishya Tiny in your browser</h1>
+  <p class="lede">Drishya Tiny is a 212M-parameter video generator trained from scratch, using the frozen Wan2.2 VAE and
+    Flan-T5-Base text encoder. Here it runs entirely inside this tab: type a prompt, optionally add a photo as the first
+    frame, and it makes a 2-second 256×256 clip.
+    The model files download once and are kept by your browser.</p>
+
+  <div class="panel">
+    <div class="loadbox" id="loadbox">
+      <button id="load">Download Drishya Tiny and start</button>
+      <div class="bar"><div id="bar"></div></div>
+      <div class="status" id="status">Needs a laptop or desktop with a recent Chrome or Edge (WebGPU). Checking this device…</div>
+    </div>
+    <div class="work" id="work" hidden>
+      <div class="chips" id="chips"></div>
+      <label for="prompt" class="eyebrow">Prompt</label>
+      <textarea id="prompt">Ocean waves rolling onto a sandy beach on a sunny day, blue sky with white clouds, the camera is static.</textarea>
+      <div class="photo">
+        <label for="photo" class="eyebrow">First frame (optional): animate a photo</label>
+        <div class="row">
+          <input id="photo" type="file" accept="image/*">
+          <button id="clearphoto" class="secondary" type="button" hidden>Remove photo</button>
+        </div>
+        <canvas id="photoview" width="256" height="256" aria-label="Photo used as the first frame" hidden></canvas>
+        <div class="status" id="photostatus">The photo is cropped to a centre square and stays on this device; it is never uploaded.</div>
+      </div>
+      <div class="row">
+        <label>Steps <select id="steps"></select></label>
+        <label>Seed <input id="seed" type="number" min="0" max="4294967295" value="42" style="width:9em"></label>
+      </div>
+      <div class="actions">
+        <button id="go">Generate</button>
+        <button id="dl" class="secondary" disabled>Download WebM</button>
+      </div>
+      <div class="bar"><div id="stepbar"></div></div>
+      <div class="status" id="stepstatus" aria-live="polite"></div>
+      <div class="stage">
+        <canvas id="view" width="256" height="256" aria-label="Generated clip"></canvas>
+        <div class="meta" id="meta"></div>
+      </div>
+    </div>
+  </div>
+
+  <p class="note">Runs on your device; nothing you type leaves your browser, and photos never leave your device.</p>
+  <p class="note">The browser version uses a tiny decoder (TAEW2.2), so clips are softer than the full model's.
+    It works best with long, descriptive prompts of nature and scenery. Where it falls short: it follows prompts about
+    half as well as larger peers, rarely draws two named objects, faces and hands smear, text melts, and motion is
+    small. Every clip carries a visible "AI-generated" mark.</p>
+  <footer>
+    <span>Drishya Tiny by Udgam Labs · <a href="https://huggingface.co/udgamlabs/Drishya-Tiny">model card</a></span>
+    <span>Udgam Labs · AI research from first principles</span>
+  </footer>
+</main>
+<script type="module">
+import { DrishyaWeb, DEFAULT_BASE, FILES, markedFrames, recordWebM, prepareImage } from "./drishya-web.js";
+const $ = (id) => document.getElementById(id);
+const params = new URLSearchParams(location.search);
+const base = params.get("base") || (["localhost", "127.0.0.1"].includes(location.hostname) ? "./model/" : DEFAULT_BASE);
+const d = new DrishyaWeb(base, { forceWasm: params.get("backend") === "wasm" });
+window.__drishya = d;
+const EXAMPLES = [
+  "Ocean waves rolling onto a sandy beach on a sunny day, blue sky with white clouds, the camera is static.",
+  "Sunset time lapse at the beach with moving clouds and orange colors in the sky.",
+  "Snow-covered mountain peaks under a blue sky, clouds drifting slowly past the summit.",
+];
+for (const e of EXAMPLES) {
+  const b = document.createElement("button"); b.className = "chip"; b.textContent = e; b.type = "button";
+  b.onclick = () => { $("prompt").value = e; }; $("chips").appendChild(b);
+}
+for (const n of [10, 15, 20, 25, 30, 40, 50]) {
+  const o = document.createElement("option"); o.value = n; o.textContent = n; if (n === 25) o.selected = true; $("steps").appendChild(o);
+}
+if (params.get("steps")) $("steps").value = params.get("steps");
+if (params.get("seed")) $("seed").value = params.get("seed");
+if (params.get("prompt")) $("prompt").value = params.get("prompt");
+const mb = (b) => `${(b / 1e6).toFixed(0)} MB`;
+
+let frames = null, timer = null, clipBlob = null, photo = null;
+
+async function setPhoto(file) {
+  if (!file) return clearPhoto();
+  $("photostatus").textContent = "Reading the photo…";
+  try {
+    const p = await prepareImage(file);
+    const g = $("photoview").getContext("2d"), img = g.createImageData(256, 256);
+    for (let i = 0; i < 256 * 256; i++) {
+      img.data[4 * i] = p.rgb[3 * i]; img.data[4 * i + 1] = p.rgb[3 * i + 1]; img.data[4 * i + 2] = p.rgb[3 * i + 2]; img.data[4 * i + 3] = 255;
+    }
+    g.putImageData(img, 0, 0); $("photoview").hidden = false; $("clearphoto").hidden = false; photo = p.rgb;
+    $("photostatus").textContent = `Getting the photo encoder (${mb(FILES.enc.bytes)}, once)…`;
+    await d.loadEncoder();
+    $("photostatus").textContent = "This photo will be the first frame. It stays on this device.";
+  } catch (e) {
+    console.error(e); photo = null; $("photostatus").textContent = `Could not use this photo: ${e.message || e}`;
+  }
+}
+function clearPhoto() {
+  photo = null; $("photo").value = ""; $("photoview").hidden = true; $("clearphoto").hidden = true;
+  $("photostatus").textContent = "The photo is cropped to a centre square and stays on this device; it is never uploaded.";
+}
+function play() {
+  clearInterval(timer); const g = $("view").getContext("2d"); let i = 0;
+  const draw = () => { g.putImageData(frames[i], 0, 0); i = (i + 1) % frames.length; };
+  draw(); timer = setInterval(draw, 125);
+}
+
+const plan = await d.plan();
+$("load").textContent = `Download Drishya Tiny (${mb(plan.totalBytes)}) and start`;
+$("status").textContent = plan.webgpu
+  ? `This device can use WebGPU. The download is ${mb(plan.totalBytes)}, once.`
+  : `No WebGPU here, so it will run on the CPU (WebAssembly), several times slower. The download is ${mb(plan.totalBytes)}, once.`;
+
+let loaded = false;
+async function load() {
+  $("load").disabled = true; $("status").textContent = "Downloading…";
+  try {
+    const st = await d.load((l, t) => {
+      $("bar").style.width = `${Math.round(100 * l / (t || 1))}%`;
+      $("status").textContent = `Downloading ${mb(l)} of ${mb(t)}`;
+    });
+    $("bar").style.width = "100%";
+    $("status").textContent = `Ready · ${st.backend} · ${mb(st.bytes)}${st.fromCache ? " from this browser's cache" : ""}`;
+    $("work").hidden = false; loaded = true;
+    return true;
+  } catch (e) {
+    console.error(e); $("status").textContent = `Could not load the model: ${e.message || e}`; $("load").disabled = false;
+    return false;
+  }
+}
+
+async function generate() {
+  if (!loaded && !(await load())) return;  // Generate before the download: load first
+  $("go").disabled = true; $("dl").disabled = true; clipBlob = null;
+  const steps = Number($("steps").value), seed = Number($("seed").value) >>> 0;
+  $("stepbar").style.width = "0%"; $("stepstatus").textContent = photo ? "Reading the photo and the prompt…" : "Reading the prompt…"; $("meta").textContent = "";
+  try {
+    const r = await d.generate($("prompt").value.trim(), {
+      steps, seed, image: photo, onStep: (i, n, ms) => {
+        $("stepbar").style.width = `${Math.round(100 * i / n)}%`;
+        $("stepstatus").textContent = `Step ${i} of ${n} · ${(ms / 1000).toFixed(2)} s a step`;
+      },
+    });
+    $("stepstatus").textContent = "Decoding frames…";
+    frames = markedFrames(r.frames); play();
+    const tm = r.timings, avg = tm.stepMs.reduce((a, b) => a + b, 0) / tm.stepMs.length;
+    $("stepstatus").textContent = `Done in ${(tm.totalMs / 1000).toFixed(1)} s`;
+    $("meta").textContent = `${tm.mode === "image-to-video" ? "From your photo · " : ""}${steps} steps · ${(avg / 1000).toFixed(2)} s a step · seed ${seed} · ${d.stats.backend}`;
+    window.__last = r; $("dl").disabled = false;
+  } catch (e) {
+    console.error(e); $("stepstatus").textContent = `Something went wrong: ${e.message || e}`;
+  }
+  $("go").disabled = false;
+}
+
+$("load").onclick = load;
+$("photo").onchange = (e) => setPhoto(e.target.files && e.target.files[0]);
+$("clearphoto").onclick = clearPhoto;
+$("go").onclick = generate;
+$("dl").onclick = async () => {
+  $("dl").disabled = true;
+  try {
+    clipBlob = clipBlob || await recordWebM(frames);
+    const a = document.createElement("a"); a.href = URL.createObjectURL(clipBlob);
+    a.download = `drishya-tiny-${photo ? "photo-" : ""}seed${$("seed").value}.webm`; a.click();
+  } catch (e) { $("stepstatus").textContent = `Could not save the clip: ${e.message || e}`; }
+  $("dl").disabled = false;
+};
+if (params.get("auto") === "1") {
+  // ?photo=<same-origin image URL> is for automated tests of image-to-video
+  if (params.get("photo")) await setPhoto(await (await fetch(params.get("photo"))).blob());
+  if (await load()) await generate(); window.__done = true;
+}
+</script>
+</body>
+</html>

@@ -1,0 +1,14 @@
+[project]
+name = "drishya"
+version = "0.1.0"
+description = "Drishya Tiny by Udgam Labs: a 212M text-to-video and image-to-video generator"
+requires-python = ">=3.10"
+license = "Apache-2.0"
+dependencies = ["torch>=2.4", "diffusers>=0.35", "transformers>=4.50", "safetensors", "huggingface_hub", "av", "pillow", "numpy", "sentencepiece"]
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = ["drishya"]

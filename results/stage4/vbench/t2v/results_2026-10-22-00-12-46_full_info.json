@@ -1,0 +1,1302 @@
+[
+    {
+        "prompt_en": "A person is riding a bike",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is riding a bike-0.mp4",
+            "videos_t2v/A person is riding a bike-1.mp4",
+            "videos_t2v/A person is riding a bike-2.mp4",
+            "videos_t2v/A person is riding a bike-3.mp4",
+            "videos_t2v/A person is riding a bike-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is marching",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is marching-0.mp4",
+            "videos_t2v/A person is marching-1.mp4",
+            "videos_t2v/A person is marching-2.mp4",
+            "videos_t2v/A person is marching-3.mp4",
+            "videos_t2v/A person is marching-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is roller skating",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is roller skating-0.mp4",
+            "videos_t2v/A person is roller skating-1.mp4",
+            "videos_t2v/A person is roller skating-2.mp4",
+            "videos_t2v/A person is roller skating-3.mp4",
+            "videos_t2v/A person is roller skating-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is tasting beer",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is tasting beer-0.mp4",
+            "videos_t2v/A person is tasting beer-1.mp4",
+            "videos_t2v/A person is tasting beer-2.mp4",
+            "videos_t2v/A person is tasting beer-3.mp4",
+            "videos_t2v/A person is tasting beer-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is clapping",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is clapping-0.mp4",
+            "videos_t2v/A person is clapping-1.mp4",
+            "videos_t2v/A person is clapping-2.mp4",
+            "videos_t2v/A person is clapping-3.mp4",
+            "videos_t2v/A person is clapping-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is drawing",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is drawing-0.mp4",
+            "videos_t2v/A person is drawing-1.mp4",
+            "videos_t2v/A person is drawing-2.mp4",
+            "videos_t2v/A person is drawing-3.mp4",
+            "videos_t2v/A person is drawing-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is petting animal (not cat)",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is petting animal (not cat)-0.mp4",
+            "videos_t2v/A person is petting animal (not cat)-1.mp4",
+            "videos_t2v/A person is petting animal (not cat)-2.mp4",
+            "videos_t2v/A person is petting animal (not cat)-3.mp4",
+            "videos_t2v/A person is petting animal (not cat)-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is eating watermelon",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is eating watermelon-0.mp4",
+            "videos_t2v/A person is eating watermelon-1.mp4",
+            "videos_t2v/A person is eating watermelon-2.mp4",
+            "videos_t2v/A person is eating watermelon-3.mp4",
+            "videos_t2v/A person is eating watermelon-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is playing harp",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is playing harp-0.mp4",
+            "videos_t2v/A person is playing harp-1.mp4",
+            "videos_t2v/A person is playing harp-2.mp4",
+            "videos_t2v/A person is playing harp-3.mp4",
+            "videos_t2v/A person is playing harp-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is wrestling",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is wrestling-0.mp4",
+            "videos_t2v/A person is wrestling-1.mp4",
+            "videos_t2v/A person is wrestling-2.mp4",
+            "videos_t2v/A person is wrestling-3.mp4",
+            "videos_t2v/A person is wrestling-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is riding scooter",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is riding scooter-0.mp4",
+            "videos_t2v/A person is riding scooter-1.mp4",
+            "videos_t2v/A person is riding scooter-2.mp4",
+            "videos_t2v/A person is riding scooter-3.mp4",
+            "videos_t2v/A person is riding scooter-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is sweeping floor",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is sweeping floor-0.mp4",
+            "videos_t2v/A person is sweeping floor-1.mp4",
+            "videos_t2v/A person is sweeping floor-2.mp4",
+            "videos_t2v/A person is sweeping floor-3.mp4",
+            "videos_t2v/A person is sweeping floor-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is skateboarding",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is skateboarding-0.mp4",
+            "videos_t2v/A person is skateboarding-1.mp4",
+            "videos_t2v/A person is skateboarding-2.mp4",
+            "videos_t2v/A person is skateboarding-3.mp4",
+            "videos_t2v/A person is skateboarding-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is dunking basketball",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is dunking basketball-0.mp4",
+            "videos_t2v/A person is dunking basketball-1.mp4",
+            "videos_t2v/A person is dunking basketball-2.mp4",
+            "videos_t2v/A person is dunking basketball-3.mp4",
+            "videos_t2v/A person is dunking basketball-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is playing flute",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is playing flute-0.mp4",
+            "videos_t2v/A person is playing flute-1.mp4",
+            "videos_t2v/A person is playing flute-2.mp4",
+            "videos_t2v/A person is playing flute-3.mp4",
+            "videos_t2v/A person is playing flute-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is stretching leg",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is stretching leg-0.mp4",
+            "videos_t2v/A person is stretching leg-1.mp4",
+            "videos_t2v/A person is stretching leg-2.mp4",
+            "videos_t2v/A person is stretching leg-3.mp4",
+            "videos_t2v/A person is stretching leg-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is tying tie",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is tying tie-0.mp4",
+            "videos_t2v/A person is tying tie-1.mp4",
+            "videos_t2v/A person is tying tie-2.mp4",
+            "videos_t2v/A person is tying tie-3.mp4",
+            "videos_t2v/A person is tying tie-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is skydiving",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is skydiving-0.mp4",
+            "videos_t2v/A person is skydiving-1.mp4",
+            "videos_t2v/A person is skydiving-2.mp4",
+            "videos_t2v/A person is skydiving-3.mp4",
+            "videos_t2v/A person is skydiving-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is shooting goal (soccer)",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is shooting goal (soccer)-0.mp4",
+            "videos_t2v/A person is shooting goal (soccer)-1.mp4",
+            "videos_t2v/A person is shooting goal (soccer)-2.mp4",
+            "videos_t2v/A person is shooting goal (soccer)-3.mp4",
+            "videos_t2v/A person is shooting goal (soccer)-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is playing piano",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is playing piano-0.mp4",
+            "videos_t2v/A person is playing piano-1.mp4",
+            "videos_t2v/A person is playing piano-2.mp4",
+            "videos_t2v/A person is playing piano-3.mp4",
+            "videos_t2v/A person is playing piano-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is finger snapping",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is finger snapping-0.mp4",
+            "videos_t2v/A person is finger snapping-1.mp4",
+            "videos_t2v/A person is finger snapping-2.mp4",
+            "videos_t2v/A person is finger snapping-3.mp4",
+            "videos_t2v/A person is finger snapping-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is canoeing or kayaking",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is canoeing or kayaking-0.mp4",
+            "videos_t2v/A person is canoeing or kayaking-1.mp4",
+            "videos_t2v/A person is canoeing or kayaking-2.mp4",
+            "videos_t2v/A person is canoeing or kayaking-3.mp4",
+            "videos_t2v/A person is canoeing or kayaking-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is laughing",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is laughing-0.mp4",
+            "videos_t2v/A person is laughing-1.mp4",
+            "videos_t2v/A person is laughing-2.mp4",
+            "videos_t2v/A person is laughing-3.mp4",
+            "videos_t2v/A person is laughing-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is digging",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is digging-0.mp4",
+            "videos_t2v/A person is digging-1.mp4",
+            "videos_t2v/A person is digging-2.mp4",
+            "videos_t2v/A person is digging-3.mp4",
+            "videos_t2v/A person is digging-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is clay pottery making",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is clay pottery making-0.mp4",
+            "videos_t2v/A person is clay pottery making-1.mp4",
+            "videos_t2v/A person is clay pottery making-2.mp4",
+            "videos_t2v/A person is clay pottery making-3.mp4",
+            "videos_t2v/A person is clay pottery making-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is shooting basketball",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is shooting basketball-0.mp4",
+            "videos_t2v/A person is shooting basketball-1.mp4",
+            "videos_t2v/A person is shooting basketball-2.mp4",
+            "videos_t2v/A person is shooting basketball-3.mp4",
+            "videos_t2v/A person is shooting basketball-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is bending back",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is bending back-0.mp4",
+            "videos_t2v/A person is bending back-1.mp4",
+            "videos_t2v/A person is bending back-2.mp4",
+            "videos_t2v/A person is bending back-3.mp4",
+            "videos_t2v/A person is bending back-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is shaking hands",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is shaking hands-0.mp4",
+            "videos_t2v/A person is shaking hands-1.mp4",
+            "videos_t2v/A person is shaking hands-2.mp4",
+            "videos_t2v/A person is shaking hands-3.mp4",
+            "videos_t2v/A person is shaking hands-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is bandaging",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is bandaging-0.mp4",
+            "videos_t2v/A person is bandaging-1.mp4",
+            "videos_t2v/A person is bandaging-2.mp4",
+            "videos_t2v/A person is bandaging-3.mp4",
+            "videos_t2v/A person is bandaging-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is push up",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is push up-0.mp4",
+            "videos_t2v/A person is push up-1.mp4",
+            "videos_t2v/A person is push up-2.mp4",
+            "videos_t2v/A person is push up-3.mp4",
+            "videos_t2v/A person is push up-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is catching or throwing frisbee",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is catching or throwing frisbee-0.mp4",
+            "videos_t2v/A person is catching or throwing frisbee-1.mp4",
+            "videos_t2v/A person is catching or throwing frisbee-2.mp4",
+            "videos_t2v/A person is catching or throwing frisbee-3.mp4",
+            "videos_t2v/A person is catching or throwing frisbee-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is playing trumpet",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is playing trumpet-0.mp4",
+            "videos_t2v/A person is playing trumpet-1.mp4",
+            "videos_t2v/A person is playing trumpet-2.mp4",
+            "videos_t2v/A person is playing trumpet-3.mp4",
+            "videos_t2v/A person is playing trumpet-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is flying kite",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is flying kite-0.mp4",
+            "videos_t2v/A person is flying kite-1.mp4",
+            "videos_t2v/A person is flying kite-2.mp4",
+            "videos_t2v/A person is flying kite-3.mp4",
+            "videos_t2v/A person is flying kite-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is filling eyebrows",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is filling eyebrows-0.mp4",
+            "videos_t2v/A person is filling eyebrows-1.mp4",
+            "videos_t2v/A person is filling eyebrows-2.mp4",
+            "videos_t2v/A person is filling eyebrows-3.mp4",
+            "videos_t2v/A person is filling eyebrows-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is shuffling cards",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is shuffling cards-0.mp4",
+            "videos_t2v/A person is shuffling cards-1.mp4",
+            "videos_t2v/A person is shuffling cards-2.mp4",
+            "videos_t2v/A person is shuffling cards-3.mp4",
+            "videos_t2v/A person is shuffling cards-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is folding clothes",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is folding clothes-0.mp4",
+            "videos_t2v/A person is folding clothes-1.mp4",
+            "videos_t2v/A person is folding clothes-2.mp4",
+            "videos_t2v/A person is folding clothes-3.mp4",
+            "videos_t2v/A person is folding clothes-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is smoking",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is smoking-0.mp4",
+            "videos_t2v/A person is smoking-1.mp4",
+            "videos_t2v/A person is smoking-2.mp4",
+            "videos_t2v/A person is smoking-3.mp4",
+            "videos_t2v/A person is smoking-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is tai chi",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is tai chi-0.mp4",
+            "videos_t2v/A person is tai chi-1.mp4",
+            "videos_t2v/A person is tai chi-2.mp4",
+            "videos_t2v/A person is tai chi-3.mp4",
+            "videos_t2v/A person is tai chi-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is squat",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is squat-0.mp4",
+            "videos_t2v/A person is squat-1.mp4",
+            "videos_t2v/A person is squat-2.mp4",
+            "videos_t2v/A person is squat-3.mp4",
+            "videos_t2v/A person is squat-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is playing controller",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is playing controller-0.mp4",
+            "videos_t2v/A person is playing controller-1.mp4",
+            "videos_t2v/A person is playing controller-2.mp4",
+            "videos_t2v/A person is playing controller-3.mp4",
+            "videos_t2v/A person is playing controller-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is throwing axe",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is throwing axe-0.mp4",
+            "videos_t2v/A person is throwing axe-1.mp4",
+            "videos_t2v/A person is throwing axe-2.mp4",
+            "videos_t2v/A person is throwing axe-3.mp4",
+            "videos_t2v/A person is throwing axe-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is giving or receiving award",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is giving or receiving award-0.mp4",
+            "videos_t2v/A person is giving or receiving award-1.mp4",
+            "videos_t2v/A person is giving or receiving award-2.mp4",
+            "videos_t2v/A person is giving or receiving award-3.mp4",
+            "videos_t2v/A person is giving or receiving award-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is air drumming",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is air drumming-0.mp4",
+            "videos_t2v/A person is air drumming-1.mp4",
+            "videos_t2v/A person is air drumming-2.mp4",
+            "videos_t2v/A person is air drumming-3.mp4",
+            "videos_t2v/A person is air drumming-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is taking a shower",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is taking a shower-0.mp4",
+            "videos_t2v/A person is taking a shower-1.mp4",
+            "videos_t2v/A person is taking a shower-2.mp4",
+            "videos_t2v/A person is taking a shower-3.mp4",
+            "videos_t2v/A person is taking a shower-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is planting trees",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is planting trees-0.mp4",
+            "videos_t2v/A person is planting trees-1.mp4",
+            "videos_t2v/A person is planting trees-2.mp4",
+            "videos_t2v/A person is planting trees-3.mp4",
+            "videos_t2v/A person is planting trees-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is sharpening knives",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is sharpening knives-0.mp4",
+            "videos_t2v/A person is sharpening knives-1.mp4",
+            "videos_t2v/A person is sharpening knives-2.mp4",
+            "videos_t2v/A person is sharpening knives-3.mp4",
+            "videos_t2v/A person is sharpening knives-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is robot dancing",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is robot dancing-0.mp4",
+            "videos_t2v/A person is robot dancing-1.mp4",
+            "videos_t2v/A person is robot dancing-2.mp4",
+            "videos_t2v/A person is robot dancing-3.mp4",
+            "videos_t2v/A person is robot dancing-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is rock climbing",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is rock climbing-0.mp4",
+            "videos_t2v/A person is rock climbing-1.mp4",
+            "videos_t2v/A person is rock climbing-2.mp4",
+            "videos_t2v/A person is rock climbing-3.mp4",
+            "videos_t2v/A person is rock climbing-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is hula hooping",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is hula hooping-0.mp4",
+            "videos_t2v/A person is hula hooping-1.mp4",
+            "videos_t2v/A person is hula hooping-2.mp4",
+            "videos_t2v/A person is hula hooping-3.mp4",
+            "videos_t2v/A person is hula hooping-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is writing",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is writing-0.mp4",
+            "videos_t2v/A person is writing-1.mp4",
+            "videos_t2v/A person is writing-2.mp4",
+            "videos_t2v/A person is writing-3.mp4",
+            "videos_t2v/A person is writing-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is bungee jumping",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is bungee jumping-0.mp4",
+            "videos_t2v/A person is bungee jumping-1.mp4",
+            "videos_t2v/A person is bungee jumping-2.mp4",
+            "videos_t2v/A person is bungee jumping-3.mp4",
+            "videos_t2v/A person is bungee jumping-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is pushing cart",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is pushing cart-0.mp4",
+            "videos_t2v/A person is pushing cart-1.mp4",
+            "videos_t2v/A person is pushing cart-2.mp4",
+            "videos_t2v/A person is pushing cart-3.mp4",
+            "videos_t2v/A person is pushing cart-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is cleaning windows",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is cleaning windows-0.mp4",
+            "videos_t2v/A person is cleaning windows-1.mp4",
+            "videos_t2v/A person is cleaning windows-2.mp4",
+            "videos_t2v/A person is cleaning windows-3.mp4",
+            "videos_t2v/A person is cleaning windows-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is cutting watermelon",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is cutting watermelon-0.mp4",
+            "videos_t2v/A person is cutting watermelon-1.mp4",
+            "videos_t2v/A person is cutting watermelon-2.mp4",
+            "videos_t2v/A person is cutting watermelon-3.mp4",
+            "videos_t2v/A person is cutting watermelon-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is cheerleading",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is cheerleading-0.mp4",
+            "videos_t2v/A person is cheerleading-1.mp4",
+            "videos_t2v/A person is cheerleading-2.mp4",
+            "videos_t2v/A person is cheerleading-3.mp4",
+            "videos_t2v/A person is cheerleading-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is washing hands",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is washing hands-0.mp4",
+            "videos_t2v/A person is washing hands-1.mp4",
+            "videos_t2v/A person is washing hands-2.mp4",
+            "videos_t2v/A person is washing hands-3.mp4",
+            "videos_t2v/A person is washing hands-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is ironing",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is ironing-0.mp4",
+            "videos_t2v/A person is ironing-1.mp4",
+            "videos_t2v/A person is ironing-2.mp4",
+            "videos_t2v/A person is ironing-3.mp4",
+            "videos_t2v/A person is ironing-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is cutting nails",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is cutting nails-0.mp4",
+            "videos_t2v/A person is cutting nails-1.mp4",
+            "videos_t2v/A person is cutting nails-2.mp4",
+            "videos_t2v/A person is cutting nails-3.mp4",
+            "videos_t2v/A person is cutting nails-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is hugging",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is hugging-0.mp4",
+            "videos_t2v/A person is hugging-1.mp4",
+            "videos_t2v/A person is hugging-2.mp4",
+            "videos_t2v/A person is hugging-3.mp4",
+            "videos_t2v/A person is hugging-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is trimming or shaving beard",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is trimming or shaving beard-0.mp4",
+            "videos_t2v/A person is trimming or shaving beard-1.mp4",
+            "videos_t2v/A person is trimming or shaving beard-2.mp4",
+            "videos_t2v/A person is trimming or shaving beard-3.mp4",
+            "videos_t2v/A person is trimming or shaving beard-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is jogging",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is jogging-0.mp4",
+            "videos_t2v/A person is jogging-1.mp4",
+            "videos_t2v/A person is jogging-2.mp4",
+            "videos_t2v/A person is jogging-3.mp4",
+            "videos_t2v/A person is jogging-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is making bed",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is making bed-0.mp4",
+            "videos_t2v/A person is making bed-1.mp4",
+            "videos_t2v/A person is making bed-2.mp4",
+            "videos_t2v/A person is making bed-3.mp4",
+            "videos_t2v/A person is making bed-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is washing dishes",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is washing dishes-0.mp4",
+            "videos_t2v/A person is washing dishes-1.mp4",
+            "videos_t2v/A person is washing dishes-2.mp4",
+            "videos_t2v/A person is washing dishes-3.mp4",
+            "videos_t2v/A person is washing dishes-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is grooming dog",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is grooming dog-0.mp4",
+            "videos_t2v/A person is grooming dog-1.mp4",
+            "videos_t2v/A person is grooming dog-2.mp4",
+            "videos_t2v/A person is grooming dog-3.mp4",
+            "videos_t2v/A person is grooming dog-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is doing laundry",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is doing laundry-0.mp4",
+            "videos_t2v/A person is doing laundry-1.mp4",
+            "videos_t2v/A person is doing laundry-2.mp4",
+            "videos_t2v/A person is doing laundry-3.mp4",
+            "videos_t2v/A person is doing laundry-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is knitting",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is knitting-0.mp4",
+            "videos_t2v/A person is knitting-1.mp4",
+            "videos_t2v/A person is knitting-2.mp4",
+            "videos_t2v/A person is knitting-3.mp4",
+            "videos_t2v/A person is knitting-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is reading book",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is reading book-0.mp4",
+            "videos_t2v/A person is reading book-1.mp4",
+            "videos_t2v/A person is reading book-2.mp4",
+            "videos_t2v/A person is reading book-3.mp4",
+            "videos_t2v/A person is reading book-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is baby waking up",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is baby waking up-0.mp4",
+            "videos_t2v/A person is baby waking up-1.mp4",
+            "videos_t2v/A person is baby waking up-2.mp4",
+            "videos_t2v/A person is baby waking up-3.mp4",
+            "videos_t2v/A person is baby waking up-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is massaging legs",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is massaging legs-0.mp4",
+            "videos_t2v/A person is massaging legs-1.mp4",
+            "videos_t2v/A person is massaging legs-2.mp4",
+            "videos_t2v/A person is massaging legs-3.mp4",
+            "videos_t2v/A person is massaging legs-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is brushing teeth",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is brushing teeth-0.mp4",
+            "videos_t2v/A person is brushing teeth-1.mp4",
+            "videos_t2v/A person is brushing teeth-2.mp4",
+            "videos_t2v/A person is brushing teeth-3.mp4",
+            "videos_t2v/A person is brushing teeth-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is crawling baby",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is crawling baby-0.mp4",
+            "videos_t2v/A person is crawling baby-1.mp4",
+            "videos_t2v/A person is crawling baby-2.mp4",
+            "videos_t2v/A person is crawling baby-3.mp4",
+            "videos_t2v/A person is crawling baby-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is motorcycling",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is motorcycling-0.mp4",
+            "videos_t2v/A person is motorcycling-1.mp4",
+            "videos_t2v/A person is motorcycling-2.mp4",
+            "videos_t2v/A person is motorcycling-3.mp4",
+            "videos_t2v/A person is motorcycling-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is driving car",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is driving car-0.mp4",
+            "videos_t2v/A person is driving car-1.mp4",
+            "videos_t2v/A person is driving car-2.mp4",
+            "videos_t2v/A person is driving car-3.mp4",
+            "videos_t2v/A person is driving car-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is sticking tongue out",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is sticking tongue out-0.mp4",
+            "videos_t2v/A person is sticking tongue out-1.mp4",
+            "videos_t2v/A person is sticking tongue out-2.mp4",
+            "videos_t2v/A person is sticking tongue out-3.mp4",
+            "videos_t2v/A person is sticking tongue out-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is shaking head",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is shaking head-0.mp4",
+            "videos_t2v/A person is shaking head-1.mp4",
+            "videos_t2v/A person is shaking head-2.mp4",
+            "videos_t2v/A person is shaking head-3.mp4",
+            "videos_t2v/A person is shaking head-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is sword fighting",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is sword fighting-0.mp4",
+            "videos_t2v/A person is sword fighting-1.mp4",
+            "videos_t2v/A person is sword fighting-2.mp4",
+            "videos_t2v/A person is sword fighting-3.mp4",
+            "videos_t2v/A person is sword fighting-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is doing aerobics",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is doing aerobics-0.mp4",
+            "videos_t2v/A person is doing aerobics-1.mp4",
+            "videos_t2v/A person is doing aerobics-2.mp4",
+            "videos_t2v/A person is doing aerobics-3.mp4",
+            "videos_t2v/A person is doing aerobics-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is strumming guitar",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is strumming guitar-0.mp4",
+            "videos_t2v/A person is strumming guitar-1.mp4",
+            "videos_t2v/A person is strumming guitar-2.mp4",
+            "videos_t2v/A person is strumming guitar-3.mp4",
+            "videos_t2v/A person is strumming guitar-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is riding or walking with horse",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is riding or walking with horse-0.mp4",
+            "videos_t2v/A person is riding or walking with horse-1.mp4",
+            "videos_t2v/A person is riding or walking with horse-2.mp4",
+            "videos_t2v/A person is riding or walking with horse-3.mp4",
+            "videos_t2v/A person is riding or walking with horse-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is archery",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is archery-0.mp4",
+            "videos_t2v/A person is archery-1.mp4",
+            "videos_t2v/A person is archery-2.mp4",
+            "videos_t2v/A person is archery-3.mp4",
+            "videos_t2v/A person is archery-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is catching or throwing baseball",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is catching or throwing baseball-0.mp4",
+            "videos_t2v/A person is catching or throwing baseball-1.mp4",
+            "videos_t2v/A person is catching or throwing baseball-2.mp4",
+            "videos_t2v/A person is catching or throwing baseball-3.mp4",
+            "videos_t2v/A person is catching or throwing baseball-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is playing chess",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is playing chess-0.mp4",
+            "videos_t2v/A person is playing chess-1.mp4",
+            "videos_t2v/A person is playing chess-2.mp4",
+            "videos_t2v/A person is playing chess-3.mp4",
+            "videos_t2v/A person is playing chess-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is rock scissors paper",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is rock scissors paper-0.mp4",
+            "videos_t2v/A person is rock scissors paper-1.mp4",
+            "videos_t2v/A person is rock scissors paper-2.mp4",
+            "videos_t2v/A person is rock scissors paper-3.mp4",
+            "videos_t2v/A person is rock scissors paper-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is using computer",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is using computer-0.mp4",
+            "videos_t2v/A person is using computer-1.mp4",
+            "videos_t2v/A person is using computer-2.mp4",
+            "videos_t2v/A person is using computer-3.mp4",
+            "videos_t2v/A person is using computer-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is arranging flowers",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is arranging flowers-0.mp4",
+            "videos_t2v/A person is arranging flowers-1.mp4",
+            "videos_t2v/A person is arranging flowers-2.mp4",
+            "videos_t2v/A person is arranging flowers-3.mp4",
+            "videos_t2v/A person is arranging flowers-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is bending metal",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is bending metal-0.mp4",
+            "videos_t2v/A person is bending metal-1.mp4",
+            "videos_t2v/A person is bending metal-2.mp4",
+            "videos_t2v/A person is bending metal-3.mp4",
+            "videos_t2v/A person is bending metal-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is ice skating",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is ice skating-0.mp4",
+            "videos_t2v/A person is ice skating-1.mp4",
+            "videos_t2v/A person is ice skating-2.mp4",
+            "videos_t2v/A person is ice skating-3.mp4",
+            "videos_t2v/A person is ice skating-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is climbing a rope",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is climbing a rope-0.mp4",
+            "videos_t2v/A person is climbing a rope-1.mp4",
+            "videos_t2v/A person is climbing a rope-2.mp4",
+            "videos_t2v/A person is climbing a rope-3.mp4",
+            "videos_t2v/A person is climbing a rope-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is crying",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is crying-0.mp4",
+            "videos_t2v/A person is crying-1.mp4",
+            "videos_t2v/A person is crying-2.mp4",
+            "videos_t2v/A person is crying-3.mp4",
+            "videos_t2v/A person is crying-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is dancing ballet",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is dancing ballet-0.mp4",
+            "videos_t2v/A person is dancing ballet-1.mp4",
+            "videos_t2v/A person is dancing ballet-2.mp4",
+            "videos_t2v/A person is dancing ballet-3.mp4",
+            "videos_t2v/A person is dancing ballet-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is getting a haircut",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is getting a haircut-0.mp4",
+            "videos_t2v/A person is getting a haircut-1.mp4",
+            "videos_t2v/A person is getting a haircut-2.mp4",
+            "videos_t2v/A person is getting a haircut-3.mp4",
+            "videos_t2v/A person is getting a haircut-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is running on treadmill",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is running on treadmill-0.mp4",
+            "videos_t2v/A person is running on treadmill-1.mp4",
+            "videos_t2v/A person is running on treadmill-2.mp4",
+            "videos_t2v/A person is running on treadmill-3.mp4",
+            "videos_t2v/A person is running on treadmill-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is kissing",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is kissing-0.mp4",
+            "videos_t2v/A person is kissing-1.mp4",
+            "videos_t2v/A person is kissing-2.mp4",
+            "videos_t2v/A person is kissing-3.mp4",
+            "videos_t2v/A person is kissing-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is counting money",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is counting money-0.mp4",
+            "videos_t2v/A person is counting money-1.mp4",
+            "videos_t2v/A person is counting money-2.mp4",
+            "videos_t2v/A person is counting money-3.mp4",
+            "videos_t2v/A person is counting money-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is barbequing",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is barbequing-0.mp4",
+            "videos_t2v/A person is barbequing-1.mp4",
+            "videos_t2v/A person is barbequing-2.mp4",
+            "videos_t2v/A person is barbequing-3.mp4",
+            "videos_t2v/A person is barbequing-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is peeling apples",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is peeling apples-0.mp4",
+            "videos_t2v/A person is peeling apples-1.mp4",
+            "videos_t2v/A person is peeling apples-2.mp4",
+            "videos_t2v/A person is peeling apples-3.mp4",
+            "videos_t2v/A person is peeling apples-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is milking cow",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is milking cow-0.mp4",
+            "videos_t2v/A person is milking cow-1.mp4",
+            "videos_t2v/A person is milking cow-2.mp4",
+            "videos_t2v/A person is milking cow-3.mp4",
+            "videos_t2v/A person is milking cow-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is shining shoes",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is shining shoes-0.mp4",
+            "videos_t2v/A person is shining shoes-1.mp4",
+            "videos_t2v/A person is shining shoes-2.mp4",
+            "videos_t2v/A person is shining shoes-3.mp4",
+            "videos_t2v/A person is shining shoes-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is making snowman",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is making snowman-0.mp4",
+            "videos_t2v/A person is making snowman-1.mp4",
+            "videos_t2v/A person is making snowman-2.mp4",
+            "videos_t2v/A person is making snowman-3.mp4",
+            "videos_t2v/A person is making snowman-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is sailing",
+        "dimension": [
+            "human_action"
+        ],
+        "video_list": [
+            "videos_t2v/A person is sailing-0.mp4",
+            "videos_t2v/A person is sailing-1.mp4",
+            "videos_t2v/A person is sailing-2.mp4",
+            "videos_t2v/A person is sailing-3.mp4",
+            "videos_t2v/A person is sailing-4.mp4"
+        ]
+    }
+]

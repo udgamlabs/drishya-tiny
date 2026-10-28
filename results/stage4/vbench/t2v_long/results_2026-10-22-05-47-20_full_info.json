@@ -1,0 +1,1397 @@
+[
+    {
+        "prompt_en": "Close up of grapes on a rotating table.",
+        "dimension": [
+            "overall_consistency",
+            "aesthetic_quality",
+            "imaging_quality"
+        ],
+        "video_list": [
+            "videos_t2v_long/Close up of grapes on a rotating table.-0.mp4",
+            "videos_t2v_long/Close up of grapes on a rotating table.-1.mp4",
+            "videos_t2v_long/Close up of grapes on a rotating table.-2.mp4",
+            "videos_t2v_long/Close up of grapes on a rotating table.-3.mp4",
+            "videos_t2v_long/Close up of grapes on a rotating table.-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Turtle swimming in ocean.",
+        "dimension": [
+            "overall_consistency",
+            "aesthetic_quality",
+            "imaging_quality"
+        ],
+        "video_list": [
+            "videos_t2v_long/Turtle swimming in ocean.-0.mp4",
+            "videos_t2v_long/Turtle swimming in ocean.-1.mp4",
+            "videos_t2v_long/Turtle swimming in ocean.-2.mp4",
+            "videos_t2v_long/Turtle swimming in ocean.-3.mp4",
+            "videos_t2v_long/Turtle swimming in ocean.-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A storm trooper vacuuming the beach.",
+        "dimension": [
+            "overall_consistency",
+            "aesthetic_quality",
+            "imaging_quality"
+        ],
+        "video_list": [
+            "videos_t2v_long/A storm trooper vacuuming the beach.-0.mp4",
+            "videos_t2v_long/A storm trooper vacuuming the beach.-1.mp4",
+            "videos_t2v_long/A storm trooper vacuuming the beach.-2.mp4",
+            "videos_t2v_long/A storm trooper vacuuming the beach.-3.mp4",
+            "videos_t2v_long/A storm trooper vacuuming the beach.-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A panda standing on a surfboard in the ocean in sunset.",
+        "dimension": [
+            "overall_consistency",
+            "aesthetic_quality",
+            "imaging_quality"
+        ],
+        "video_list": [
+            "videos_t2v_long/A panda standing on a surfboard in the ocean in sunset.-0.mp4",
+            "videos_t2v_long/A panda standing on a surfboard in the ocean in sunset.-1.mp4",
+            "videos_t2v_long/A panda standing on a surfboard in the ocean in sunset.-2.mp4",
+            "videos_t2v_long/A panda standing on a surfboard in the ocean in sunset.-3.mp4",
+            "videos_t2v_long/A panda standing on a surfboard in the ocean in sunset.-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "An astronaut feeding ducks on a sunny afternoon, reflection from the water.",
+        "dimension": [
+            "overall_consistency",
+            "aesthetic_quality",
+            "imaging_quality"
+        ],
+        "video_list": [
+            "videos_t2v_long/An astronaut feeding ducks on a sunny afternoon, reflection from the water.-0.mp4",
+            "videos_t2v_long/An astronaut feeding ducks on a sunny afternoon, reflection from the water.-1.mp4",
+            "videos_t2v_long/An astronaut feeding ducks on a sunny afternoon, reflection from the water.-2.mp4",
+            "videos_t2v_long/An astronaut feeding ducks on a sunny afternoon, reflection from the water.-3.mp4",
+            "videos_t2v_long/An astronaut feeding ducks on a sunny afternoon, reflection from the water.-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Two pandas discussing an academic paper.",
+        "dimension": [
+            "overall_consistency",
+            "aesthetic_quality",
+            "imaging_quality"
+        ],
+        "video_list": [
+            "videos_t2v_long/Two pandas discussing an academic paper.-0.mp4",
+            "videos_t2v_long/Two pandas discussing an academic paper.-1.mp4",
+            "videos_t2v_long/Two pandas discussing an academic paper.-2.mp4",
+            "videos_t2v_long/Two pandas discussing an academic paper.-3.mp4",
+            "videos_t2v_long/Two pandas discussing an academic paper.-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Sunset time lapse at the beach with moving clouds and colors in the sky.",
+        "dimension": [
+            "overall_consistency",
+            "aesthetic_quality",
+            "imaging_quality"
+        ],
+        "video_list": [
+            "videos_t2v_long/Sunset time lapse at the beach with moving clouds and colors in the sky.-0.mp4",
+            "videos_t2v_long/Sunset time lapse at the beach with moving clouds and colors in the sky.-1.mp4",
+            "videos_t2v_long/Sunset time lapse at the beach with moving clouds and colors in the sky.-2.mp4",
+            "videos_t2v_long/Sunset time lapse at the beach with moving clouds and colors in the sky.-3.mp4",
+            "videos_t2v_long/Sunset time lapse at the beach with moving clouds and colors in the sky.-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A fat rabbit wearing a purple robe walking through a fantasy landscape.",
+        "dimension": [
+            "overall_consistency",
+            "aesthetic_quality",
+            "imaging_quality"
+        ],
+        "video_list": [
+            "videos_t2v_long/A fat rabbit wearing a purple robe walking through a fantasy landscape.-0.mp4",
+            "videos_t2v_long/A fat rabbit wearing a purple robe walking through a fantasy landscape.-1.mp4",
+            "videos_t2v_long/A fat rabbit wearing a purple robe walking through a fantasy landscape.-2.mp4",
+            "videos_t2v_long/A fat rabbit wearing a purple robe walking through a fantasy landscape.-3.mp4",
+            "videos_t2v_long/A fat rabbit wearing a purple robe walking through a fantasy landscape.-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A koala bear playing piano in the forest.",
+        "dimension": [
+            "overall_consistency",
+            "aesthetic_quality",
+            "imaging_quality"
+        ],
+        "video_list": [
+            "videos_t2v_long/A koala bear playing piano in the forest.-0.mp4",
+            "videos_t2v_long/A koala bear playing piano in the forest.-1.mp4",
+            "videos_t2v_long/A koala bear playing piano in the forest.-2.mp4",
+            "videos_t2v_long/A koala bear playing piano in the forest.-3.mp4",
+            "videos_t2v_long/A koala bear playing piano in the forest.-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "An astronaut flying in space.",
+        "dimension": [
+            "overall_consistency",
+            "aesthetic_quality",
+            "imaging_quality"
+        ],
+        "video_list": [
+            "videos_t2v_long/An astronaut flying in space.-0.mp4",
+            "videos_t2v_long/An astronaut flying in space.-1.mp4",
+            "videos_t2v_long/An astronaut flying in space.-2.mp4",
+            "videos_t2v_long/An astronaut flying in space.-3.mp4",
+            "videos_t2v_long/An astronaut flying in space.-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Fireworks.",
+        "dimension": [
+            "overall_consistency",
+            "aesthetic_quality",
+            "imaging_quality"
+        ],
+        "video_list": [
+            "videos_t2v_long/Fireworks.-0.mp4",
+            "videos_t2v_long/Fireworks.-1.mp4",
+            "videos_t2v_long/Fireworks.-2.mp4",
+            "videos_t2v_long/Fireworks.-3.mp4",
+            "videos_t2v_long/Fireworks.-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "An animated painting of fluffy white clouds moving in sky.",
+        "dimension": [
+            "overall_consistency",
+            "aesthetic_quality",
+            "imaging_quality"
+        ],
+        "video_list": [
+            "videos_t2v_long/An animated painting of fluffy white clouds moving in sky.-0.mp4",
+            "videos_t2v_long/An animated painting of fluffy white clouds moving in sky.-1.mp4",
+            "videos_t2v_long/An animated painting of fluffy white clouds moving in sky.-2.mp4",
+            "videos_t2v_long/An animated painting of fluffy white clouds moving in sky.-3.mp4",
+            "videos_t2v_long/An animated painting of fluffy white clouds moving in sky.-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Flying through fantasy landscapes.",
+        "dimension": [
+            "overall_consistency",
+            "aesthetic_quality",
+            "imaging_quality"
+        ],
+        "video_list": [
+            "videos_t2v_long/Flying through fantasy landscapes.-0.mp4",
+            "videos_t2v_long/Flying through fantasy landscapes.-1.mp4",
+            "videos_t2v_long/Flying through fantasy landscapes.-2.mp4",
+            "videos_t2v_long/Flying through fantasy landscapes.-3.mp4",
+            "videos_t2v_long/Flying through fantasy landscapes.-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A bigfoot walking in the snowstorm.",
+        "dimension": [
+            "overall_consistency",
+            "aesthetic_quality",
+            "imaging_quality"
+        ],
+        "video_list": [
+            "videos_t2v_long/A bigfoot walking in the snowstorm.-0.mp4",
+            "videos_t2v_long/A bigfoot walking in the snowstorm.-1.mp4",
+            "videos_t2v_long/A bigfoot walking in the snowstorm.-2.mp4",
+            "videos_t2v_long/A bigfoot walking in the snowstorm.-3.mp4",
+            "videos_t2v_long/A bigfoot walking in the snowstorm.-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A squirrel eating a burger.",
+        "dimension": [
+            "overall_consistency",
+            "aesthetic_quality",
+            "imaging_quality"
+        ],
+        "video_list": [
+            "videos_t2v_long/A squirrel eating a burger.-0.mp4",
+            "videos_t2v_long/A squirrel eating a burger.-1.mp4",
+            "videos_t2v_long/A squirrel eating a burger.-2.mp4",
+            "videos_t2v_long/A squirrel eating a burger.-3.mp4",
+            "videos_t2v_long/A squirrel eating a burger.-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A cat wearing sunglasses and working as a lifeguard at a pool.",
+        "dimension": [
+            "overall_consistency",
+            "aesthetic_quality",
+            "imaging_quality"
+        ],
+        "video_list": [
+            "videos_t2v_long/A cat wearing sunglasses and working as a lifeguard at a pool.-0.mp4",
+            "videos_t2v_long/A cat wearing sunglasses and working as a lifeguard at a pool.-1.mp4",
+            "videos_t2v_long/A cat wearing sunglasses and working as a lifeguard at a pool.-2.mp4",
+            "videos_t2v_long/A cat wearing sunglasses and working as a lifeguard at a pool.-3.mp4",
+            "videos_t2v_long/A cat wearing sunglasses and working as a lifeguard at a pool.-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks.",
+        "dimension": [
+            "overall_consistency",
+            "aesthetic_quality",
+            "imaging_quality"
+        ],
+        "video_list": [
+            "videos_t2v_long/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks.-0.mp4",
+            "videos_t2v_long/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks.-1.mp4",
+            "videos_t2v_long/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks.-2.mp4",
+            "videos_t2v_long/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks.-3.mp4",
+            "videos_t2v_long/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks.-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Splash of turquoise water in extreme slow motion, alpha channel included.",
+        "dimension": [
+            "overall_consistency",
+            "aesthetic_quality",
+            "imaging_quality"
+        ],
+        "video_list": [
+            "videos_t2v_long/Splash of turquoise water in extreme slow motion, alpha channel included.-0.mp4",
+            "videos_t2v_long/Splash of turquoise water in extreme slow motion, alpha channel included.-1.mp4",
+            "videos_t2v_long/Splash of turquoise water in extreme slow motion, alpha channel included.-2.mp4",
+            "videos_t2v_long/Splash of turquoise water in extreme slow motion, alpha channel included.-3.mp4",
+            "videos_t2v_long/Splash of turquoise water in extreme slow motion, alpha channel included.-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "an ice cream is melting on the table.",
+        "dimension": [
+            "overall_consistency",
+            "aesthetic_quality",
+            "imaging_quality"
+        ],
+        "video_list": [
+            "videos_t2v_long/an ice cream is melting on the table.-0.mp4",
+            "videos_t2v_long/an ice cream is melting on the table.-1.mp4",
+            "videos_t2v_long/an ice cream is melting on the table.-2.mp4",
+            "videos_t2v_long/an ice cream is melting on the table.-3.mp4",
+            "videos_t2v_long/an ice cream is melting on the table.-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a drone flying over a snowy forest.",
+        "dimension": [
+            "overall_consistency",
+            "aesthetic_quality",
+            "imaging_quality"
+        ],
+        "video_list": [
+            "videos_t2v_long/a drone flying over a snowy forest.-0.mp4",
+            "videos_t2v_long/a drone flying over a snowy forest.-1.mp4",
+            "videos_t2v_long/a drone flying over a snowy forest.-2.mp4",
+            "videos_t2v_long/a drone flying over a snowy forest.-3.mp4",
+            "videos_t2v_long/a drone flying over a snowy forest.-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a shark is swimming in the ocean.",
+        "dimension": [
+            "overall_consistency",
+            "aesthetic_quality",
+            "imaging_quality"
+        ],
+        "video_list": [
+            "videos_t2v_long/a shark is swimming in the ocean.-0.mp4",
+            "videos_t2v_long/a shark is swimming in the ocean.-1.mp4",
+            "videos_t2v_long/a shark is swimming in the ocean.-2.mp4",
+            "videos_t2v_long/a shark is swimming in the ocean.-3.mp4",
+            "videos_t2v_long/a shark is swimming in the ocean.-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Aerial panoramic video from a drone of a fantasy land.",
+        "dimension": [
+            "overall_consistency",
+            "aesthetic_quality",
+            "imaging_quality"
+        ],
+        "video_list": [
+            "videos_t2v_long/Aerial panoramic video from a drone of a fantasy land.-0.mp4",
+            "videos_t2v_long/Aerial panoramic video from a drone of a fantasy land.-1.mp4",
+            "videos_t2v_long/Aerial panoramic video from a drone of a fantasy land.-2.mp4",
+            "videos_t2v_long/Aerial panoramic video from a drone of a fantasy land.-3.mp4",
+            "videos_t2v_long/Aerial panoramic video from a drone of a fantasy land.-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a teddy bear is swimming in the ocean.",
+        "dimension": [
+            "overall_consistency",
+            "aesthetic_quality",
+            "imaging_quality"
+        ],
+        "video_list": [
+            "videos_t2v_long/a teddy bear is swimming in the ocean.-0.mp4",
+            "videos_t2v_long/a teddy bear is swimming in the ocean.-1.mp4",
+            "videos_t2v_long/a teddy bear is swimming in the ocean.-2.mp4",
+            "videos_t2v_long/a teddy bear is swimming in the ocean.-3.mp4",
+            "videos_t2v_long/a teddy bear is swimming in the ocean.-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "time lapse of sunrise on mars.",
+        "dimension": [
+            "overall_consistency",
+            "aesthetic_quality",
+            "imaging_quality"
+        ],
+        "video_list": [
+            "videos_t2v_long/time lapse of sunrise on mars.-0.mp4",
+            "videos_t2v_long/time lapse of sunrise on mars.-1.mp4",
+            "videos_t2v_long/time lapse of sunrise on mars.-2.mp4",
+            "videos_t2v_long/time lapse of sunrise on mars.-3.mp4",
+            "videos_t2v_long/time lapse of sunrise on mars.-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "golden fish swimming in the ocean.",
+        "dimension": [
+            "overall_consistency",
+            "aesthetic_quality",
+            "imaging_quality"
+        ],
+        "video_list": [
+            "videos_t2v_long/golden fish swimming in the ocean.-0.mp4",
+            "videos_t2v_long/golden fish swimming in the ocean.-1.mp4",
+            "videos_t2v_long/golden fish swimming in the ocean.-2.mp4",
+            "videos_t2v_long/golden fish swimming in the ocean.-3.mp4",
+            "videos_t2v_long/golden fish swimming in the ocean.-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "An artist brush painting on a canvas close up.",
+        "dimension": [
+            "overall_consistency",
+            "aesthetic_quality",
+            "imaging_quality"
+        ],
+        "video_list": [
+            "videos_t2v_long/An artist brush painting on a canvas close up.-0.mp4",
+            "videos_t2v_long/An artist brush painting on a canvas close up.-1.mp4",
+            "videos_t2v_long/An artist brush painting on a canvas close up.-2.mp4",
+            "videos_t2v_long/An artist brush painting on a canvas close up.-3.mp4",
+            "videos_t2v_long/An artist brush painting on a canvas close up.-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A drone view of celebration with Christmas tree and fireworks, starry sky - background.",
+        "dimension": [
+            "overall_consistency",
+            "aesthetic_quality",
+            "imaging_quality"
+        ],
+        "video_list": [
+            "videos_t2v_long/A drone view of celebration with Christmas tree and fireworks, starry sky - background.-0.mp4",
+            "videos_t2v_long/A drone view of celebration with Christmas tree and fireworks, starry sky - background.-1.mp4",
+            "videos_t2v_long/A drone view of celebration with Christmas tree and fireworks, starry sky - background.-2.mp4",
+            "videos_t2v_long/A drone view of celebration with Christmas tree and fireworks, starry sky - background.-3.mp4",
+            "videos_t2v_long/A drone view of celebration with Christmas tree and fireworks, starry sky - background.-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "happy dog wearing a yellow turtleneck, studio, portrait, facing camera, dark background",
+        "dimension": [
+            "overall_consistency",
+            "aesthetic_quality",
+            "imaging_quality"
+        ],
+        "video_list": [
+            "videos_t2v_long/happy dog wearing a yellow turtleneck, studio, portrait, facing camera, dark background-0.mp4",
+            "videos_t2v_long/happy dog wearing a yellow turtleneck, studio, portrait, facing camera, dark background-1.mp4",
+            "videos_t2v_long/happy dog wearing a yellow turtleneck, studio, portrait, facing camera, dark background-2.mp4",
+            "videos_t2v_long/happy dog wearing a yellow turtleneck, studio, portrait, facing camera, dark background-3.mp4",
+            "videos_t2v_long/happy dog wearing a yellow turtleneck, studio, portrait, facing camera, dark background-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Origami dancers in white paper, 3D render, on white background, studio shot, dancing modern dance.",
+        "dimension": [
+            "overall_consistency",
+            "aesthetic_quality",
+            "imaging_quality"
+        ],
+        "video_list": [
+            "videos_t2v_long/Origami dancers in white paper, 3D render, on white background, studio shot, dancing modern dance.-0.mp4",
+            "videos_t2v_long/Origami dancers in white paper, 3D render, on white background, studio shot, dancing modern dance.-1.mp4",
+            "videos_t2v_long/Origami dancers in white paper, 3D render, on white background, studio shot, dancing modern dance.-2.mp4",
+            "videos_t2v_long/Origami dancers in white paper, 3D render, on white background, studio shot, dancing modern dance.-3.mp4",
+            "videos_t2v_long/Origami dancers in white paper, 3D render, on white background, studio shot, dancing modern dance.-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Campfire at night in a snowy forest with starry sky in the background.",
+        "dimension": [
+            "overall_consistency",
+            "aesthetic_quality",
+            "imaging_quality"
+        ],
+        "video_list": [
+            "videos_t2v_long/Campfire at night in a snowy forest with starry sky in the background.-0.mp4",
+            "videos_t2v_long/Campfire at night in a snowy forest with starry sky in the background.-1.mp4",
+            "videos_t2v_long/Campfire at night in a snowy forest with starry sky in the background.-2.mp4",
+            "videos_t2v_long/Campfire at night in a snowy forest with starry sky in the background.-3.mp4",
+            "videos_t2v_long/Campfire at night in a snowy forest with starry sky in the background.-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a fantasy landscape",
+        "dimension": [
+            "overall_consistency",
+            "aesthetic_quality",
+            "imaging_quality"
+        ],
+        "video_list": [
+            "videos_t2v_long/a fantasy landscape-0.mp4",
+            "videos_t2v_long/a fantasy landscape-1.mp4",
+            "videos_t2v_long/a fantasy landscape-2.mp4",
+            "videos_t2v_long/a fantasy landscape-3.mp4",
+            "videos_t2v_long/a fantasy landscape-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A 3D model of a 1800s victorian house.",
+        "dimension": [
+            "overall_consistency",
+            "aesthetic_quality",
+            "imaging_quality"
+        ],
+        "video_list": [
+            "videos_t2v_long/A 3D model of a 1800s victorian house.-0.mp4",
+            "videos_t2v_long/A 3D model of a 1800s victorian house.-1.mp4",
+            "videos_t2v_long/A 3D model of a 1800s victorian house.-2.mp4",
+            "videos_t2v_long/A 3D model of a 1800s victorian house.-3.mp4",
+            "videos_t2v_long/A 3D model of a 1800s victorian house.-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "this is how I do makeup in the morning.",
+        "dimension": [
+            "overall_consistency",
+            "aesthetic_quality",
+            "imaging_quality"
+        ],
+        "video_list": [
+            "videos_t2v_long/this is how I do makeup in the morning.-0.mp4",
+            "videos_t2v_long/this is how I do makeup in the morning.-1.mp4",
+            "videos_t2v_long/this is how I do makeup in the morning.-2.mp4",
+            "videos_t2v_long/this is how I do makeup in the morning.-3.mp4",
+            "videos_t2v_long/this is how I do makeup in the morning.-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A raccoon that looks like a turtle, digital art.",
+        "dimension": [
+            "overall_consistency",
+            "aesthetic_quality",
+            "imaging_quality"
+        ],
+        "video_list": [
+            "videos_t2v_long/A raccoon that looks like a turtle, digital art.-0.mp4",
+            "videos_t2v_long/A raccoon that looks like a turtle, digital art.-1.mp4",
+            "videos_t2v_long/A raccoon that looks like a turtle, digital art.-2.mp4",
+            "videos_t2v_long/A raccoon that looks like a turtle, digital art.-3.mp4",
+            "videos_t2v_long/A raccoon that looks like a turtle, digital art.-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Robot dancing in Times Square.",
+        "dimension": [
+            "overall_consistency",
+            "aesthetic_quality",
+            "imaging_quality"
+        ],
+        "video_list": [
+            "videos_t2v_long/Robot dancing in Times Square.-0.mp4",
+            "videos_t2v_long/Robot dancing in Times Square.-1.mp4",
+            "videos_t2v_long/Robot dancing in Times Square.-2.mp4",
+            "videos_t2v_long/Robot dancing in Times Square.-3.mp4",
+            "videos_t2v_long/Robot dancing in Times Square.-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Busy freeway at night.",
+        "dimension": [
+            "overall_consistency",
+            "aesthetic_quality",
+            "imaging_quality"
+        ],
+        "video_list": [
+            "videos_t2v_long/Busy freeway at night.-0.mp4",
+            "videos_t2v_long/Busy freeway at night.-1.mp4",
+            "videos_t2v_long/Busy freeway at night.-2.mp4",
+            "videos_t2v_long/Busy freeway at night.-3.mp4",
+            "videos_t2v_long/Busy freeway at night.-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Balloon full of water exploding in extreme slow motion.",
+        "dimension": [
+            "overall_consistency",
+            "aesthetic_quality",
+            "imaging_quality"
+        ],
+        "video_list": [
+            "videos_t2v_long/Balloon full of water exploding in extreme slow motion.-0.mp4",
+            "videos_t2v_long/Balloon full of water exploding in extreme slow motion.-1.mp4",
+            "videos_t2v_long/Balloon full of water exploding in extreme slow motion.-2.mp4",
+            "videos_t2v_long/Balloon full of water exploding in extreme slow motion.-3.mp4",
+            "videos_t2v_long/Balloon full of water exploding in extreme slow motion.-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "An astronaut is riding a horse in the space in a photorealistic style.",
+        "dimension": [
+            "overall_consistency",
+            "aesthetic_quality",
+            "imaging_quality"
+        ],
+        "video_list": [
+            "videos_t2v_long/An astronaut is riding a horse in the space in a photorealistic style.-0.mp4",
+            "videos_t2v_long/An astronaut is riding a horse in the space in a photorealistic style.-1.mp4",
+            "videos_t2v_long/An astronaut is riding a horse in the space in a photorealistic style.-2.mp4",
+            "videos_t2v_long/An astronaut is riding a horse in the space in a photorealistic style.-3.mp4",
+            "videos_t2v_long/An astronaut is riding a horse in the space in a photorealistic style.-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Macro slo-mo. Slow motion cropped closeup of roasted coffee beans falling into an empty bowl.",
+        "dimension": [
+            "overall_consistency",
+            "aesthetic_quality",
+            "imaging_quality"
+        ],
+        "video_list": [
+            "videos_t2v_long/Macro slo-mo. Slow motion cropped closeup of roasted coffee beans falling into an empty bowl.-0.mp4",
+            "videos_t2v_long/Macro slo-mo. Slow motion cropped closeup of roasted coffee beans falling into an empty bowl.-1.mp4",
+            "videos_t2v_long/Macro slo-mo. Slow motion cropped closeup of roasted coffee beans falling into an empty bowl.-2.mp4",
+            "videos_t2v_long/Macro slo-mo. Slow motion cropped closeup of roasted coffee beans falling into an empty bowl.-3.mp4",
+            "videos_t2v_long/Macro slo-mo. Slow motion cropped closeup of roasted coffee beans falling into an empty bowl.-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Sewing machine, old sewing machine working.",
+        "dimension": [
+            "overall_consistency",
+            "aesthetic_quality",
+            "imaging_quality"
+        ],
+        "video_list": [
+            "videos_t2v_long/Sewing machine, old sewing machine working.-0.mp4",
+            "videos_t2v_long/Sewing machine, old sewing machine working.-1.mp4",
+            "videos_t2v_long/Sewing machine, old sewing machine working.-2.mp4",
+            "videos_t2v_long/Sewing machine, old sewing machine working.-3.mp4",
+            "videos_t2v_long/Sewing machine, old sewing machine working.-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Motion colour drop in water, ink swirling in water, colourful ink in water, abstraction fancy dream cloud of ink.",
+        "dimension": [
+            "overall_consistency",
+            "aesthetic_quality",
+            "imaging_quality"
+        ],
+        "video_list": [
+            "videos_t2v_long/Motion colour drop in water, ink swirling in water, colourful ink in water, abstraction fancy dream cloud of ink.-0.mp4",
+            "videos_t2v_long/Motion colour drop in water, ink swirling in water, colourful ink in water, abstraction fancy dream cloud of ink.-1.mp4",
+            "videos_t2v_long/Motion colour drop in water, ink swirling in water, colourful ink in water, abstraction fancy dream cloud of ink.-2.mp4",
+            "videos_t2v_long/Motion colour drop in water, ink swirling in water, colourful ink in water, abstraction fancy dream cloud of ink.-3.mp4",
+            "videos_t2v_long/Motion colour drop in water, ink swirling in water, colourful ink in water, abstraction fancy dream cloud of ink.-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Few big purple plums rotating on the turntable. water drops appear on the skin during rotation. isolated on the white background. close-up. macro.",
+        "dimension": [
+            "overall_consistency",
+            "aesthetic_quality",
+            "imaging_quality"
+        ],
+        "video_list": [
+            "videos_t2v_long/Few big purple plums rotating on the turntable. water drops appear on the skin during rotation. isolated on the white background. close-up. macro.-0.mp4",
+            "videos_t2v_long/Few big purple plums rotating on the turntable. water drops appear on the skin during rotation. isolated on the white background. close-up. macro.-1.mp4",
+            "videos_t2v_long/Few big purple plums rotating on the turntable. water drops appear on the skin during rotation. isolated on the white background. close-up. macro.-2.mp4",
+            "videos_t2v_long/Few big purple plums rotating on the turntable. water drops appear on the skin during rotation. isolated on the white background. close-up. macro.-3.mp4",
+            "videos_t2v_long/Few big purple plums rotating on the turntable. water drops appear on the skin during rotation. isolated on the white background. close-up. macro.-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Vampire makeup face of beautiful girl, red contact lenses.",
+        "dimension": [
+            "overall_consistency",
+            "aesthetic_quality",
+            "imaging_quality"
+        ],
+        "video_list": [
+            "videos_t2v_long/Vampire makeup face of beautiful girl, red contact lenses.-0.mp4",
+            "videos_t2v_long/Vampire makeup face of beautiful girl, red contact lenses.-1.mp4",
+            "videos_t2v_long/Vampire makeup face of beautiful girl, red contact lenses.-2.mp4",
+            "videos_t2v_long/Vampire makeup face of beautiful girl, red contact lenses.-3.mp4",
+            "videos_t2v_long/Vampire makeup face of beautiful girl, red contact lenses.-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Ashtray full of butts on table, smoke flowing on black background, close-up",
+        "dimension": [
+            "overall_consistency",
+            "aesthetic_quality",
+            "imaging_quality"
+        ],
+        "video_list": [
+            "videos_t2v_long/Ashtray full of butts on table, smoke flowing on black background, close-up-0.mp4",
+            "videos_t2v_long/Ashtray full of butts on table, smoke flowing on black background, close-up-1.mp4",
+            "videos_t2v_long/Ashtray full of butts on table, smoke flowing on black background, close-up-2.mp4",
+            "videos_t2v_long/Ashtray full of butts on table, smoke flowing on black background, close-up-3.mp4",
+            "videos_t2v_long/Ashtray full of butts on table, smoke flowing on black background, close-up-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Pacific coast, carmel by the sea ocean and waves.",
+        "dimension": [
+            "overall_consistency",
+            "aesthetic_quality",
+            "imaging_quality"
+        ],
+        "video_list": [
+            "videos_t2v_long/Pacific coast, carmel by the sea ocean and waves.-0.mp4",
+            "videos_t2v_long/Pacific coast, carmel by the sea ocean and waves.-1.mp4",
+            "videos_t2v_long/Pacific coast, carmel by the sea ocean and waves.-2.mp4",
+            "videos_t2v_long/Pacific coast, carmel by the sea ocean and waves.-3.mp4",
+            "videos_t2v_long/Pacific coast, carmel by the sea ocean and waves.-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A teddy bear is playing drum kit in NYC Times Square.",
+        "dimension": [
+            "overall_consistency",
+            "aesthetic_quality",
+            "imaging_quality"
+        ],
+        "video_list": [
+            "videos_t2v_long/A teddy bear is playing drum kit in NYC Times Square.-0.mp4",
+            "videos_t2v_long/A teddy bear is playing drum kit in NYC Times Square.-1.mp4",
+            "videos_t2v_long/A teddy bear is playing drum kit in NYC Times Square.-2.mp4",
+            "videos_t2v_long/A teddy bear is playing drum kit in NYC Times Square.-3.mp4",
+            "videos_t2v_long/A teddy bear is playing drum kit in NYC Times Square.-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A corgi is playing drum kit.",
+        "dimension": [
+            "overall_consistency",
+            "aesthetic_quality",
+            "imaging_quality"
+        ],
+        "video_list": [
+            "videos_t2v_long/A corgi is playing drum kit.-0.mp4",
+            "videos_t2v_long/A corgi is playing drum kit.-1.mp4",
+            "videos_t2v_long/A corgi is playing drum kit.-2.mp4",
+            "videos_t2v_long/A corgi is playing drum kit.-3.mp4",
+            "videos_t2v_long/A corgi is playing drum kit.-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "An Iron man is playing the electronic guitar, high electronic guitar.",
+        "dimension": [
+            "overall_consistency",
+            "aesthetic_quality",
+            "imaging_quality"
+        ],
+        "video_list": [
+            "videos_t2v_long/An Iron man is playing the electronic guitar, high electronic guitar.-0.mp4",
+            "videos_t2v_long/An Iron man is playing the electronic guitar, high electronic guitar.-1.mp4",
+            "videos_t2v_long/An Iron man is playing the electronic guitar, high electronic guitar.-2.mp4",
+            "videos_t2v_long/An Iron man is playing the electronic guitar, high electronic guitar.-3.mp4",
+            "videos_t2v_long/An Iron man is playing the electronic guitar, high electronic guitar.-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A raccoon is playing the electronic guitar.",
+        "dimension": [
+            "overall_consistency",
+            "aesthetic_quality",
+            "imaging_quality"
+        ],
+        "video_list": [
+            "videos_t2v_long/A raccoon is playing the electronic guitar.-0.mp4",
+            "videos_t2v_long/A raccoon is playing the electronic guitar.-1.mp4",
+            "videos_t2v_long/A raccoon is playing the electronic guitar.-2.mp4",
+            "videos_t2v_long/A raccoon is playing the electronic guitar.-3.mp4",
+            "videos_t2v_long/A raccoon is playing the electronic guitar.-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A boat sailing leisurely along the Seine River with the Eiffel Tower in background by Vincent van Gogh",
+        "dimension": [
+            "overall_consistency",
+            "aesthetic_quality",
+            "imaging_quality"
+        ],
+        "video_list": [
+            "videos_t2v_long/A boat sailing leisurely along the Seine River with the Eiffel Tower in background by Vincent van Gogh-0.mp4",
+            "videos_t2v_long/A boat sailing leisurely along the Seine River with the Eiffel Tower in background by Vincent van Gogh-1.mp4",
+            "videos_t2v_long/A boat sailing leisurely along the Seine River with the Eiffel Tower in background by Vincent van Gogh-2.mp4",
+            "videos_t2v_long/A boat sailing leisurely along the Seine River with the Eiffel Tower in background by Vincent van Gogh-3.mp4",
+            "videos_t2v_long/A boat sailing leisurely along the Seine River with the Eiffel Tower in background by Vincent van Gogh-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A corgi's head depicted as an explosion of a nebula",
+        "dimension": [
+            "overall_consistency",
+            "aesthetic_quality",
+            "imaging_quality"
+        ],
+        "video_list": [
+            "videos_t2v_long/A corgi's head depicted as an explosion of a nebula-0.mp4",
+            "videos_t2v_long/A corgi's head depicted as an explosion of a nebula-1.mp4",
+            "videos_t2v_long/A corgi's head depicted as an explosion of a nebula-2.mp4",
+            "videos_t2v_long/A corgi's head depicted as an explosion of a nebula-3.mp4",
+            "videos_t2v_long/A corgi's head depicted as an explosion of a nebula-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A fantasy landscape",
+        "dimension": [
+            "overall_consistency",
+            "aesthetic_quality",
+            "imaging_quality"
+        ],
+        "video_list": [
+            "videos_t2v_long/A fantasy landscape-0.mp4",
+            "videos_t2v_long/A fantasy landscape-1.mp4",
+            "videos_t2v_long/A fantasy landscape-2.mp4",
+            "videos_t2v_long/A fantasy landscape-3.mp4",
+            "videos_t2v_long/A fantasy landscape-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A future where humans have achieved teleportation technology",
+        "dimension": [
+            "overall_consistency",
+            "aesthetic_quality",
+            "imaging_quality"
+        ],
+        "video_list": [
+            "videos_t2v_long/A future where humans have achieved teleportation technology-0.mp4",
+            "videos_t2v_long/A future where humans have achieved teleportation technology-1.mp4",
+            "videos_t2v_long/A future where humans have achieved teleportation technology-2.mp4",
+            "videos_t2v_long/A future where humans have achieved teleportation technology-3.mp4",
+            "videos_t2v_long/A future where humans have achieved teleportation technology-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A jellyfish floating through the ocean, with bioluminescent tentacles",
+        "dimension": [
+            "overall_consistency",
+            "aesthetic_quality",
+            "imaging_quality"
+        ],
+        "video_list": [
+            "videos_t2v_long/A jellyfish floating through the ocean, with bioluminescent tentacles-0.mp4",
+            "videos_t2v_long/A jellyfish floating through the ocean, with bioluminescent tentacles-1.mp4",
+            "videos_t2v_long/A jellyfish floating through the ocean, with bioluminescent tentacles-2.mp4",
+            "videos_t2v_long/A jellyfish floating through the ocean, with bioluminescent tentacles-3.mp4",
+            "videos_t2v_long/A jellyfish floating through the ocean, with bioluminescent tentacles-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A Mars rover moving on Mars",
+        "dimension": [
+            "overall_consistency",
+            "aesthetic_quality",
+            "imaging_quality"
+        ],
+        "video_list": [
+            "videos_t2v_long/A Mars rover moving on Mars-0.mp4",
+            "videos_t2v_long/A Mars rover moving on Mars-1.mp4",
+            "videos_t2v_long/A Mars rover moving on Mars-2.mp4",
+            "videos_t2v_long/A Mars rover moving on Mars-3.mp4",
+            "videos_t2v_long/A Mars rover moving on Mars-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A panda drinking coffee in a cafe in Paris",
+        "dimension": [
+            "overall_consistency",
+            "aesthetic_quality",
+            "imaging_quality"
+        ],
+        "video_list": [
+            "videos_t2v_long/A panda drinking coffee in a cafe in Paris-0.mp4",
+            "videos_t2v_long/A panda drinking coffee in a cafe in Paris-1.mp4",
+            "videos_t2v_long/A panda drinking coffee in a cafe in Paris-2.mp4",
+            "videos_t2v_long/A panda drinking coffee in a cafe in Paris-3.mp4",
+            "videos_t2v_long/A panda drinking coffee in a cafe in Paris-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A space shuttle launching into orbit, with flames and smoke billowing out from the engines",
+        "dimension": [
+            "overall_consistency",
+            "aesthetic_quality",
+            "imaging_quality"
+        ],
+        "video_list": [
+            "videos_t2v_long/A space shuttle launching into orbit, with flames and smoke billowing out from the engines-0.mp4",
+            "videos_t2v_long/A space shuttle launching into orbit, with flames and smoke billowing out from the engines-1.mp4",
+            "videos_t2v_long/A space shuttle launching into orbit, with flames and smoke billowing out from the engines-2.mp4",
+            "videos_t2v_long/A space shuttle launching into orbit, with flames and smoke billowing out from the engines-3.mp4",
+            "videos_t2v_long/A space shuttle launching into orbit, with flames and smoke billowing out from the engines-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A steam train moving on a mountainside",
+        "dimension": [
+            "overall_consistency",
+            "aesthetic_quality",
+            "imaging_quality"
+        ],
+        "video_list": [
+            "videos_t2v_long/A steam train moving on a mountainside-0.mp4",
+            "videos_t2v_long/A steam train moving on a mountainside-1.mp4",
+            "videos_t2v_long/A steam train moving on a mountainside-2.mp4",
+            "videos_t2v_long/A steam train moving on a mountainside-3.mp4",
+            "videos_t2v_long/A steam train moving on a mountainside-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A super cool giant robot in Cyberpunk Beijing",
+        "dimension": [
+            "overall_consistency",
+            "aesthetic_quality",
+            "imaging_quality"
+        ],
+        "video_list": [
+            "videos_t2v_long/A super cool giant robot in Cyberpunk Beijing-0.mp4",
+            "videos_t2v_long/A super cool giant robot in Cyberpunk Beijing-1.mp4",
+            "videos_t2v_long/A super cool giant robot in Cyberpunk Beijing-2.mp4",
+            "videos_t2v_long/A super cool giant robot in Cyberpunk Beijing-3.mp4",
+            "videos_t2v_long/A super cool giant robot in Cyberpunk Beijing-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A tropical beach at sunrise, with palm trees and crystal-clear water in the foreground",
+        "dimension": [
+            "overall_consistency",
+            "aesthetic_quality",
+            "imaging_quality"
+        ],
+        "video_list": [
+            "videos_t2v_long/A tropical beach at sunrise, with palm trees and crystal-clear water in the foreground-0.mp4",
+            "videos_t2v_long/A tropical beach at sunrise, with palm trees and crystal-clear water in the foreground-1.mp4",
+            "videos_t2v_long/A tropical beach at sunrise, with palm trees and crystal-clear water in the foreground-2.mp4",
+            "videos_t2v_long/A tropical beach at sunrise, with palm trees and crystal-clear water in the foreground-3.mp4",
+            "videos_t2v_long/A tropical beach at sunrise, with palm trees and crystal-clear water in the foreground-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Cinematic shot of Van Gogh's selfie, Van Gogh style",
+        "dimension": [
+            "overall_consistency",
+            "aesthetic_quality",
+            "imaging_quality"
+        ],
+        "video_list": [
+            "videos_t2v_long/Cinematic shot of Van Gogh's selfie, Van Gogh style-0.mp4",
+            "videos_t2v_long/Cinematic shot of Van Gogh's selfie, Van Gogh style-1.mp4",
+            "videos_t2v_long/Cinematic shot of Van Gogh's selfie, Van Gogh style-2.mp4",
+            "videos_t2v_long/Cinematic shot of Van Gogh's selfie, Van Gogh style-3.mp4",
+            "videos_t2v_long/Cinematic shot of Van Gogh's selfie, Van Gogh style-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Gwen Stacy reading a book",
+        "dimension": [
+            "overall_consistency",
+            "aesthetic_quality",
+            "imaging_quality"
+        ],
+        "video_list": [
+            "videos_t2v_long/Gwen Stacy reading a book-0.mp4",
+            "videos_t2v_long/Gwen Stacy reading a book-1.mp4",
+            "videos_t2v_long/Gwen Stacy reading a book-2.mp4",
+            "videos_t2v_long/Gwen Stacy reading a book-3.mp4",
+            "videos_t2v_long/Gwen Stacy reading a book-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Iron Man flying in the sky",
+        "dimension": [
+            "overall_consistency",
+            "aesthetic_quality",
+            "imaging_quality"
+        ],
+        "video_list": [
+            "videos_t2v_long/Iron Man flying in the sky-0.mp4",
+            "videos_t2v_long/Iron Man flying in the sky-1.mp4",
+            "videos_t2v_long/Iron Man flying in the sky-2.mp4",
+            "videos_t2v_long/Iron Man flying in the sky-3.mp4",
+            "videos_t2v_long/Iron Man flying in the sky-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "The bund Shanghai, oil painting",
+        "dimension": [
+            "overall_consistency",
+            "aesthetic_quality",
+            "imaging_quality"
+        ],
+        "video_list": [
+            "videos_t2v_long/The bund Shanghai, oil painting-0.mp4",
+            "videos_t2v_long/The bund Shanghai, oil painting-1.mp4",
+            "videos_t2v_long/The bund Shanghai, oil painting-2.mp4",
+            "videos_t2v_long/The bund Shanghai, oil painting-3.mp4",
+            "videos_t2v_long/The bund Shanghai, oil painting-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Yoda playing guitar on the stage",
+        "dimension": [
+            "overall_consistency",
+            "aesthetic_quality",
+            "imaging_quality"
+        ],
+        "video_list": [
+            "videos_t2v_long/Yoda playing guitar on the stage-0.mp4",
+            "videos_t2v_long/Yoda playing guitar on the stage-1.mp4",
+            "videos_t2v_long/Yoda playing guitar on the stage-2.mp4",
+            "videos_t2v_long/Yoda playing guitar on the stage-3.mp4",
+            "videos_t2v_long/Yoda playing guitar on the stage-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A beautiful coastal beach in spring, waves lapping on sand by Hokusai, in the style of Ukiyo",
+        "dimension": [
+            "overall_consistency",
+            "aesthetic_quality",
+            "imaging_quality"
+        ],
+        "video_list": [
+            "videos_t2v_long/A beautiful coastal beach in spring, waves lapping on sand by Hokusai, in the style of Ukiyo-0.mp4",
+            "videos_t2v_long/A beautiful coastal beach in spring, waves lapping on sand by Hokusai, in the style of Ukiyo-1.mp4",
+            "videos_t2v_long/A beautiful coastal beach in spring, waves lapping on sand by Hokusai, in the style of Ukiyo-2.mp4",
+            "videos_t2v_long/A beautiful coastal beach in spring, waves lapping on sand by Hokusai, in the style of Ukiyo-3.mp4",
+            "videos_t2v_long/A beautiful coastal beach in spring, waves lapping on sand by Hokusai, in the style of Ukiyo-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A beautiful coastal beach in spring, waves lapping on sand by Vincent van Gogh",
+        "dimension": [
+            "overall_consistency",
+            "aesthetic_quality",
+            "imaging_quality"
+        ],
+        "video_list": [
+            "videos_t2v_long/A beautiful coastal beach in spring, waves lapping on sand by Vincent van Gogh-0.mp4",
+            "videos_t2v_long/A beautiful coastal beach in spring, waves lapping on sand by Vincent van Gogh-1.mp4",
+            "videos_t2v_long/A beautiful coastal beach in spring, waves lapping on sand by Vincent van Gogh-2.mp4",
+            "videos_t2v_long/A beautiful coastal beach in spring, waves lapping on sand by Vincent van Gogh-3.mp4",
+            "videos_t2v_long/A beautiful coastal beach in spring, waves lapping on sand by Vincent van Gogh-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A boat sailing leisurely along the Seine River with the Eiffel Tower in background",
+        "dimension": [
+            "overall_consistency",
+            "aesthetic_quality",
+            "imaging_quality"
+        ],
+        "video_list": [
+            "videos_t2v_long/A boat sailing leisurely along the Seine River with the Eiffel Tower in background-0.mp4",
+            "videos_t2v_long/A boat sailing leisurely along the Seine River with the Eiffel Tower in background-1.mp4",
+            "videos_t2v_long/A boat sailing leisurely along the Seine River with the Eiffel Tower in background-2.mp4",
+            "videos_t2v_long/A boat sailing leisurely along the Seine River with the Eiffel Tower in background-3.mp4",
+            "videos_t2v_long/A boat sailing leisurely along the Seine River with the Eiffel Tower in background-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A car moving slowly on an empty street, rainy evening",
+        "dimension": [
+            "overall_consistency",
+            "aesthetic_quality",
+            "imaging_quality"
+        ],
+        "video_list": [
+            "videos_t2v_long/A car moving slowly on an empty street, rainy evening-0.mp4",
+            "videos_t2v_long/A car moving slowly on an empty street, rainy evening-1.mp4",
+            "videos_t2v_long/A car moving slowly on an empty street, rainy evening-2.mp4",
+            "videos_t2v_long/A car moving slowly on an empty street, rainy evening-3.mp4",
+            "videos_t2v_long/A car moving slowly on an empty street, rainy evening-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A cat eating food out of a bowl",
+        "dimension": [
+            "overall_consistency",
+            "aesthetic_quality",
+            "imaging_quality"
+        ],
+        "video_list": [
+            "videos_t2v_long/A cat eating food out of a bowl-0.mp4",
+            "videos_t2v_long/A cat eating food out of a bowl-1.mp4",
+            "videos_t2v_long/A cat eating food out of a bowl-2.mp4",
+            "videos_t2v_long/A cat eating food out of a bowl-3.mp4",
+            "videos_t2v_long/A cat eating food out of a bowl-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A cat wearing sunglasses at a pool",
+        "dimension": [
+            "overall_consistency",
+            "aesthetic_quality",
+            "imaging_quality"
+        ],
+        "video_list": [
+            "videos_t2v_long/A cat wearing sunglasses at a pool-0.mp4",
+            "videos_t2v_long/A cat wearing sunglasses at a pool-1.mp4",
+            "videos_t2v_long/A cat wearing sunglasses at a pool-2.mp4",
+            "videos_t2v_long/A cat wearing sunglasses at a pool-3.mp4",
+            "videos_t2v_long/A cat wearing sunglasses at a pool-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A confused panda in calculus class",
+        "dimension": [
+            "overall_consistency",
+            "aesthetic_quality",
+            "imaging_quality"
+        ],
+        "video_list": [
+            "videos_t2v_long/A confused panda in calculus class-0.mp4",
+            "videos_t2v_long/A confused panda in calculus class-1.mp4",
+            "videos_t2v_long/A confused panda in calculus class-2.mp4",
+            "videos_t2v_long/A confused panda in calculus class-3.mp4",
+            "videos_t2v_long/A confused panda in calculus class-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A cute fluffy panda eating Chinese food in a restaurant",
+        "dimension": [
+            "overall_consistency",
+            "aesthetic_quality",
+            "imaging_quality"
+        ],
+        "video_list": [
+            "videos_t2v_long/A cute fluffy panda eating Chinese food in a restaurant-0.mp4",
+            "videos_t2v_long/A cute fluffy panda eating Chinese food in a restaurant-1.mp4",
+            "videos_t2v_long/A cute fluffy panda eating Chinese food in a restaurant-2.mp4",
+            "videos_t2v_long/A cute fluffy panda eating Chinese food in a restaurant-3.mp4",
+            "videos_t2v_long/A cute fluffy panda eating Chinese food in a restaurant-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A cute happy Corgi playing in park, sunset",
+        "dimension": [
+            "overall_consistency",
+            "aesthetic_quality",
+            "imaging_quality"
+        ],
+        "video_list": [
+            "videos_t2v_long/A cute happy Corgi playing in park, sunset-0.mp4",
+            "videos_t2v_long/A cute happy Corgi playing in park, sunset-1.mp4",
+            "videos_t2v_long/A cute happy Corgi playing in park, sunset-2.mp4",
+            "videos_t2v_long/A cute happy Corgi playing in park, sunset-3.mp4",
+            "videos_t2v_long/A cute happy Corgi playing in park, sunset-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A cute raccoon playing guitar in a boat on the ocean",
+        "dimension": [
+            "overall_consistency",
+            "aesthetic_quality",
+            "imaging_quality"
+        ],
+        "video_list": [
+            "videos_t2v_long/A cute raccoon playing guitar in a boat on the ocean-0.mp4",
+            "videos_t2v_long/A cute raccoon playing guitar in a boat on the ocean-1.mp4",
+            "videos_t2v_long/A cute raccoon playing guitar in a boat on the ocean-2.mp4",
+            "videos_t2v_long/A cute raccoon playing guitar in a boat on the ocean-3.mp4",
+            "videos_t2v_long/A cute raccoon playing guitar in a boat on the ocean-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A happy fuzzy panda playing guitar nearby a campfire, snow mountain in the background",
+        "dimension": [
+            "overall_consistency",
+            "aesthetic_quality",
+            "imaging_quality"
+        ],
+        "video_list": [
+            "videos_t2v_long/A happy fuzzy panda playing guitar nearby a campfire, snow mountain in the background-0.mp4",
+            "videos_t2v_long/A happy fuzzy panda playing guitar nearby a campfire, snow mountain in the background-1.mp4",
+            "videos_t2v_long/A happy fuzzy panda playing guitar nearby a campfire, snow mountain in the background-2.mp4",
+            "videos_t2v_long/A happy fuzzy panda playing guitar nearby a campfire, snow mountain in the background-3.mp4",
+            "videos_t2v_long/A happy fuzzy panda playing guitar nearby a campfire, snow mountain in the background-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A lightning striking atop of eiffel tower, dark clouds in the sky",
+        "dimension": [
+            "overall_consistency",
+            "aesthetic_quality",
+            "imaging_quality"
+        ],
+        "video_list": [
+            "videos_t2v_long/A lightning striking atop of eiffel tower, dark clouds in the sky-0.mp4",
+            "videos_t2v_long/A lightning striking atop of eiffel tower, dark clouds in the sky-1.mp4",
+            "videos_t2v_long/A lightning striking atop of eiffel tower, dark clouds in the sky-2.mp4",
+            "videos_t2v_long/A lightning striking atop of eiffel tower, dark clouds in the sky-3.mp4",
+            "videos_t2v_long/A lightning striking atop of eiffel tower, dark clouds in the sky-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A modern art museum, with colorful paintings",
+        "dimension": [
+            "overall_consistency",
+            "aesthetic_quality",
+            "imaging_quality"
+        ],
+        "video_list": [
+            "videos_t2v_long/A modern art museum, with colorful paintings-0.mp4",
+            "videos_t2v_long/A modern art museum, with colorful paintings-1.mp4",
+            "videos_t2v_long/A modern art museum, with colorful paintings-2.mp4",
+            "videos_t2v_long/A modern art museum, with colorful paintings-3.mp4",
+            "videos_t2v_long/A modern art museum, with colorful paintings-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A panda cooking in the kitchen",
+        "dimension": [
+            "overall_consistency",
+            "aesthetic_quality",
+            "imaging_quality"
+        ],
+        "video_list": [
+            "videos_t2v_long/A panda cooking in the kitchen-0.mp4",
+            "videos_t2v_long/A panda cooking in the kitchen-1.mp4",
+            "videos_t2v_long/A panda cooking in the kitchen-2.mp4",
+            "videos_t2v_long/A panda cooking in the kitchen-3.mp4",
+            "videos_t2v_long/A panda cooking in the kitchen-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A panda playing on a swing set",
+        "dimension": [
+            "overall_consistency",
+            "aesthetic_quality",
+            "imaging_quality"
+        ],
+        "video_list": [
+            "videos_t2v_long/A panda playing on a swing set-0.mp4",
+            "videos_t2v_long/A panda playing on a swing set-1.mp4",
+            "videos_t2v_long/A panda playing on a swing set-2.mp4",
+            "videos_t2v_long/A panda playing on a swing set-3.mp4",
+            "videos_t2v_long/A panda playing on a swing set-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A polar bear is playing guitar",
+        "dimension": [
+            "overall_consistency",
+            "aesthetic_quality",
+            "imaging_quality"
+        ],
+        "video_list": [
+            "videos_t2v_long/A polar bear is playing guitar-0.mp4",
+            "videos_t2v_long/A polar bear is playing guitar-1.mp4",
+            "videos_t2v_long/A polar bear is playing guitar-2.mp4",
+            "videos_t2v_long/A polar bear is playing guitar-3.mp4",
+            "videos_t2v_long/A polar bear is playing guitar-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A raccoon dressed in suit playing the trumpet, stage background",
+        "dimension": [
+            "overall_consistency",
+            "aesthetic_quality",
+            "imaging_quality"
+        ],
+        "video_list": [
+            "videos_t2v_long/A raccoon dressed in suit playing the trumpet, stage background-0.mp4",
+            "videos_t2v_long/A raccoon dressed in suit playing the trumpet, stage background-1.mp4",
+            "videos_t2v_long/A raccoon dressed in suit playing the trumpet, stage background-2.mp4",
+            "videos_t2v_long/A raccoon dressed in suit playing the trumpet, stage background-3.mp4",
+            "videos_t2v_long/A raccoon dressed in suit playing the trumpet, stage background-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A robot DJ is playing the turntable, in heavy raining futuristic tokyo rooftop cyberpunk night, sci-fi, fantasy",
+        "dimension": [
+            "overall_consistency",
+            "aesthetic_quality",
+            "imaging_quality"
+        ],
+        "video_list": [
+            "videos_t2v_long/A robot DJ is playing the turntable, in heavy raining futuristic tokyo rooftop cyberpunk night, sci-fi, fantasy-0.mp4",
+            "videos_t2v_long/A robot DJ is playing the turntable, in heavy raining futuristic tokyo rooftop cyberpunk night, sci-fi, fantasy-1.mp4",
+            "videos_t2v_long/A robot DJ is playing the turntable, in heavy raining futuristic tokyo rooftop cyberpunk night, sci-fi, fantasy-2.mp4",
+            "videos_t2v_long/A robot DJ is playing the turntable, in heavy raining futuristic tokyo rooftop cyberpunk night, sci-fi, fantasy-3.mp4",
+            "videos_t2v_long/A robot DJ is playing the turntable, in heavy raining futuristic tokyo rooftop cyberpunk night, sci-fi, fantasy-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A shark swimming in clear Caribbean ocean",
+        "dimension": [
+            "overall_consistency",
+            "aesthetic_quality",
+            "imaging_quality"
+        ],
+        "video_list": [
+            "videos_t2v_long/A shark swimming in clear Caribbean ocean-0.mp4",
+            "videos_t2v_long/A shark swimming in clear Caribbean ocean-1.mp4",
+            "videos_t2v_long/A shark swimming in clear Caribbean ocean-2.mp4",
+            "videos_t2v_long/A shark swimming in clear Caribbean ocean-3.mp4",
+            "videos_t2v_long/A shark swimming in clear Caribbean ocean-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A super robot protecting city",
+        "dimension": [
+            "overall_consistency",
+            "aesthetic_quality",
+            "imaging_quality"
+        ],
+        "video_list": [
+            "videos_t2v_long/A super robot protecting city-0.mp4",
+            "videos_t2v_long/A super robot protecting city-1.mp4",
+            "videos_t2v_long/A super robot protecting city-2.mp4",
+            "videos_t2v_long/A super robot protecting city-3.mp4",
+            "videos_t2v_long/A super robot protecting city-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A teddy bear washing the dishes",
+        "dimension": [
+            "overall_consistency",
+            "aesthetic_quality",
+            "imaging_quality"
+        ],
+        "video_list": [
+            "videos_t2v_long/A teddy bear washing the dishes-0.mp4",
+            "videos_t2v_long/A teddy bear washing the dishes-1.mp4",
+            "videos_t2v_long/A teddy bear washing the dishes-2.mp4",
+            "videos_t2v_long/A teddy bear washing the dishes-3.mp4",
+            "videos_t2v_long/A teddy bear washing the dishes-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "An epic tornado attacking above a glowing city at night, the tornado is made of smoke",
+        "dimension": [
+            "overall_consistency",
+            "aesthetic_quality",
+            "imaging_quality"
+        ],
+        "video_list": [
+            "videos_t2v_long/An epic tornado attacking above a glowing city at night, the tornado is made of smoke-0.mp4",
+            "videos_t2v_long/An epic tornado attacking above a glowing city at night, the tornado is made of smoke-1.mp4",
+            "videos_t2v_long/An epic tornado attacking above a glowing city at night, the tornado is made of smoke-2.mp4",
+            "videos_t2v_long/An epic tornado attacking above a glowing city at night, the tornado is made of smoke-3.mp4",
+            "videos_t2v_long/An epic tornado attacking above a glowing city at night, the tornado is made of smoke-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "An oil painting of a couple in formal evening wear going home get caught in a heavy downpour with umbrellas",
+        "dimension": [
+            "overall_consistency",
+            "aesthetic_quality",
+            "imaging_quality"
+        ],
+        "video_list": [
+            "videos_t2v_long/An oil painting of a couple in formal evening wear going home get caught in a heavy downpour with umbrellas-0.mp4",
+            "videos_t2v_long/An oil painting of a couple in formal evening wear going home get caught in a heavy downpour with umbrellas-1.mp4",
+            "videos_t2v_long/An oil painting of a couple in formal evening wear going home get caught in a heavy downpour with umbrellas-2.mp4",
+            "videos_t2v_long/An oil painting of a couple in formal evening wear going home get caught in a heavy downpour with umbrellas-3.mp4",
+            "videos_t2v_long/An oil painting of a couple in formal evening wear going home get caught in a heavy downpour with umbrellas-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Clown fish swimming through the coral reef",
+        "dimension": [
+            "overall_consistency",
+            "aesthetic_quality",
+            "imaging_quality"
+        ],
+        "video_list": [
+            "videos_t2v_long/Clown fish swimming through the coral reef-0.mp4",
+            "videos_t2v_long/Clown fish swimming through the coral reef-1.mp4",
+            "videos_t2v_long/Clown fish swimming through the coral reef-2.mp4",
+            "videos_t2v_long/Clown fish swimming through the coral reef-3.mp4",
+            "videos_t2v_long/Clown fish swimming through the coral reef-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Hyper-realistic spaceship landing on Mars",
+        "dimension": [
+            "overall_consistency",
+            "aesthetic_quality",
+            "imaging_quality"
+        ],
+        "video_list": [
+            "videos_t2v_long/Hyper-realistic spaceship landing on Mars-0.mp4",
+            "videos_t2v_long/Hyper-realistic spaceship landing on Mars-1.mp4",
+            "videos_t2v_long/Hyper-realistic spaceship landing on Mars-2.mp4",
+            "videos_t2v_long/Hyper-realistic spaceship landing on Mars-3.mp4",
+            "videos_t2v_long/Hyper-realistic spaceship landing on Mars-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "The bund Shanghai, vibrant color",
+        "dimension": [
+            "overall_consistency",
+            "aesthetic_quality",
+            "imaging_quality"
+        ],
+        "video_list": [
+            "videos_t2v_long/The bund Shanghai, vibrant color-0.mp4",
+            "videos_t2v_long/The bund Shanghai, vibrant color-1.mp4",
+            "videos_t2v_long/The bund Shanghai, vibrant color-2.mp4",
+            "videos_t2v_long/The bund Shanghai, vibrant color-3.mp4",
+            "videos_t2v_long/The bund Shanghai, vibrant color-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Vincent van Gogh is painting in the room",
+        "dimension": [
+            "overall_consistency",
+            "aesthetic_quality",
+            "imaging_quality"
+        ],
+        "video_list": [
+            "videos_t2v_long/Vincent van Gogh is painting in the room-0.mp4",
+            "videos_t2v_long/Vincent van Gogh is painting in the room-1.mp4",
+            "videos_t2v_long/Vincent van Gogh is painting in the room-2.mp4",
+            "videos_t2v_long/Vincent van Gogh is painting in the room-3.mp4",
+            "videos_t2v_long/Vincent van Gogh is painting in the room-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Yellow flowers swing in the wind",
+        "dimension": [
+            "overall_consistency",
+            "aesthetic_quality",
+            "imaging_quality"
+        ],
+        "video_list": [
+            "videos_t2v_long/Yellow flowers swing in the wind-0.mp4",
+            "videos_t2v_long/Yellow flowers swing in the wind-1.mp4",
+            "videos_t2v_long/Yellow flowers swing in the wind-2.mp4",
+            "videos_t2v_long/Yellow flowers swing in the wind-3.mp4",
+            "videos_t2v_long/Yellow flowers swing in the wind-4.mp4"
+        ]
+    }
+]

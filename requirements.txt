@@ -1,0 +1,16 @@
+# Training, data prep, FVD and sampling for Drishya Tiny (Python 3.12).
+# The release model was trained with torch 2.13 (CUDA 12.9); the tests also pass with torch 2.14.1 on a Mac (CPU).
+# VBench scoring needs its own environment: eval/requirements-vbench.txt.
+torch>=2.13
+torchvision
+diffusers==0.41.0
+transformers==5.19.0
+accelerate
+safetensors
+huggingface_hub
+sentencepiece
+av
+numpy
+scipy
+pillow
+open_clip_torch

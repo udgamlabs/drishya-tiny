@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use Drishya Tiny or this code, please cite it as below."
+title: "Drishya Tiny: a 212M-parameter text- and image-to-video generator on the frozen Wan2.2 VAE and Flan-T5-Base"
+authors:
+  - family-names: Prasad
+    given-names: Jitesh K
+    affiliation: Udgam Labs
+repository-code: "https://github.com/udgamlabs/drishya-tiny"
+url: "https://udgamlabs.com/models/drishya-tiny"
+license: Apache-2.0
+date-released: 2026-10-28
+keywords:
+  - video-generation
+  - text-to-video
+  - image-to-video
+  - diffusion-transformer
+  - rectified-flow
+preferred-citation:
+  type: generic
+  title: "Drishya Tiny: a 212M-parameter text- and image-to-video generator on the frozen Wan2.2 VAE and Flan-T5-Base"
+  authors:
+    - family-names: Prasad
+      given-names: Jitesh K
+      affiliation: Udgam Labs
+  year: 2026
+  publisher:
+    name: Udgam Labs
+  url: "https://github.com/udgamlabs/drishya-tiny"

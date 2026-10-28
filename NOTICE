@@ -1,0 +1,46 @@
+Drishya Tiny code
+Copyright 2026 Udgam Labs LLP
+
+Licensed under the Apache License, Version 2.0 (see LICENSE). The model weights are licensed separately under
+CC BY-NC 4.0 (see the model card). Files under prompts/ are VidProM prompts under CC BY-NC 4.0 (see the LICENSE file
+in that folder).
+
+This product includes third-party software:
+
+------------------------------------------------------------------------------------------------------------------
+training/optim.py: the MuonAdamW optimiser, vendored from nanochat (https://github.com/karpathy/nanochat), which
+adapts it from modded-nanogpt (https://github.com/KellerJordan/modded-nanogpt). Both are MIT-licensed:
+
+  MIT License
+  Copyright (c) 2025 Andrej Karpathy
+  Copyright (c) 2024 Keller Jordan
+
+  Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated
+  documentation files (the "Software"), to deal in the Software without restriction, including without limitation
+  the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to
+  permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+  The above copyright notice and this permission notice shall be included in all copies or substantial portions of
+  the Software.
+
+  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+  WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+  COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR
+  OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+------------------------------------------------------------------------------------------------------------------
+Methods we re-implemented (credited, no code copied):
+- Diffusion Transformer with adaLN-zero conditioning: Peebles & Xie, "Scalable Diffusion Models with Transformers"
+  (2023). The DiT repository is CC BY-NC 4.0; none of its code is included here.
+- FVD protocol: Unterthiner et al. (2018); StyleGAN-V (Skorokhodov et al., 2022) evaluation settings.
+- Image-to-video by first-frame replacement: STIV; SANA-Video.
+- Rectified flow / flow matching: Liu et al. (2022); Lipman et al. (2022).
+
+Not included, fetched at run time under their own licences: Wan2.2 VAE (Apache-2.0), Flan-T5-Base (Apache-2.0),
+VBench at commit fd18b3d055cb (Apache-2.0), OpenCLIP ViT-B/32 laion2b_s34b_b79k (MIT), the I3D TorchScript detector
+used for FVD.
+
+Included third-party code: browser/third_party/taehv/ (taehv.py and the taew2_2.pth weights) from
+github.com/madebyollin/taehv at commit 011dfc2, MIT License, Copyright (c) 2025 Ollin Boer Bohan; the full licence is
+in browser/third_party/taehv/LICENSE. The browser page loads onnxruntime-web 1.30.0 (MIT, Microsoft) and
+transformers.js 4.3.0 (Apache-2.0, Hugging Face) from jsdelivr at run time.

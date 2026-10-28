@@ -1,0 +1,78 @@
+{
+ "arm": "base",
+ "step": 21585,
+ "clips_seen": 1381440,
+ "minutes": 60.0,
+ "params_M": 211.92,
+ "val_ema": 0.35506957123676935,
+ "history": [
+  {
+   "tag": "mid@0.5",
+   "n": 512,
+   "shift": 3.0,
+   "seed": 0,
+   "mf_steps": 0,
+   "euler_steps": 50,
+   "fvd": 236.03056996444639,
+   "ref": "train",
+   "motion": 0.010298143229647394,
+   "motion_ratio": 1.0482122970048764,
+   "seconds": 110.2,
+   "step": 10805,
+   "val_ema": 0.3556794032454491
+  }
+ ],
+ "refs": {
+  "n_train_real": 2048,
+  "n_test": 2048,
+  "train_clips": 2115,
+  "test_clips": 196,
+  "fvd_train_vs_test": 72.17553199892487,
+  "fvd_train_vs_static_test": 215.0886819593164,
+  "motion_train": 0.009824482367811305,
+  "motion_test": 0.009845493565130425,
+  "seconds": 3027.8379373550415
+ },
+ "scores": [
+  {
+   "tag": "final_euler50",
+   "n": 2048,
+   "shift": 3.0,
+   "seed": 0,
+   "mf_steps": 0,
+   "euler_steps": 50,
+   "fvd": 160.658390002704,
+   "ref": "train",
+   "motion": 0.008604053113572263,
+   "motion_ratio": 0.8757767372826047,
+   "seconds": 428.8,
+   "primary": true
+  },
+  {
+   "tag": "final_euler50_seed1",
+   "n": 2048,
+   "shift": 3.0,
+   "seed": 1,
+   "mf_steps": 0,
+   "euler_steps": 50,
+   "fvd": 148.103044346572,
+   "ref": "train",
+   "motion": 0.00890125506481354,
+   "motion_ratio": 0.9060278935384317,
+   "seconds": 430.9
+  },
+  {
+   "tag": "euler4_512",
+   "n": 512,
+   "shift": 3.0,
+   "seed": 0,
+   "mf_steps": 0,
+   "euler_steps": 4,
+   "fvd": 294.8442711272005,
+   "ref": "train",
+   "motion": 0.006045540760624135,
+   "motion_ratio": 0.6153546349099875,
+   "seconds": 86.5
+  }
+ ]
+}

@@ -1,0 +1,17 @@
+{
+ "clips_per_half": 549,
+ "official": {
+  "A_vs_B": 21.505928812041795,
+  "A_vs_still": 279.374321923905
+ },
+ "ours": {
+  "A_vs_B": 21.505928812928683,
+  "A_vs_still": 279.37432188568573
+ },
+ "rel_diff": {
+  "A_vs_B": 4.123926905859215e-11,
+  "A_vs_still": 1.36802984762726e-10
+ },
+ "pass": true,
+ "note": "Equivalence of the computation on identical frames; not the published Sky benchmark numbers (local subset, ~32 source videos)."
+}

@@ -1,0 +1,1532 @@
+[
+    {
+        "prompt_en": "a red bicycle",
+        "dimension": [
+            "color"
+        ],
+        "auxiliary_info": {
+            "color": {
+                "color": "red"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a red bicycle-0.mp4",
+            "videos_t2v/a red bicycle-1.mp4",
+            "videos_t2v/a red bicycle-2.mp4",
+            "videos_t2v/a red bicycle-3.mp4",
+            "videos_t2v/a red bicycle-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a green bicycle",
+        "dimension": [
+            "color"
+        ],
+        "auxiliary_info": {
+            "color": {
+                "color": "green"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a green bicycle-0.mp4",
+            "videos_t2v/a green bicycle-1.mp4",
+            "videos_t2v/a green bicycle-2.mp4",
+            "videos_t2v/a green bicycle-3.mp4",
+            "videos_t2v/a green bicycle-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a blue bicycle",
+        "dimension": [
+            "color"
+        ],
+        "auxiliary_info": {
+            "color": {
+                "color": "blue"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a blue bicycle-0.mp4",
+            "videos_t2v/a blue bicycle-1.mp4",
+            "videos_t2v/a blue bicycle-2.mp4",
+            "videos_t2v/a blue bicycle-3.mp4",
+            "videos_t2v/a blue bicycle-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a yellow bicycle",
+        "dimension": [
+            "color"
+        ],
+        "auxiliary_info": {
+            "color": {
+                "color": "yellow"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a yellow bicycle-0.mp4",
+            "videos_t2v/a yellow bicycle-1.mp4",
+            "videos_t2v/a yellow bicycle-2.mp4",
+            "videos_t2v/a yellow bicycle-3.mp4",
+            "videos_t2v/a yellow bicycle-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "an orange bicycle",
+        "dimension": [
+            "color"
+        ],
+        "auxiliary_info": {
+            "color": {
+                "color": "orange"
+            }
+        },
+        "video_list": [
+            "videos_t2v/an orange bicycle-0.mp4",
+            "videos_t2v/an orange bicycle-1.mp4",
+            "videos_t2v/an orange bicycle-2.mp4",
+            "videos_t2v/an orange bicycle-3.mp4",
+            "videos_t2v/an orange bicycle-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a purple bicycle",
+        "dimension": [
+            "color"
+        ],
+        "auxiliary_info": {
+            "color": {
+                "color": "purple"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a purple bicycle-0.mp4",
+            "videos_t2v/a purple bicycle-1.mp4",
+            "videos_t2v/a purple bicycle-2.mp4",
+            "videos_t2v/a purple bicycle-3.mp4",
+            "videos_t2v/a purple bicycle-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a pink bicycle",
+        "dimension": [
+            "color"
+        ],
+        "auxiliary_info": {
+            "color": {
+                "color": "pink"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a pink bicycle-0.mp4",
+            "videos_t2v/a pink bicycle-1.mp4",
+            "videos_t2v/a pink bicycle-2.mp4",
+            "videos_t2v/a pink bicycle-3.mp4",
+            "videos_t2v/a pink bicycle-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a black bicycle",
+        "dimension": [
+            "color"
+        ],
+        "auxiliary_info": {
+            "color": {
+                "color": "black"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a black bicycle-0.mp4",
+            "videos_t2v/a black bicycle-1.mp4",
+            "videos_t2v/a black bicycle-2.mp4",
+            "videos_t2v/a black bicycle-3.mp4",
+            "videos_t2v/a black bicycle-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a white bicycle",
+        "dimension": [
+            "color"
+        ],
+        "auxiliary_info": {
+            "color": {
+                "color": "white"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a white bicycle-0.mp4",
+            "videos_t2v/a white bicycle-1.mp4",
+            "videos_t2v/a white bicycle-2.mp4",
+            "videos_t2v/a white bicycle-3.mp4",
+            "videos_t2v/a white bicycle-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a red car",
+        "dimension": [
+            "color"
+        ],
+        "auxiliary_info": {
+            "color": {
+                "color": "red"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a red car-0.mp4",
+            "videos_t2v/a red car-1.mp4",
+            "videos_t2v/a red car-2.mp4",
+            "videos_t2v/a red car-3.mp4",
+            "videos_t2v/a red car-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a green car",
+        "dimension": [
+            "color"
+        ],
+        "auxiliary_info": {
+            "color": {
+                "color": "green"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a green car-0.mp4",
+            "videos_t2v/a green car-1.mp4",
+            "videos_t2v/a green car-2.mp4",
+            "videos_t2v/a green car-3.mp4",
+            "videos_t2v/a green car-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a blue car",
+        "dimension": [
+            "color"
+        ],
+        "auxiliary_info": {
+            "color": {
+                "color": "blue"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a blue car-0.mp4",
+            "videos_t2v/a blue car-1.mp4",
+            "videos_t2v/a blue car-2.mp4",
+            "videos_t2v/a blue car-3.mp4",
+            "videos_t2v/a blue car-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a yellow car",
+        "dimension": [
+            "color"
+        ],
+        "auxiliary_info": {
+            "color": {
+                "color": "yellow"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a yellow car-0.mp4",
+            "videos_t2v/a yellow car-1.mp4",
+            "videos_t2v/a yellow car-2.mp4",
+            "videos_t2v/a yellow car-3.mp4",
+            "videos_t2v/a yellow car-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "an orange car",
+        "dimension": [
+            "color"
+        ],
+        "auxiliary_info": {
+            "color": {
+                "color": "orange"
+            }
+        },
+        "video_list": [
+            "videos_t2v/an orange car-0.mp4",
+            "videos_t2v/an orange car-1.mp4",
+            "videos_t2v/an orange car-2.mp4",
+            "videos_t2v/an orange car-3.mp4",
+            "videos_t2v/an orange car-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a purple car",
+        "dimension": [
+            "color"
+        ],
+        "auxiliary_info": {
+            "color": {
+                "color": "purple"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a purple car-0.mp4",
+            "videos_t2v/a purple car-1.mp4",
+            "videos_t2v/a purple car-2.mp4",
+            "videos_t2v/a purple car-3.mp4",
+            "videos_t2v/a purple car-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a pink car",
+        "dimension": [
+            "color"
+        ],
+        "auxiliary_info": {
+            "color": {
+                "color": "pink"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a pink car-0.mp4",
+            "videos_t2v/a pink car-1.mp4",
+            "videos_t2v/a pink car-2.mp4",
+            "videos_t2v/a pink car-3.mp4",
+            "videos_t2v/a pink car-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a black car",
+        "dimension": [
+            "color"
+        ],
+        "auxiliary_info": {
+            "color": {
+                "color": "black"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a black car-0.mp4",
+            "videos_t2v/a black car-1.mp4",
+            "videos_t2v/a black car-2.mp4",
+            "videos_t2v/a black car-3.mp4",
+            "videos_t2v/a black car-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a white car",
+        "dimension": [
+            "color"
+        ],
+        "auxiliary_info": {
+            "color": {
+                "color": "white"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a white car-0.mp4",
+            "videos_t2v/a white car-1.mp4",
+            "videos_t2v/a white car-2.mp4",
+            "videos_t2v/a white car-3.mp4",
+            "videos_t2v/a white car-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a red bird",
+        "dimension": [
+            "color"
+        ],
+        "auxiliary_info": {
+            "color": {
+                "color": "red"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a red bird-0.mp4",
+            "videos_t2v/a red bird-1.mp4",
+            "videos_t2v/a red bird-2.mp4",
+            "videos_t2v/a red bird-3.mp4",
+            "videos_t2v/a red bird-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a green bird",
+        "dimension": [
+            "color"
+        ],
+        "auxiliary_info": {
+            "color": {
+                "color": "green"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a green bird-0.mp4",
+            "videos_t2v/a green bird-1.mp4",
+            "videos_t2v/a green bird-2.mp4",
+            "videos_t2v/a green bird-3.mp4",
+            "videos_t2v/a green bird-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a blue bird",
+        "dimension": [
+            "color"
+        ],
+        "auxiliary_info": {
+            "color": {
+                "color": "blue"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a blue bird-0.mp4",
+            "videos_t2v/a blue bird-1.mp4",
+            "videos_t2v/a blue bird-2.mp4",
+            "videos_t2v/a blue bird-3.mp4",
+            "videos_t2v/a blue bird-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a yellow bird",
+        "dimension": [
+            "color"
+        ],
+        "auxiliary_info": {
+            "color": {
+                "color": "yellow"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a yellow bird-0.mp4",
+            "videos_t2v/a yellow bird-1.mp4",
+            "videos_t2v/a yellow bird-2.mp4",
+            "videos_t2v/a yellow bird-3.mp4",
+            "videos_t2v/a yellow bird-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "an orange bird",
+        "dimension": [
+            "color"
+        ],
+        "auxiliary_info": {
+            "color": {
+                "color": "orange"
+            }
+        },
+        "video_list": [
+            "videos_t2v/an orange bird-0.mp4",
+            "videos_t2v/an orange bird-1.mp4",
+            "videos_t2v/an orange bird-2.mp4",
+            "videos_t2v/an orange bird-3.mp4",
+            "videos_t2v/an orange bird-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a purple bird",
+        "dimension": [
+            "color"
+        ],
+        "auxiliary_info": {
+            "color": {
+                "color": "purple"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a purple bird-0.mp4",
+            "videos_t2v/a purple bird-1.mp4",
+            "videos_t2v/a purple bird-2.mp4",
+            "videos_t2v/a purple bird-3.mp4",
+            "videos_t2v/a purple bird-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a pink bird",
+        "dimension": [
+            "color"
+        ],
+        "auxiliary_info": {
+            "color": {
+                "color": "pink"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a pink bird-0.mp4",
+            "videos_t2v/a pink bird-1.mp4",
+            "videos_t2v/a pink bird-2.mp4",
+            "videos_t2v/a pink bird-3.mp4",
+            "videos_t2v/a pink bird-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a black bird",
+        "dimension": [
+            "color"
+        ],
+        "auxiliary_info": {
+            "color": {
+                "color": "black"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a black bird-0.mp4",
+            "videos_t2v/a black bird-1.mp4",
+            "videos_t2v/a black bird-2.mp4",
+            "videos_t2v/a black bird-3.mp4",
+            "videos_t2v/a black bird-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a white bird",
+        "dimension": [
+            "color"
+        ],
+        "auxiliary_info": {
+            "color": {
+                "color": "white"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a white bird-0.mp4",
+            "videos_t2v/a white bird-1.mp4",
+            "videos_t2v/a white bird-2.mp4",
+            "videos_t2v/a white bird-3.mp4",
+            "videos_t2v/a white bird-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a black cat",
+        "dimension": [
+            "color"
+        ],
+        "auxiliary_info": {
+            "color": {
+                "color": "black"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a black cat-0.mp4",
+            "videos_t2v/a black cat-1.mp4",
+            "videos_t2v/a black cat-2.mp4",
+            "videos_t2v/a black cat-3.mp4",
+            "videos_t2v/a black cat-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a white cat",
+        "dimension": [
+            "color"
+        ],
+        "auxiliary_info": {
+            "color": {
+                "color": "white"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a white cat-0.mp4",
+            "videos_t2v/a white cat-1.mp4",
+            "videos_t2v/a white cat-2.mp4",
+            "videos_t2v/a white cat-3.mp4",
+            "videos_t2v/a white cat-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "an orange cat",
+        "dimension": [
+            "color"
+        ],
+        "auxiliary_info": {
+            "color": {
+                "color": "orange"
+            }
+        },
+        "video_list": [
+            "videos_t2v/an orange cat-0.mp4",
+            "videos_t2v/an orange cat-1.mp4",
+            "videos_t2v/an orange cat-2.mp4",
+            "videos_t2v/an orange cat-3.mp4",
+            "videos_t2v/an orange cat-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a yellow cat",
+        "dimension": [
+            "color"
+        ],
+        "auxiliary_info": {
+            "color": {
+                "color": "yellow"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a yellow cat-0.mp4",
+            "videos_t2v/a yellow cat-1.mp4",
+            "videos_t2v/a yellow cat-2.mp4",
+            "videos_t2v/a yellow cat-3.mp4",
+            "videos_t2v/a yellow cat-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a red umbrella",
+        "dimension": [
+            "color"
+        ],
+        "auxiliary_info": {
+            "color": {
+                "color": "red"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a red umbrella-0.mp4",
+            "videos_t2v/a red umbrella-1.mp4",
+            "videos_t2v/a red umbrella-2.mp4",
+            "videos_t2v/a red umbrella-3.mp4",
+            "videos_t2v/a red umbrella-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a green umbrella",
+        "dimension": [
+            "color"
+        ],
+        "auxiliary_info": {
+            "color": {
+                "color": "green"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a green umbrella-0.mp4",
+            "videos_t2v/a green umbrella-1.mp4",
+            "videos_t2v/a green umbrella-2.mp4",
+            "videos_t2v/a green umbrella-3.mp4",
+            "videos_t2v/a green umbrella-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a blue umbrella",
+        "dimension": [
+            "color"
+        ],
+        "auxiliary_info": {
+            "color": {
+                "color": "blue"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a blue umbrella-0.mp4",
+            "videos_t2v/a blue umbrella-1.mp4",
+            "videos_t2v/a blue umbrella-2.mp4",
+            "videos_t2v/a blue umbrella-3.mp4",
+            "videos_t2v/a blue umbrella-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a yellow umbrella",
+        "dimension": [
+            "color"
+        ],
+        "auxiliary_info": {
+            "color": {
+                "color": "yellow"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a yellow umbrella-0.mp4",
+            "videos_t2v/a yellow umbrella-1.mp4",
+            "videos_t2v/a yellow umbrella-2.mp4",
+            "videos_t2v/a yellow umbrella-3.mp4",
+            "videos_t2v/a yellow umbrella-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "an orange umbrella",
+        "dimension": [
+            "color"
+        ],
+        "auxiliary_info": {
+            "color": {
+                "color": "orange"
+            }
+        },
+        "video_list": [
+            "videos_t2v/an orange umbrella-0.mp4",
+            "videos_t2v/an orange umbrella-1.mp4",
+            "videos_t2v/an orange umbrella-2.mp4",
+            "videos_t2v/an orange umbrella-3.mp4",
+            "videos_t2v/an orange umbrella-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a purple umbrella",
+        "dimension": [
+            "color"
+        ],
+        "auxiliary_info": {
+            "color": {
+                "color": "purple"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a purple umbrella-0.mp4",
+            "videos_t2v/a purple umbrella-1.mp4",
+            "videos_t2v/a purple umbrella-2.mp4",
+            "videos_t2v/a purple umbrella-3.mp4",
+            "videos_t2v/a purple umbrella-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a pink umbrella",
+        "dimension": [
+            "color"
+        ],
+        "auxiliary_info": {
+            "color": {
+                "color": "pink"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a pink umbrella-0.mp4",
+            "videos_t2v/a pink umbrella-1.mp4",
+            "videos_t2v/a pink umbrella-2.mp4",
+            "videos_t2v/a pink umbrella-3.mp4",
+            "videos_t2v/a pink umbrella-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a black umbrella",
+        "dimension": [
+            "color"
+        ],
+        "auxiliary_info": {
+            "color": {
+                "color": "black"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a black umbrella-0.mp4",
+            "videos_t2v/a black umbrella-1.mp4",
+            "videos_t2v/a black umbrella-2.mp4",
+            "videos_t2v/a black umbrella-3.mp4",
+            "videos_t2v/a black umbrella-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a white umbrella",
+        "dimension": [
+            "color"
+        ],
+        "auxiliary_info": {
+            "color": {
+                "color": "white"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a white umbrella-0.mp4",
+            "videos_t2v/a white umbrella-1.mp4",
+            "videos_t2v/a white umbrella-2.mp4",
+            "videos_t2v/a white umbrella-3.mp4",
+            "videos_t2v/a white umbrella-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a red suitcase",
+        "dimension": [
+            "color"
+        ],
+        "auxiliary_info": {
+            "color": {
+                "color": "red"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a red suitcase-0.mp4",
+            "videos_t2v/a red suitcase-1.mp4",
+            "videos_t2v/a red suitcase-2.mp4",
+            "videos_t2v/a red suitcase-3.mp4",
+            "videos_t2v/a red suitcase-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a green suitcase",
+        "dimension": [
+            "color"
+        ],
+        "auxiliary_info": {
+            "color": {
+                "color": "green"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a green suitcase-0.mp4",
+            "videos_t2v/a green suitcase-1.mp4",
+            "videos_t2v/a green suitcase-2.mp4",
+            "videos_t2v/a green suitcase-3.mp4",
+            "videos_t2v/a green suitcase-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a blue suitcase",
+        "dimension": [
+            "color"
+        ],
+        "auxiliary_info": {
+            "color": {
+                "color": "blue"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a blue suitcase-0.mp4",
+            "videos_t2v/a blue suitcase-1.mp4",
+            "videos_t2v/a blue suitcase-2.mp4",
+            "videos_t2v/a blue suitcase-3.mp4",
+            "videos_t2v/a blue suitcase-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a yellow suitcase",
+        "dimension": [
+            "color"
+        ],
+        "auxiliary_info": {
+            "color": {
+                "color": "yellow"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a yellow suitcase-0.mp4",
+            "videos_t2v/a yellow suitcase-1.mp4",
+            "videos_t2v/a yellow suitcase-2.mp4",
+            "videos_t2v/a yellow suitcase-3.mp4",
+            "videos_t2v/a yellow suitcase-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "an orange suitcase",
+        "dimension": [
+            "color"
+        ],
+        "auxiliary_info": {
+            "color": {
+                "color": "orange"
+            }
+        },
+        "video_list": [
+            "videos_t2v/an orange suitcase-0.mp4",
+            "videos_t2v/an orange suitcase-1.mp4",
+            "videos_t2v/an orange suitcase-2.mp4",
+            "videos_t2v/an orange suitcase-3.mp4",
+            "videos_t2v/an orange suitcase-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a purple suitcase",
+        "dimension": [
+            "color"
+        ],
+        "auxiliary_info": {
+            "color": {
+                "color": "purple"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a purple suitcase-0.mp4",
+            "videos_t2v/a purple suitcase-1.mp4",
+            "videos_t2v/a purple suitcase-2.mp4",
+            "videos_t2v/a purple suitcase-3.mp4",
+            "videos_t2v/a purple suitcase-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a pink suitcase",
+        "dimension": [
+            "color"
+        ],
+        "auxiliary_info": {
+            "color": {
+                "color": "pink"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a pink suitcase-0.mp4",
+            "videos_t2v/a pink suitcase-1.mp4",
+            "videos_t2v/a pink suitcase-2.mp4",
+            "videos_t2v/a pink suitcase-3.mp4",
+            "videos_t2v/a pink suitcase-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a black suitcase",
+        "dimension": [
+            "color"
+        ],
+        "auxiliary_info": {
+            "color": {
+                "color": "black"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a black suitcase-0.mp4",
+            "videos_t2v/a black suitcase-1.mp4",
+            "videos_t2v/a black suitcase-2.mp4",
+            "videos_t2v/a black suitcase-3.mp4",
+            "videos_t2v/a black suitcase-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a white suitcase",
+        "dimension": [
+            "color"
+        ],
+        "auxiliary_info": {
+            "color": {
+                "color": "white"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a white suitcase-0.mp4",
+            "videos_t2v/a white suitcase-1.mp4",
+            "videos_t2v/a white suitcase-2.mp4",
+            "videos_t2v/a white suitcase-3.mp4",
+            "videos_t2v/a white suitcase-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a red bowl",
+        "dimension": [
+            "color"
+        ],
+        "auxiliary_info": {
+            "color": {
+                "color": "red"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a red bowl-0.mp4",
+            "videos_t2v/a red bowl-1.mp4",
+            "videos_t2v/a red bowl-2.mp4",
+            "videos_t2v/a red bowl-3.mp4",
+            "videos_t2v/a red bowl-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a green bowl",
+        "dimension": [
+            "color"
+        ],
+        "auxiliary_info": {
+            "color": {
+                "color": "green"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a green bowl-0.mp4",
+            "videos_t2v/a green bowl-1.mp4",
+            "videos_t2v/a green bowl-2.mp4",
+            "videos_t2v/a green bowl-3.mp4",
+            "videos_t2v/a green bowl-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a blue bowl",
+        "dimension": [
+            "color"
+        ],
+        "auxiliary_info": {
+            "color": {
+                "color": "blue"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a blue bowl-0.mp4",
+            "videos_t2v/a blue bowl-1.mp4",
+            "videos_t2v/a blue bowl-2.mp4",
+            "videos_t2v/a blue bowl-3.mp4",
+            "videos_t2v/a blue bowl-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a yellow bowl",
+        "dimension": [
+            "color"
+        ],
+        "auxiliary_info": {
+            "color": {
+                "color": "yellow"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a yellow bowl-0.mp4",
+            "videos_t2v/a yellow bowl-1.mp4",
+            "videos_t2v/a yellow bowl-2.mp4",
+            "videos_t2v/a yellow bowl-3.mp4",
+            "videos_t2v/a yellow bowl-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "an orange bowl",
+        "dimension": [
+            "color"
+        ],
+        "auxiliary_info": {
+            "color": {
+                "color": "orange"
+            }
+        },
+        "video_list": [
+            "videos_t2v/an orange bowl-0.mp4",
+            "videos_t2v/an orange bowl-1.mp4",
+            "videos_t2v/an orange bowl-2.mp4",
+            "videos_t2v/an orange bowl-3.mp4",
+            "videos_t2v/an orange bowl-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a purple bowl",
+        "dimension": [
+            "color"
+        ],
+        "auxiliary_info": {
+            "color": {
+                "color": "purple"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a purple bowl-0.mp4",
+            "videos_t2v/a purple bowl-1.mp4",
+            "videos_t2v/a purple bowl-2.mp4",
+            "videos_t2v/a purple bowl-3.mp4",
+            "videos_t2v/a purple bowl-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a pink bowl",
+        "dimension": [
+            "color"
+        ],
+        "auxiliary_info": {
+            "color": {
+                "color": "pink"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a pink bowl-0.mp4",
+            "videos_t2v/a pink bowl-1.mp4",
+            "videos_t2v/a pink bowl-2.mp4",
+            "videos_t2v/a pink bowl-3.mp4",
+            "videos_t2v/a pink bowl-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a black bowl",
+        "dimension": [
+            "color"
+        ],
+        "auxiliary_info": {
+            "color": {
+                "color": "black"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a black bowl-0.mp4",
+            "videos_t2v/a black bowl-1.mp4",
+            "videos_t2v/a black bowl-2.mp4",
+            "videos_t2v/a black bowl-3.mp4",
+            "videos_t2v/a black bowl-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a white bowl",
+        "dimension": [
+            "color"
+        ],
+        "auxiliary_info": {
+            "color": {
+                "color": "white"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a white bowl-0.mp4",
+            "videos_t2v/a white bowl-1.mp4",
+            "videos_t2v/a white bowl-2.mp4",
+            "videos_t2v/a white bowl-3.mp4",
+            "videos_t2v/a white bowl-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a red chair",
+        "dimension": [
+            "color"
+        ],
+        "auxiliary_info": {
+            "color": {
+                "color": "red"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a red chair-0.mp4",
+            "videos_t2v/a red chair-1.mp4",
+            "videos_t2v/a red chair-2.mp4",
+            "videos_t2v/a red chair-3.mp4",
+            "videos_t2v/a red chair-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a green chair",
+        "dimension": [
+            "color"
+        ],
+        "auxiliary_info": {
+            "color": {
+                "color": "green"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a green chair-0.mp4",
+            "videos_t2v/a green chair-1.mp4",
+            "videos_t2v/a green chair-2.mp4",
+            "videos_t2v/a green chair-3.mp4",
+            "videos_t2v/a green chair-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a blue chair",
+        "dimension": [
+            "color"
+        ],
+        "auxiliary_info": {
+            "color": {
+                "color": "blue"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a blue chair-0.mp4",
+            "videos_t2v/a blue chair-1.mp4",
+            "videos_t2v/a blue chair-2.mp4",
+            "videos_t2v/a blue chair-3.mp4",
+            "videos_t2v/a blue chair-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a yellow chair",
+        "dimension": [
+            "color"
+        ],
+        "auxiliary_info": {
+            "color": {
+                "color": "yellow"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a yellow chair-0.mp4",
+            "videos_t2v/a yellow chair-1.mp4",
+            "videos_t2v/a yellow chair-2.mp4",
+            "videos_t2v/a yellow chair-3.mp4",
+            "videos_t2v/a yellow chair-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "an orange chair",
+        "dimension": [
+            "color"
+        ],
+        "auxiliary_info": {
+            "color": {
+                "color": "orange"
+            }
+        },
+        "video_list": [
+            "videos_t2v/an orange chair-0.mp4",
+            "videos_t2v/an orange chair-1.mp4",
+            "videos_t2v/an orange chair-2.mp4",
+            "videos_t2v/an orange chair-3.mp4",
+            "videos_t2v/an orange chair-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a purple chair",
+        "dimension": [
+            "color"
+        ],
+        "auxiliary_info": {
+            "color": {
+                "color": "purple"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a purple chair-0.mp4",
+            "videos_t2v/a purple chair-1.mp4",
+            "videos_t2v/a purple chair-2.mp4",
+            "videos_t2v/a purple chair-3.mp4",
+            "videos_t2v/a purple chair-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a pink chair",
+        "dimension": [
+            "color"
+        ],
+        "auxiliary_info": {
+            "color": {
+                "color": "pink"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a pink chair-0.mp4",
+            "videos_t2v/a pink chair-1.mp4",
+            "videos_t2v/a pink chair-2.mp4",
+            "videos_t2v/a pink chair-3.mp4",
+            "videos_t2v/a pink chair-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a black chair",
+        "dimension": [
+            "color"
+        ],
+        "auxiliary_info": {
+            "color": {
+                "color": "black"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a black chair-0.mp4",
+            "videos_t2v/a black chair-1.mp4",
+            "videos_t2v/a black chair-2.mp4",
+            "videos_t2v/a black chair-3.mp4",
+            "videos_t2v/a black chair-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a white chair",
+        "dimension": [
+            "color"
+        ],
+        "auxiliary_info": {
+            "color": {
+                "color": "white"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a white chair-0.mp4",
+            "videos_t2v/a white chair-1.mp4",
+            "videos_t2v/a white chair-2.mp4",
+            "videos_t2v/a white chair-3.mp4",
+            "videos_t2v/a white chair-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a red clock",
+        "dimension": [
+            "color"
+        ],
+        "auxiliary_info": {
+            "color": {
+                "color": "red"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a red clock-0.mp4",
+            "videos_t2v/a red clock-1.mp4",
+            "videos_t2v/a red clock-2.mp4",
+            "videos_t2v/a red clock-3.mp4",
+            "videos_t2v/a red clock-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a green clock",
+        "dimension": [
+            "color"
+        ],
+        "auxiliary_info": {
+            "color": {
+                "color": "green"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a green clock-0.mp4",
+            "videos_t2v/a green clock-1.mp4",
+            "videos_t2v/a green clock-2.mp4",
+            "videos_t2v/a green clock-3.mp4",
+            "videos_t2v/a green clock-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a blue clock",
+        "dimension": [
+            "color"
+        ],
+        "auxiliary_info": {
+            "color": {
+                "color": "blue"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a blue clock-0.mp4",
+            "videos_t2v/a blue clock-1.mp4",
+            "videos_t2v/a blue clock-2.mp4",
+            "videos_t2v/a blue clock-3.mp4",
+            "videos_t2v/a blue clock-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a yellow clock",
+        "dimension": [
+            "color"
+        ],
+        "auxiliary_info": {
+            "color": {
+                "color": "yellow"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a yellow clock-0.mp4",
+            "videos_t2v/a yellow clock-1.mp4",
+            "videos_t2v/a yellow clock-2.mp4",
+            "videos_t2v/a yellow clock-3.mp4",
+            "videos_t2v/a yellow clock-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "an orange clock",
+        "dimension": [
+            "color"
+        ],
+        "auxiliary_info": {
+            "color": {
+                "color": "orange"
+            }
+        },
+        "video_list": [
+            "videos_t2v/an orange clock-0.mp4",
+            "videos_t2v/an orange clock-1.mp4",
+            "videos_t2v/an orange clock-2.mp4",
+            "videos_t2v/an orange clock-3.mp4",
+            "videos_t2v/an orange clock-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a purple clock",
+        "dimension": [
+            "color"
+        ],
+        "auxiliary_info": {
+            "color": {
+                "color": "purple"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a purple clock-0.mp4",
+            "videos_t2v/a purple clock-1.mp4",
+            "videos_t2v/a purple clock-2.mp4",
+            "videos_t2v/a purple clock-3.mp4",
+            "videos_t2v/a purple clock-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a pink clock",
+        "dimension": [
+            "color"
+        ],
+        "auxiliary_info": {
+            "color": {
+                "color": "pink"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a pink clock-0.mp4",
+            "videos_t2v/a pink clock-1.mp4",
+            "videos_t2v/a pink clock-2.mp4",
+            "videos_t2v/a pink clock-3.mp4",
+            "videos_t2v/a pink clock-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a black clock",
+        "dimension": [
+            "color"
+        ],
+        "auxiliary_info": {
+            "color": {
+                "color": "black"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a black clock-0.mp4",
+            "videos_t2v/a black clock-1.mp4",
+            "videos_t2v/a black clock-2.mp4",
+            "videos_t2v/a black clock-3.mp4",
+            "videos_t2v/a black clock-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a white clock",
+        "dimension": [
+            "color"
+        ],
+        "auxiliary_info": {
+            "color": {
+                "color": "white"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a white clock-0.mp4",
+            "videos_t2v/a white clock-1.mp4",
+            "videos_t2v/a white clock-2.mp4",
+            "videos_t2v/a white clock-3.mp4",
+            "videos_t2v/a white clock-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a red vase",
+        "dimension": [
+            "color"
+        ],
+        "auxiliary_info": {
+            "color": {
+                "color": "red"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a red vase-0.mp4",
+            "videos_t2v/a red vase-1.mp4",
+            "videos_t2v/a red vase-2.mp4",
+            "videos_t2v/a red vase-3.mp4",
+            "videos_t2v/a red vase-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a green vase",
+        "dimension": [
+            "color"
+        ],
+        "auxiliary_info": {
+            "color": {
+                "color": "green"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a green vase-0.mp4",
+            "videos_t2v/a green vase-1.mp4",
+            "videos_t2v/a green vase-2.mp4",
+            "videos_t2v/a green vase-3.mp4",
+            "videos_t2v/a green vase-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a blue vase",
+        "dimension": [
+            "color"
+        ],
+        "auxiliary_info": {
+            "color": {
+                "color": "blue"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a blue vase-0.mp4",
+            "videos_t2v/a blue vase-1.mp4",
+            "videos_t2v/a blue vase-2.mp4",
+            "videos_t2v/a blue vase-3.mp4",
+            "videos_t2v/a blue vase-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a yellow vase",
+        "dimension": [
+            "color"
+        ],
+        "auxiliary_info": {
+            "color": {
+                "color": "yellow"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a yellow vase-0.mp4",
+            "videos_t2v/a yellow vase-1.mp4",
+            "videos_t2v/a yellow vase-2.mp4",
+            "videos_t2v/a yellow vase-3.mp4",
+            "videos_t2v/a yellow vase-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "an orange vase",
+        "dimension": [
+            "color"
+        ],
+        "auxiliary_info": {
+            "color": {
+                "color": "orange"
+            }
+        },
+        "video_list": [
+            "videos_t2v/an orange vase-0.mp4",
+            "videos_t2v/an orange vase-1.mp4",
+            "videos_t2v/an orange vase-2.mp4",
+            "videos_t2v/an orange vase-3.mp4",
+            "videos_t2v/an orange vase-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a purple vase",
+        "dimension": [
+            "color"
+        ],
+        "auxiliary_info": {
+            "color": {
+                "color": "purple"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a purple vase-0.mp4",
+            "videos_t2v/a purple vase-1.mp4",
+            "videos_t2v/a purple vase-2.mp4",
+            "videos_t2v/a purple vase-3.mp4",
+            "videos_t2v/a purple vase-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a pink vase",
+        "dimension": [
+            "color"
+        ],
+        "auxiliary_info": {
+            "color": {
+                "color": "pink"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a pink vase-0.mp4",
+            "videos_t2v/a pink vase-1.mp4",
+            "videos_t2v/a pink vase-2.mp4",
+            "videos_t2v/a pink vase-3.mp4",
+            "videos_t2v/a pink vase-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a black vase",
+        "dimension": [
+            "color"
+        ],
+        "auxiliary_info": {
+            "color": {
+                "color": "black"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a black vase-0.mp4",
+            "videos_t2v/a black vase-1.mp4",
+            "videos_t2v/a black vase-2.mp4",
+            "videos_t2v/a black vase-3.mp4",
+            "videos_t2v/a black vase-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a white vase",
+        "dimension": [
+            "color"
+        ],
+        "auxiliary_info": {
+            "color": {
+                "color": "white"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a white vase-0.mp4",
+            "videos_t2v/a white vase-1.mp4",
+            "videos_t2v/a white vase-2.mp4",
+            "videos_t2v/a white vase-3.mp4",
+            "videos_t2v/a white vase-4.mp4"
+        ]
+    }
+]

@@ -1,0 +1,3277 @@
+{
+    "background_consistency": [
+        0.9362744252616112,
+        [
+            {
+                "video_path": "videos_i2v/a close up of a blue and orange liquid-0.mp4",
+                "video_results": 0.9737091064453125,
+                "video_sim": 15.579345703125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a close up of a blue and orange liquid-1.mp4",
+                "video_results": 0.96881103515625,
+                "video_sim": 15.5009765625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a close up of a blue and orange liquid-2.mp4",
+                "video_results": 0.9857025146484375,
+                "video_sim": 15.771240234375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a close up of a blue and orange liquid-3.mp4",
+                "video_results": 0.9853973388671875,
+                "video_sim": 15.766357421875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a close up of a blue and orange liquid-4.mp4",
+                "video_results": 0.9701995849609375,
+                "video_sim": 15.523193359375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/A black and white abstract video featuring mesmerizing bubbles-0.mp4",
+                "video_results": 0.9710540771484375,
+                "video_sim": 15.536865234375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/A black and white abstract video featuring mesmerizing bubbles-1.mp4",
+                "video_results": 0.971160888671875,
+                "video_sim": 15.53857421875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/A black and white abstract video featuring mesmerizing bubbles-2.mp4",
+                "video_results": 0.967376708984375,
+                "video_sim": 15.47802734375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/A black and white abstract video featuring mesmerizing bubbles-3.mp4",
+                "video_results": 0.9735870361328125,
+                "video_sim": 15.577392578125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/A black and white abstract video featuring mesmerizing bubbles-4.mp4",
+                "video_results": 0.9567108154296875,
+                "video_sim": 15.307373046875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a blue and white smoke is swirly in the dark-0.mp4",
+                "video_results": 0.9236602783203125,
+                "video_sim": 14.778564453125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a blue and white smoke is swirly in the dark-1.mp4",
+                "video_results": 0.9489898681640625,
+                "video_sim": 15.183837890625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a blue and white smoke is swirly in the dark-2.mp4",
+                "video_results": 0.8335418701171875,
+                "video_sim": 13.336669921875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a blue and white smoke is swirly in the dark-3.mp4",
+                "video_results": 0.9302520751953125,
+                "video_sim": 14.884033203125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a blue and white smoke is swirly in the dark-4.mp4",
+                "video_results": 0.9341278076171875,
+                "video_sim": 14.946044921875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a close-up view of a sea fan in the water-0.mp4",
+                "video_results": 0.9242095947265625,
+                "video_sim": 14.787353515625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a close-up view of a sea fan in the water-1.mp4",
+                "video_results": 0.97503662109375,
+                "video_sim": 15.6005859375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a close-up view of a sea fan in the water-2.mp4",
+                "video_results": 0.937164306640625,
+                "video_sim": 14.99462890625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a close-up view of a sea fan in the water-3.mp4",
+                "video_results": 0.9442901611328125,
+                "video_sim": 15.108642578125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a close-up view of a sea fan in the water-4.mp4",
+                "video_results": 0.9720916748046875,
+                "video_sim": 15.553466796875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a visually captivating abstract video, rich in color, set against a dramatic black background-0.mp4",
+                "video_results": 0.9784088134765625,
+                "video_sim": 15.654541015625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a visually captivating abstract video, rich in color, set against a dramatic black background-1.mp4",
+                "video_results": 0.9715118408203125,
+                "video_sim": 15.544189453125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a visually captivating abstract video, rich in color, set against a dramatic black background-2.mp4",
+                "video_results": 0.981597900390625,
+                "video_sim": 15.70556640625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a visually captivating abstract video, rich in color, set against a dramatic black background-3.mp4",
+                "video_results": 0.992706298828125,
+                "video_sim": 15.88330078125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a visually captivating abstract video, rich in color, set against a dramatic black background-4.mp4",
+                "video_results": 0.9849700927734375,
+                "video_sim": 15.759521484375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a purple and yellow abstract painting with a black background-0.mp4",
+                "video_results": 0.9715576171875,
+                "video_sim": 15.544921875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a purple and yellow abstract painting with a black background-1.mp4",
+                "video_results": 0.989501953125,
+                "video_sim": 15.83203125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a purple and yellow abstract painting with a black background-2.mp4",
+                "video_results": 0.980682373046875,
+                "video_sim": 15.69091796875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a purple and yellow abstract painting with a black background-3.mp4",
+                "video_results": 0.98699951171875,
+                "video_sim": 15.7919921875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a purple and yellow abstract painting with a black background-4.mp4",
+                "video_results": 0.991058349609375,
+                "video_sim": 15.85693359375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a dynamic video of a blurry neon light in the dark, radiating captivating colors-0.mp4",
+                "video_results": 0.939056396484375,
+                "video_sim": 15.02490234375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a dynamic video of a blurry neon light in the dark, radiating captivating colors-1.mp4",
+                "video_results": 0.981719970703125,
+                "video_sim": 15.70751953125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a dynamic video of a blurry neon light in the dark, radiating captivating colors-2.mp4",
+                "video_results": 0.9793853759765625,
+                "video_sim": 15.670166015625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a dynamic video of a blurry neon light in the dark, radiating captivating colors-3.mp4",
+                "video_results": 0.953033447265625,
+                "video_sim": 15.24853515625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a dynamic video of a blurry neon light in the dark, radiating captivating colors-4.mp4",
+                "video_results": 0.9521942138671875,
+                "video_sim": 15.235107421875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a view of a star trail in the night sky-0.mp4",
+                "video_results": 0.9537811279296875,
+                "video_sim": 15.260498046875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a view of a star trail in the night sky-1.mp4",
+                "video_results": 0.9625701904296875,
+                "video_sim": 15.401123046875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a view of a star trail in the night sky-2.mp4",
+                "video_results": 0.96136474609375,
+                "video_sim": 15.3818359375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a view of a star trail in the night sky-3.mp4",
+                "video_results": 0.9654388427734375,
+                "video_sim": 15.447021484375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a view of a star trail in the night sky-4.mp4",
+                "video_results": 0.9577484130859375,
+                "video_sim": 15.323974609375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/an aerial view of a small town on the edge of the ocean-0.mp4",
+                "video_results": 0.937713623046875,
+                "video_sim": 15.00341796875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/an aerial view of a small town on the edge of the ocean-1.mp4",
+                "video_results": 0.9249114990234375,
+                "video_sim": 14.798583984375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/an aerial view of a small town on the edge of the ocean-2.mp4",
+                "video_results": 0.9598388671875,
+                "video_sim": 15.357421875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/an aerial view of a small town on the edge of the ocean-3.mp4",
+                "video_results": 0.90625,
+                "video_sim": 14.5,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/an aerial view of a small town on the edge of the ocean-4.mp4",
+                "video_results": 0.954010009765625,
+                "video_sim": 15.26416015625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/Colorful buildings on the seaside cliffs-0.mp4",
+                "video_results": 0.963104248046875,
+                "video_sim": 15.40966796875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/Colorful buildings on the seaside cliffs-1.mp4",
+                "video_results": 0.9428863525390625,
+                "video_sim": 15.086181640625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/Colorful buildings on the seaside cliffs-2.mp4",
+                "video_results": 0.9759063720703125,
+                "video_sim": 15.614501953125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/Colorful buildings on the seaside cliffs-3.mp4",
+                "video_results": 0.948486328125,
+                "video_sim": 15.17578125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/Colorful buildings on the seaside cliffs-4.mp4",
+                "video_results": 0.944183349609375,
+                "video_sim": 15.10693359375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a bunch of houses that are on a hillside-0.mp4",
+                "video_results": 0.9505157470703125,
+                "video_sim": 15.208251953125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a bunch of houses that are on a hillside-1.mp4",
+                "video_results": 0.9390716552734375,
+                "video_sim": 15.025146484375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a bunch of houses that are on a hillside-2.mp4",
+                "video_results": 0.9748992919921875,
+                "video_sim": 15.598388671875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a bunch of houses that are on a hillside-3.mp4",
+                "video_results": 0.953582763671875,
+                "video_sim": 15.25732421875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a bunch of houses that are on a hillside-4.mp4",
+                "video_results": 0.96380615234375,
+                "video_sim": 15.4208984375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a building that is sitting on the side of a pond-0.mp4",
+                "video_results": 0.985321044921875,
+                "video_sim": 15.76513671875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a building that is sitting on the side of a pond-1.mp4",
+                "video_results": 0.8840484619140625,
+                "video_sim": 14.144775390625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a building that is sitting on the side of a pond-2.mp4",
+                "video_results": 0.9716339111328125,
+                "video_sim": 15.546142578125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a building that is sitting on the side of a pond-3.mp4",
+                "video_results": 0.93670654296875,
+                "video_sim": 14.9873046875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a building that is sitting on the side of a pond-4.mp4",
+                "video_results": 0.942138671875,
+                "video_sim": 15.07421875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/an aerial view of a busy city with a bridge in the background-0.mp4",
+                "video_results": 0.8671875,
+                "video_sim": 13.875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/an aerial view of a busy city with a bridge in the background-1.mp4",
+                "video_results": 0.9140472412109375,
+                "video_sim": 14.624755859375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/an aerial view of a busy city with a bridge in the background-2.mp4",
+                "video_results": 0.7830352783203125,
+                "video_sim": 12.528564453125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/an aerial view of a busy city with a bridge in the background-3.mp4",
+                "video_results": 0.9433746337890625,
+                "video_sim": 15.093994140625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/an aerial view of a busy city with a bridge in the background-4.mp4",
+                "video_results": 0.9572906494140625,
+                "video_sim": 15.316650390625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a bridge that is over a body of water-0.mp4",
+                "video_results": 0.917816162109375,
+                "video_sim": 14.68505859375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a bridge that is over a body of water-1.mp4",
+                "video_results": 0.93414306640625,
+                "video_sim": 14.9462890625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a bridge that is over a body of water-2.mp4",
+                "video_results": 0.8648681640625,
+                "video_sim": 13.837890625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a bridge that is over a body of water-3.mp4",
+                "video_results": 0.960662841796875,
+                "video_sim": 15.37060546875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a bridge that is over a body of water-4.mp4",
+                "video_results": 0.9698028564453125,
+                "video_sim": 15.516845703125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a pile of wood sitting next to a log house-0.mp4",
+                "video_results": 0.97625732421875,
+                "video_sim": 15.6201171875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a pile of wood sitting next to a log house-1.mp4",
+                "video_results": 0.98699951171875,
+                "video_sim": 15.7919921875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a pile of wood sitting next to a log house-2.mp4",
+                "video_results": 0.949615478515625,
+                "video_sim": 15.19384765625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a pile of wood sitting next to a log house-3.mp4",
+                "video_results": 0.944091796875,
+                "video_sim": 15.10546875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a pile of wood sitting next to a log house-4.mp4",
+                "video_results": 0.976165771484375,
+                "video_sim": 15.61865234375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a view of a snowy mountain side with many buildings-0.mp4",
+                "video_results": 0.9420013427734375,
+                "video_sim": 15.072021484375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a view of a snowy mountain side with many buildings-1.mp4",
+                "video_results": 0.9232330322265625,
+                "video_sim": 14.771728515625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a view of a snowy mountain side with many buildings-2.mp4",
+                "video_results": 0.936737060546875,
+                "video_sim": 14.98779296875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a view of a snowy mountain side with many buildings-3.mp4",
+                "video_results": 0.9378204345703125,
+                "video_sim": 15.005126953125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a view of a snowy mountain side with many buildings-4.mp4",
+                "video_results": 0.8906402587890625,
+                "video_sim": 14.250244140625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/san francisco skyline at sunset-0.mp4",
+                "video_results": 0.9253997802734375,
+                "video_sim": 14.806396484375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/san francisco skyline at sunset-1.mp4",
+                "video_results": 0.8654937744140625,
+                "video_sim": 13.847900390625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/san francisco skyline at sunset-2.mp4",
+                "video_results": 0.9247589111328125,
+                "video_sim": 14.796142578125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/san francisco skyline at sunset-3.mp4",
+                "video_results": 0.8924713134765625,
+                "video_sim": 14.279541015625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/san francisco skyline at sunset-4.mp4",
+                "video_results": 0.8757781982421875,
+                "video_sim": 14.012451171875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a castle on top of a hill covered in snow-0.mp4",
+                "video_results": 0.943328857421875,
+                "video_sim": 15.09326171875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a castle on top of a hill covered in snow-1.mp4",
+                "video_results": 0.83056640625,
+                "video_sim": 13.2890625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a castle on top of a hill covered in snow-2.mp4",
+                "video_results": 0.8830413818359375,
+                "video_sim": 14.128662109375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a castle on top of a hill covered in snow-3.mp4",
+                "video_results": 0.818359375,
+                "video_sim": 13.09375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a castle on top of a hill covered in snow-4.mp4",
+                "video_results": 0.9215850830078125,
+                "video_sim": 14.745361328125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/an aerial view of big ben and the houses of parliament in london-0.mp4",
+                "video_results": 0.9185791015625,
+                "video_sim": 14.697265625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/an aerial view of big ben and the houses of parliament in london-1.mp4",
+                "video_results": 0.9459991455078125,
+                "video_sim": 15.135986328125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/an aerial view of big ben and the houses of parliament in london-2.mp4",
+                "video_results": 0.9505462646484375,
+                "video_sim": 15.208740234375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/an aerial view of big ben and the houses of parliament in london-3.mp4",
+                "video_results": 0.9308624267578125,
+                "video_sim": 14.893798828125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/an aerial view of big ben and the houses of parliament in london-4.mp4",
+                "video_results": 0.7946624755859375,
+                "video_sim": 12.714599609375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a beach with a lot of buildings on the side of a cliff-0.mp4",
+                "video_results": 0.907501220703125,
+                "video_sim": 14.52001953125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a beach with a lot of buildings on the side of a cliff-1.mp4",
+                "video_results": 0.8704376220703125,
+                "video_sim": 13.927001953125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a beach with a lot of buildings on the side of a cliff-2.mp4",
+                "video_results": 0.8536224365234375,
+                "video_sim": 13.657958984375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a beach with a lot of buildings on the side of a cliff-3.mp4",
+                "video_results": 0.79473876953125,
+                "video_sim": 12.7158203125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a beach with a lot of buildings on the side of a cliff-4.mp4",
+                "video_results": 0.94158935546875,
+                "video_sim": 15.0654296875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/an alley way in an old european city-0.mp4",
+                "video_results": 0.9173431396484375,
+                "video_sim": 14.677490234375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/an alley way in an old european city-1.mp4",
+                "video_results": 0.981048583984375,
+                "video_sim": 15.69677734375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/an alley way in an old european city-2.mp4",
+                "video_results": 0.942779541015625,
+                "video_sim": 15.08447265625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/an alley way in an old european city-3.mp4",
+                "video_results": 0.9287109375,
+                "video_sim": 14.859375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/an alley way in an old european city-4.mp4",
+                "video_results": 0.963165283203125,
+                "video_sim": 15.41064453125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/the golden gate bridge in san franscisco is lit up by the setting sun-0.mp4",
+                "video_results": 0.9596405029296875,
+                "video_sim": 15.354248046875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/the golden gate bridge in san franscisco is lit up by the setting sun-1.mp4",
+                "video_results": 0.9524383544921875,
+                "video_sim": 15.239013671875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/the golden gate bridge in san franscisco is lit up by the setting sun-2.mp4",
+                "video_results": 0.975250244140625,
+                "video_sim": 15.60400390625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/the golden gate bridge in san franscisco is lit up by the setting sun-3.mp4",
+                "video_results": 0.9561614990234375,
+                "video_sim": 15.298583984375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/the golden gate bridge in san franscisco is lit up by the setting sun-4.mp4",
+                "video_results": 0.87396240234375,
+                "video_sim": 13.9833984375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/the great wall of china in autumn-0.mp4",
+                "video_results": 0.833526611328125,
+                "video_sim": 13.33642578125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/the great wall of china in autumn-1.mp4",
+                "video_results": 0.9426116943359375,
+                "video_sim": 15.081787109375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/the great wall of china in autumn-2.mp4",
+                "video_results": 0.976806640625,
+                "video_sim": 15.62890625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/the great wall of china in autumn-3.mp4",
+                "video_results": 0.9788055419921875,
+                "video_sim": 15.660888671875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/the great wall of china in autumn-4.mp4",
+                "video_results": 0.97711181640625,
+                "video_sim": 15.6337890625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/the town of hallstatt is surrounded by mountains and water-0.mp4",
+                "video_results": 0.8835906982421875,
+                "video_sim": 14.137451171875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/the town of hallstatt is surrounded by mountains and water-1.mp4",
+                "video_results": 0.91845703125,
+                "video_sim": 14.6953125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/the town of hallstatt is surrounded by mountains and water-2.mp4",
+                "video_results": 0.9694061279296875,
+                "video_sim": 15.510498046875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/the town of hallstatt is surrounded by mountains and water-3.mp4",
+                "video_results": 0.829315185546875,
+                "video_sim": 13.26904296875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/the town of hallstatt is surrounded by mountains and water-4.mp4",
+                "video_results": 0.92498779296875,
+                "video_sim": 14.7998046875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/tokyo skyline at night-0.mp4",
+                "video_results": 0.973876953125,
+                "video_sim": 15.58203125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/tokyo skyline at night-1.mp4",
+                "video_results": 0.9820404052734375,
+                "video_sim": 15.712646484375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/tokyo skyline at night-2.mp4",
+                "video_results": 0.904052734375,
+                "video_sim": 14.46484375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/tokyo skyline at night-3.mp4",
+                "video_results": 0.9136199951171875,
+                "video_sim": 14.617919921875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/tokyo skyline at night-4.mp4",
+                "video_results": 0.8250274658203125,
+                "video_sim": 13.200439453125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a large wave crashes into a lighthouse-0.mp4",
+                "video_results": 0.7658538818359375,
+                "video_sim": 12.253662109375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a large wave crashes into a lighthouse-1.mp4",
+                "video_results": 0.8790435791015625,
+                "video_sim": 14.064697265625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a large wave crashes into a lighthouse-2.mp4",
+                "video_results": 0.8462066650390625,
+                "video_sim": 13.539306640625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a large wave crashes into a lighthouse-3.mp4",
+                "video_results": 0.845794677734375,
+                "video_sim": 13.53271484375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a large wave crashes into a lighthouse-4.mp4",
+                "video_results": 0.8610992431640625,
+                "video_sim": 13.777587890625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a church sits on top of a hill under a cloudy sky-0.mp4",
+                "video_results": 0.927764892578125,
+                "video_sim": 14.84423828125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a church sits on top of a hill under a cloudy sky-1.mp4",
+                "video_results": 0.970428466796875,
+                "video_sim": 15.52685546875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a church sits on top of a hill under a cloudy sky-2.mp4",
+                "video_results": 0.87640380859375,
+                "video_sim": 14.0224609375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a church sits on top of a hill under a cloudy sky-3.mp4",
+                "video_results": 0.9556427001953125,
+                "video_sim": 15.290283203125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a church sits on top of a hill under a cloudy sky-4.mp4",
+                "video_results": 0.9014892578125,
+                "video_sim": 14.423828125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/the parthenon in acropolis, greece-0.mp4",
+                "video_results": 0.9698486328125,
+                "video_sim": 15.517578125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/the parthenon in acropolis, greece-1.mp4",
+                "video_results": 0.92181396484375,
+                "video_sim": 14.7490234375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/the parthenon in acropolis, greece-2.mp4",
+                "video_results": 0.9614105224609375,
+                "video_sim": 15.382568359375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/the parthenon in acropolis, greece-3.mp4",
+                "video_results": 0.9342041015625,
+                "video_sim": 14.947265625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/the parthenon in acropolis, greece-4.mp4",
+                "video_results": 0.8660430908203125,
+                "video_sim": 13.856689453125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a large crowd of people walking in a shopping mall-0.mp4",
+                "video_results": 0.9060211181640625,
+                "video_sim": 14.496337890625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a large crowd of people walking in a shopping mall-1.mp4",
+                "video_results": 0.8882293701171875,
+                "video_sim": 14.211669921875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a large crowd of people walking in a shopping mall-2.mp4",
+                "video_results": 0.899749755859375,
+                "video_sim": 14.39599609375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a large crowd of people walking in a shopping mall-3.mp4",
+                "video_results": 0.9476165771484375,
+                "video_sim": 15.161865234375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a large crowd of people walking in a shopping mall-4.mp4",
+                "video_results": 0.919586181640625,
+                "video_sim": 14.71337890625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/the pyramids of giza, egypt-0.mp4",
+                "video_results": 0.8128662109375,
+                "video_sim": 13.005859375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/the pyramids of giza, egypt-1.mp4",
+                "video_results": 0.89154052734375,
+                "video_sim": 14.2646484375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/the pyramids of giza, egypt-2.mp4",
+                "video_results": 0.903656005859375,
+                "video_sim": 14.45849609375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/the pyramids of giza, egypt-3.mp4",
+                "video_results": 0.97430419921875,
+                "video_sim": 15.5888671875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/the pyramids of giza, egypt-4.mp4",
+                "video_results": 0.9707183837890625,
+                "video_sim": 15.531494140625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a stage door painted with a star on the side of a brick wall-0.mp4",
+                "video_results": 0.880828857421875,
+                "video_sim": 14.09326171875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a stage door painted with a star on the side of a brick wall-1.mp4",
+                "video_results": 0.984161376953125,
+                "video_sim": 15.74658203125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a stage door painted with a star on the side of a brick wall-2.mp4",
+                "video_results": 0.9870452880859375,
+                "video_sim": 15.792724609375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a stage door painted with a star on the side of a brick wall-3.mp4",
+                "video_results": 0.9845428466796875,
+                "video_sim": 15.752685546875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a stage door painted with a star on the side of a brick wall-4.mp4",
+                "video_results": 0.98291015625,
+                "video_sim": 15.7265625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a light house on the edge of the water-0.mp4",
+                "video_results": 0.8186187744140625,
+                "video_sim": 13.097900390625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a light house on the edge of the water-1.mp4",
+                "video_results": 0.92626953125,
+                "video_sim": 14.8203125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a light house on the edge of the water-2.mp4",
+                "video_results": 0.903533935546875,
+                "video_sim": 14.45654296875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a light house on the edge of the water-3.mp4",
+                "video_results": 0.83636474609375,
+                "video_sim": 13.3818359375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a light house on the edge of the water-4.mp4",
+                "video_results": 0.9542999267578125,
+                "video_sim": 15.268798828125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/an asian city street at night with people and bicycles-0.mp4",
+                "video_results": 0.9188995361328125,
+                "video_sim": 14.702392578125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/an asian city street at night with people and bicycles-1.mp4",
+                "video_results": 0.8911590576171875,
+                "video_sim": 14.258544921875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/an asian city street at night with people and bicycles-2.mp4",
+                "video_results": 0.89520263671875,
+                "video_sim": 14.3232421875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/an asian city street at night with people and bicycles-3.mp4",
+                "video_results": 0.8638153076171875,
+                "video_sim": 13.821044921875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/an asian city street at night with people and bicycles-4.mp4",
+                "video_results": 0.882904052734375,
+                "video_sim": 14.12646484375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a couple of wooden benches in the middle of a street-0.mp4",
+                "video_results": 0.9716644287109375,
+                "video_sim": 15.546630859375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a couple of wooden benches in the middle of a street-1.mp4",
+                "video_results": 0.8901214599609375,
+                "video_sim": 14.241943359375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a couple of wooden benches in the middle of a street-2.mp4",
+                "video_results": 0.981414794921875,
+                "video_sim": 15.70263671875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a couple of wooden benches in the middle of a street-3.mp4",
+                "video_results": 0.8472442626953125,
+                "video_sim": 13.555908203125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a couple of wooden benches in the middle of a street-4.mp4",
+                "video_results": 0.9755401611328125,
+                "video_sim": 15.608642578125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a pagoda sits on top of a mountain in japan-0.mp4",
+                "video_results": 0.9102935791015625,
+                "video_sim": 14.564697265625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a pagoda sits on top of a mountain in japan-1.mp4",
+                "video_results": 0.9887542724609375,
+                "video_sim": 15.820068359375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a pagoda sits on top of a mountain in japan-2.mp4",
+                "video_results": 0.8612823486328125,
+                "video_sim": 13.780517578125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a pagoda sits on top of a mountain in japan-3.mp4",
+                "video_results": 0.990020751953125,
+                "video_sim": 15.84033203125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a pagoda sits on top of a mountain in japan-4.mp4",
+                "video_results": 0.990692138671875,
+                "video_sim": 15.85107421875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a red bus driving down a snowy street at night-0.mp4",
+                "video_results": 0.9629058837890625,
+                "video_sim": 15.406494140625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a red bus driving down a snowy street at night-1.mp4",
+                "video_results": 0.8569183349609375,
+                "video_sim": 13.710693359375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a red bus driving down a snowy street at night-2.mp4",
+                "video_results": 0.878997802734375,
+                "video_sim": 14.06396484375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a red bus driving down a snowy street at night-3.mp4",
+                "video_results": 0.796478271484375,
+                "video_sim": 12.74365234375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a red bus driving down a snowy street at night-4.mp4",
+                "video_results": 0.8184661865234375,
+                "video_sim": 13.095458984375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a snow covered street-0.mp4",
+                "video_results": 0.852020263671875,
+                "video_sim": 13.63232421875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a snow covered street-1.mp4",
+                "video_results": 0.9258880615234375,
+                "video_sim": 14.814208984375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a snow covered street-2.mp4",
+                "video_results": 0.943939208984375,
+                "video_sim": 15.10302734375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a snow covered street-3.mp4",
+                "video_results": 0.9410247802734375,
+                "video_sim": 15.056396484375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a snow covered street-4.mp4",
+                "video_results": 0.848785400390625,
+                "video_sim": 13.58056640625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a house with snow on the ground-0.mp4",
+                "video_results": 0.9444122314453125,
+                "video_sim": 15.110595703125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a house with snow on the ground-1.mp4",
+                "video_results": 0.962860107421875,
+                "video_sim": 15.40576171875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a house with snow on the ground-2.mp4",
+                "video_results": 0.9600067138671875,
+                "video_sim": 15.360107421875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a house with snow on the ground-3.mp4",
+                "video_results": 0.979827880859375,
+                "video_sim": 15.67724609375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a house with snow on the ground-4.mp4",
+                "video_results": 0.9532470703125,
+                "video_sim": 15.251953125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/cars parked on the side of the road during a snowstorm-0.mp4",
+                "video_results": 0.9522857666015625,
+                "video_sim": 15.236572265625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/cars parked on the side of the road during a snowstorm-1.mp4",
+                "video_results": 0.9361419677734375,
+                "video_sim": 14.978271484375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/cars parked on the side of the road during a snowstorm-2.mp4",
+                "video_results": 0.9067230224609375,
+                "video_sim": 14.507568359375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/cars parked on the side of the road during a snowstorm-3.mp4",
+                "video_results": 0.9214630126953125,
+                "video_sim": 14.743408203125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/cars parked on the side of the road during a snowstorm-4.mp4",
+                "video_results": 0.9805755615234375,
+                "video_sim": 15.689208984375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a group of statues on the side of a building-0.mp4",
+                "video_results": 0.9715728759765625,
+                "video_sim": 15.545166015625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a group of statues on the side of a building-1.mp4",
+                "video_results": 0.96875,
+                "video_sim": 15.5,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a group of statues on the side of a building-2.mp4",
+                "video_results": 0.9836273193359375,
+                "video_sim": 15.738037109375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a group of statues on the side of a building-3.mp4",
+                "video_results": 0.9870758056640625,
+                "video_sim": 15.793212890625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a group of statues on the side of a building-4.mp4",
+                "video_results": 0.974822998046875,
+                "video_sim": 15.59716796875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a city street at night during a snow storm-0.mp4",
+                "video_results": 0.9637908935546875,
+                "video_sim": 15.420654296875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a city street at night during a snow storm-1.mp4",
+                "video_results": 0.9043731689453125,
+                "video_sim": 14.469970703125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a city street at night during a snow storm-2.mp4",
+                "video_results": 0.9868316650390625,
+                "video_sim": 15.789306640625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a city street at night during a snow storm-3.mp4",
+                "video_results": 0.8766632080078125,
+                "video_sim": 14.026611328125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a city street at night during a snow storm-4.mp4",
+                "video_results": 0.8839569091796875,
+                "video_sim": 14.143310546875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/tower bridge in london-0.mp4",
+                "video_results": 0.77020263671875,
+                "video_sim": 12.3232421875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/tower bridge in london-1.mp4",
+                "video_results": 0.9734344482421875,
+                "video_sim": 15.574951171875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/tower bridge in london-2.mp4",
+                "video_results": 0.839599609375,
+                "video_sim": 13.43359375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/tower bridge in london-3.mp4",
+                "video_results": 0.8613128662109375,
+                "video_sim": 13.781005859375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/tower bridge in london-4.mp4",
+                "video_results": 0.939453125,
+                "video_sim": 15.03125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/chinese pagoda in the middle of a snowy day-0.mp4",
+                "video_results": 0.89971923828125,
+                "video_sim": 14.3955078125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/chinese pagoda in the middle of a snowy day-1.mp4",
+                "video_results": 0.9044952392578125,
+                "video_sim": 14.471923828125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/chinese pagoda in the middle of a snowy day-2.mp4",
+                "video_results": 0.95269775390625,
+                "video_sim": 15.2431640625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/chinese pagoda in the middle of a snowy day-3.mp4",
+                "video_results": 0.7915496826171875,
+                "video_sim": 12.664794921875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/chinese pagoda in the middle of a snowy day-4.mp4",
+                "video_results": 0.92730712890625,
+                "video_sim": 14.8369140625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a dark alleyway with a bus driving down it-0.mp4",
+                "video_results": 0.84796142578125,
+                "video_sim": 13.5673828125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a dark alleyway with a bus driving down it-1.mp4",
+                "video_results": 0.973358154296875,
+                "video_sim": 15.57373046875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a dark alleyway with a bus driving down it-2.mp4",
+                "video_results": 0.9691925048828125,
+                "video_sim": 15.507080078125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a dark alleyway with a bus driving down it-3.mp4",
+                "video_results": 0.9730224609375,
+                "video_sim": 15.568359375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a dark alleyway with a bus driving down it-4.mp4",
+                "video_results": 0.9527130126953125,
+                "video_sim": 15.243408203125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a monastery sits on top of a cliff in bhutan-0.mp4",
+                "video_results": 0.9774017333984375,
+                "video_sim": 15.638427734375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a monastery sits on top of a cliff in bhutan-1.mp4",
+                "video_results": 0.9923095703125,
+                "video_sim": 15.876953125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a monastery sits on top of a cliff in bhutan-2.mp4",
+                "video_results": 0.984619140625,
+                "video_sim": 15.75390625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a monastery sits on top of a cliff in bhutan-3.mp4",
+                "video_results": 0.973663330078125,
+                "video_sim": 15.57861328125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a monastery sits on top of a cliff in bhutan-4.mp4",
+                "video_results": 0.9919891357421875,
+                "video_sim": 15.871826171875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/the dome of the rock in jerusalem-0.mp4",
+                "video_results": 0.9716949462890625,
+                "video_sim": 15.547119140625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/the dome of the rock in jerusalem-1.mp4",
+                "video_results": 0.9891357421875,
+                "video_sim": 15.826171875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/the dome of the rock in jerusalem-2.mp4",
+                "video_results": 0.9786529541015625,
+                "video_sim": 15.658447265625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/the dome of the rock in jerusalem-3.mp4",
+                "video_results": 0.9517822265625,
+                "video_sim": 15.228515625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/the dome of the rock in jerusalem-4.mp4",
+                "video_results": 0.9456329345703125,
+                "video_sim": 15.130126953125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/an aerial view of a futuristic building on a cliff overlooking a body of water-0.mp4",
+                "video_results": 0.9420623779296875,
+                "video_sim": 15.072998046875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/an aerial view of a futuristic building on a cliff overlooking a body of water-1.mp4",
+                "video_results": 0.8351593017578125,
+                "video_sim": 13.362548828125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/an aerial view of a futuristic building on a cliff overlooking a body of water-2.mp4",
+                "video_results": 0.9005889892578125,
+                "video_sim": 14.409423828125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/an aerial view of a futuristic building on a cliff overlooking a body of water-3.mp4",
+                "video_results": 0.8635711669921875,
+                "video_sim": 13.817138671875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/an aerial view of a futuristic building on a cliff overlooking a body of water-4.mp4",
+                "video_results": 0.931427001953125,
+                "video_sim": 14.90283203125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a reflection of a city with buildings in the water-0.mp4",
+                "video_results": 0.973388671875,
+                "video_sim": 15.57421875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a reflection of a city with buildings in the water-1.mp4",
+                "video_results": 0.9687347412109375,
+                "video_sim": 15.499755859375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a reflection of a city with buildings in the water-2.mp4",
+                "video_results": 0.930816650390625,
+                "video_sim": 14.89306640625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a reflection of a city with buildings in the water-3.mp4",
+                "video_results": 0.9729156494140625,
+                "video_sim": 15.566650390625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a reflection of a city with buildings in the water-4.mp4",
+                "video_results": 0.963287353515625,
+                "video_sim": 15.41259765625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a bar with chairs and a television on the wall-0.mp4",
+                "video_results": 0.9514617919921875,
+                "video_sim": 15.223388671875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a bar with chairs and a television on the wall-1.mp4",
+                "video_results": 0.9722900390625,
+                "video_sim": 15.556640625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a bar with chairs and a television on the wall-2.mp4",
+                "video_results": 0.941253662109375,
+                "video_sim": 15.06005859375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a bar with chairs and a television on the wall-3.mp4",
+                "video_results": 0.9652557373046875,
+                "video_sim": 15.444091796875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a bar with chairs and a television on the wall-4.mp4",
+                "video_results": 0.9627685546875,
+                "video_sim": 15.404296875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a living room filled with lots of books on a wall-0.mp4",
+                "video_results": 0.981689453125,
+                "video_sim": 15.70703125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a living room filled with lots of books on a wall-1.mp4",
+                "video_results": 0.9581298828125,
+                "video_sim": 15.330078125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a living room filled with lots of books on a wall-2.mp4",
+                "video_results": 0.93988037109375,
+                "video_sim": 15.0380859375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a living room filled with lots of books on a wall-3.mp4",
+                "video_results": 0.983734130859375,
+                "video_sim": 15.73974609375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a living room filled with lots of books on a wall-4.mp4",
+                "video_results": 0.925384521484375,
+                "video_sim": 14.80615234375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a living room filled with furniture next to a stone wall-0.mp4",
+                "video_results": 0.971893310546875,
+                "video_sim": 15.55029296875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a living room filled with furniture next to a stone wall-1.mp4",
+                "video_results": 0.9483795166015625,
+                "video_sim": 15.174072265625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a living room filled with furniture next to a stone wall-2.mp4",
+                "video_results": 0.9564971923828125,
+                "video_sim": 15.303955078125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a living room filled with furniture next to a stone wall-3.mp4",
+                "video_results": 0.9696807861328125,
+                "video_sim": 15.514892578125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a living room filled with furniture next to a stone wall-4.mp4",
+                "video_results": 0.9660797119140625,
+                "video_sim": 15.457275390625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a table and chairs in a room with sunlight coming through the window-0.mp4",
+                "video_results": 0.96356201171875,
+                "video_sim": 15.4169921875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a table and chairs in a room with sunlight coming through the window-1.mp4",
+                "video_results": 0.9089813232421875,
+                "video_sim": 14.543701171875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a table and chairs in a room with sunlight coming through the window-2.mp4",
+                "video_results": 0.920928955078125,
+                "video_sim": 14.73486328125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a table and chairs in a room with sunlight coming through the window-3.mp4",
+                "video_results": 0.8864288330078125,
+                "video_sim": 14.182861328125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a table and chairs in a room with sunlight coming through the window-4.mp4",
+                "video_results": 0.8950042724609375,
+                "video_sim": 14.320068359375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a room filled with lots of shelves filled with books-0.mp4",
+                "video_results": 0.9719390869140625,
+                "video_sim": 15.551025390625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a room filled with lots of shelves filled with books-1.mp4",
+                "video_results": 0.9722442626953125,
+                "video_sim": 15.555908203125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a room filled with lots of shelves filled with books-2.mp4",
+                "video_results": 0.96881103515625,
+                "video_sim": 15.5009765625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a room filled with lots of shelves filled with books-3.mp4",
+                "video_results": 0.9595947265625,
+                "video_sim": 15.353515625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a room filled with lots of shelves filled with books-4.mp4",
+                "video_results": 0.9723663330078125,
+                "video_sim": 15.557861328125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/an art gallery with paintings on the walls-0.mp4",
+                "video_results": 0.978363037109375,
+                "video_sim": 15.65380859375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/an art gallery with paintings on the walls-1.mp4",
+                "video_results": 0.979766845703125,
+                "video_sim": 15.67626953125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/an art gallery with paintings on the walls-2.mp4",
+                "video_results": 0.983154296875,
+                "video_sim": 15.73046875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/an art gallery with paintings on the walls-3.mp4",
+                "video_results": 0.945037841796875,
+                "video_sim": 15.12060546875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/an art gallery with paintings on the walls-4.mp4",
+                "video_results": 0.9792633056640625,
+                "video_sim": 15.668212890625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a room with a lot of pictures on the walls-0.mp4",
+                "video_results": 0.973297119140625,
+                "video_sim": 15.57275390625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a room with a lot of pictures on the walls-1.mp4",
+                "video_results": 0.98382568359375,
+                "video_sim": 15.7412109375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a room with a lot of pictures on the walls-2.mp4",
+                "video_results": 0.8787841796875,
+                "video_sim": 14.060546875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a room with a lot of pictures on the walls-3.mp4",
+                "video_results": 0.9598388671875,
+                "video_sim": 15.357421875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a room with a lot of pictures on the walls-4.mp4",
+                "video_results": 0.928680419921875,
+                "video_sim": 14.85888671875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a painting of a cloudy sky next to an easel-0.mp4",
+                "video_results": 0.9746551513671875,
+                "video_sim": 15.594482421875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a painting of a cloudy sky next to an easel-1.mp4",
+                "video_results": 0.9281158447265625,
+                "video_sim": 14.849853515625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a painting of a cloudy sky next to an easel-2.mp4",
+                "video_results": 0.9754486083984375,
+                "video_sim": 15.607177734375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a painting of a cloudy sky next to an easel-3.mp4",
+                "video_results": 0.98211669921875,
+                "video_sim": 15.7138671875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a painting of a cloudy sky next to an easel-4.mp4",
+                "video_results": 0.9714813232421875,
+                "video_sim": 15.543701171875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a living room with a christmas tree and a rocking chair-0.mp4",
+                "video_results": 0.97906494140625,
+                "video_sim": 15.6650390625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a living room with a christmas tree and a rocking chair-1.mp4",
+                "video_results": 0.9727935791015625,
+                "video_sim": 15.564697265625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a living room with a christmas tree and a rocking chair-2.mp4",
+                "video_results": 0.95843505859375,
+                "video_sim": 15.3349609375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a living room with a christmas tree and a rocking chair-3.mp4",
+                "video_results": 0.927520751953125,
+                "video_sim": 14.84033203125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a living room with a christmas tree and a rocking chair-4.mp4",
+                "video_results": 0.9459686279296875,
+                "video_sim": 15.135498046875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a kitchen with a sink and a lot of glasses on the counter-0.mp4",
+                "video_results": 0.9839324951171875,
+                "video_sim": 15.742919921875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a kitchen with a sink and a lot of glasses on the counter-1.mp4",
+                "video_results": 0.9623870849609375,
+                "video_sim": 15.398193359375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a kitchen with a sink and a lot of glasses on the counter-2.mp4",
+                "video_results": 0.9708709716796875,
+                "video_sim": 15.533935546875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a kitchen with a sink and a lot of glasses on the counter-3.mp4",
+                "video_results": 0.9877471923828125,
+                "video_sim": 15.803955078125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a kitchen with a sink and a lot of glasses on the counter-4.mp4",
+                "video_results": 0.9879150390625,
+                "video_sim": 15.806640625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a wooden table in front of a brick wall with bottles on the wall-0.mp4",
+                "video_results": 0.983123779296875,
+                "video_sim": 15.72998046875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a wooden table in front of a brick wall with bottles on the wall-1.mp4",
+                "video_results": 0.987091064453125,
+                "video_sim": 15.79345703125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a wooden table in front of a brick wall with bottles on the wall-2.mp4",
+                "video_results": 0.9869384765625,
+                "video_sim": 15.791015625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a wooden table in front of a brick wall with bottles on the wall-3.mp4",
+                "video_results": 0.9878082275390625,
+                "video_sim": 15.804931640625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a wooden table in front of a brick wall with bottles on the wall-4.mp4",
+                "video_results": 0.930633544921875,
+                "video_sim": 14.89013671875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a room filled with paintings and statues-0.mp4",
+                "video_results": 0.987518310546875,
+                "video_sim": 15.80029296875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a room filled with paintings and statues-1.mp4",
+                "video_results": 0.9488067626953125,
+                "video_sim": 15.180908203125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a room filled with paintings and statues-2.mp4",
+                "video_results": 0.86773681640625,
+                "video_sim": 13.8837890625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a room filled with paintings and statues-3.mp4",
+                "video_results": 0.9870147705078125,
+                "video_sim": 15.792236328125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a room filled with paintings and statues-4.mp4",
+                "video_results": 0.9562835693359375,
+                "video_sim": 15.300537109375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/an outdoor dining area surrounded by plants and a brick walkway-0.mp4",
+                "video_results": 0.9842681884765625,
+                "video_sim": 15.748291015625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/an outdoor dining area surrounded by plants and a brick walkway-1.mp4",
+                "video_results": 0.978057861328125,
+                "video_sim": 15.64892578125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/an outdoor dining area surrounded by plants and a brick walkway-2.mp4",
+                "video_results": 0.9814453125,
+                "video_sim": 15.703125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/an outdoor dining area surrounded by plants and a brick walkway-3.mp4",
+                "video_results": 0.9706878662109375,
+                "video_sim": 15.531005859375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/an outdoor dining area surrounded by plants and a brick walkway-4.mp4",
+                "video_results": 0.915374755859375,
+                "video_sim": 14.64599609375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a room filled with books and teddy bears-0.mp4",
+                "video_results": 0.96307373046875,
+                "video_sim": 15.4091796875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a room filled with books and teddy bears-1.mp4",
+                "video_results": 0.9461212158203125,
+                "video_sim": 15.137939453125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a room filled with books and teddy bears-2.mp4",
+                "video_results": 0.9022064208984375,
+                "video_sim": 14.435302734375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a room filled with books and teddy bears-3.mp4",
+                "video_results": 0.969146728515625,
+                "video_sim": 15.50634765625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a room filled with books and teddy bears-4.mp4",
+                "video_results": 0.968994140625,
+                "video_sim": 15.50390625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a table and chairs in a room with a plant in the corner-0.mp4",
+                "video_results": 0.9228973388671875,
+                "video_sim": 14.766357421875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a table and chairs in a room with a plant in the corner-1.mp4",
+                "video_results": 0.968780517578125,
+                "video_sim": 15.50048828125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a table and chairs in a room with a plant in the corner-2.mp4",
+                "video_results": 0.9620208740234375,
+                "video_sim": 15.392333984375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a table and chairs in a room with a plant in the corner-3.mp4",
+                "video_results": 0.991058349609375,
+                "video_sim": 15.85693359375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a table and chairs in a room with a plant in the corner-4.mp4",
+                "video_results": 0.9631805419921875,
+                "video_sim": 15.410888671875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a living room with a couch, table, and a window-0.mp4",
+                "video_results": 0.849517822265625,
+                "video_sim": 13.59228515625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a living room with a couch, table, and a window-1.mp4",
+                "video_results": 0.8557891845703125,
+                "video_sim": 13.692626953125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a living room with a couch, table, and a window-2.mp4",
+                "video_results": 0.911224365234375,
+                "video_sim": 14.57958984375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a living room with a couch, table, and a window-3.mp4",
+                "video_results": 0.8983001708984375,
+                "video_sim": 14.372802734375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a living room with a couch, table, and a window-4.mp4",
+                "video_results": 0.8520355224609375,
+                "video_sim": 13.632568359375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a modern living room with wood floors and a tv-0.mp4",
+                "video_results": 0.9767608642578125,
+                "video_sim": 15.628173828125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a modern living room with wood floors and a tv-1.mp4",
+                "video_results": 0.9726104736328125,
+                "video_sim": 15.561767578125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a modern living room with wood floors and a tv-2.mp4",
+                "video_results": 0.9503326416015625,
+                "video_sim": 15.205322265625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a modern living room with wood floors and a tv-3.mp4",
+                "video_results": 0.9804840087890625,
+                "video_sim": 15.687744140625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a modern living room with wood floors and a tv-4.mp4",
+                "video_results": 0.9577484130859375,
+                "video_sim": 15.323974609375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a room with a desk and a chair in it-0.mp4",
+                "video_results": 0.9815521240234375,
+                "video_sim": 15.704833984375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a room with a desk and a chair in it-1.mp4",
+                "video_results": 0.9835968017578125,
+                "video_sim": 15.737548828125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a room with a desk and a chair in it-2.mp4",
+                "video_results": 0.98345947265625,
+                "video_sim": 15.7353515625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a room with a desk and a chair in it-3.mp4",
+                "video_results": 0.9583282470703125,
+                "video_sim": 15.333251953125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a room with a desk and a chair in it-4.mp4",
+                "video_results": 0.98651123046875,
+                "video_sim": 15.7841796875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a large waterfall in the middle of a building-0.mp4",
+                "video_results": 0.9518585205078125,
+                "video_sim": 15.229736328125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a large waterfall in the middle of a building-1.mp4",
+                "video_results": 0.9589385986328125,
+                "video_sim": 15.343017578125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a large waterfall in the middle of a building-2.mp4",
+                "video_results": 0.93621826171875,
+                "video_sim": 14.9794921875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a large waterfall in the middle of a building-3.mp4",
+                "video_results": 0.911895751953125,
+                "video_sim": 14.59033203125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a large waterfall in the middle of a building-4.mp4",
+                "video_results": 0.9557342529296875,
+                "video_sim": 15.291748046875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a chair in a room next to some drawings-0.mp4",
+                "video_results": 0.9612274169921875,
+                "video_sim": 15.379638671875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a chair in a room next to some drawings-1.mp4",
+                "video_results": 0.963653564453125,
+                "video_sim": 15.41845703125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a chair in a room next to some drawings-2.mp4",
+                "video_results": 0.96990966796875,
+                "video_sim": 15.5185546875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a chair in a room next to some drawings-3.mp4",
+                "video_results": 0.9507293701171875,
+                "video_sim": 15.211669921875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a chair in a room next to some drawings-4.mp4",
+                "video_results": 0.9707489013671875,
+                "video_sim": 15.531982421875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a living room with hardwood floors and a white couch-0.mp4",
+                "video_results": 0.964752197265625,
+                "video_sim": 15.43603515625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a living room with hardwood floors and a white couch-1.mp4",
+                "video_results": 0.9698028564453125,
+                "video_sim": 15.516845703125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a living room with hardwood floors and a white couch-2.mp4",
+                "video_results": 0.9624481201171875,
+                "video_sim": 15.399169921875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a living room with hardwood floors and a white couch-3.mp4",
+                "video_results": 0.954315185546875,
+                "video_sim": 15.26904296875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a living room with hardwood floors and a white couch-4.mp4",
+                "video_results": 0.9595184326171875,
+                "video_sim": 15.352294921875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/two people in a canoe on a lake with mountains in the background-0.mp4",
+                "video_results": 0.95806884765625,
+                "video_sim": 15.3291015625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/two people in a canoe on a lake with mountains in the background-1.mp4",
+                "video_results": 0.9838104248046875,
+                "video_sim": 15.740966796875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/two people in a canoe on a lake with mountains in the background-2.mp4",
+                "video_results": 0.9663543701171875,
+                "video_sim": 15.461669921875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/two people in a canoe on a lake with mountains in the background-3.mp4",
+                "video_results": 0.959381103515625,
+                "video_sim": 15.35009765625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/two people in a canoe on a lake with mountains in the background-4.mp4",
+                "video_results": 0.9486083984375,
+                "video_sim": 15.177734375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/an aerial view of a snowy road in a forest-0.mp4",
+                "video_results": 0.880401611328125,
+                "video_sim": 14.08642578125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/an aerial view of a snowy road in a forest-1.mp4",
+                "video_results": 0.96514892578125,
+                "video_sim": 15.4423828125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/an aerial view of a snowy road in a forest-2.mp4",
+                "video_results": 0.885040283203125,
+                "video_sim": 14.16064453125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/an aerial view of a snowy road in a forest-3.mp4",
+                "video_results": 0.8465728759765625,
+                "video_sim": 13.545166015625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/an aerial view of a snowy road in a forest-4.mp4",
+                "video_results": 0.983489990234375,
+                "video_sim": 15.73583984375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a view of a waterfall from a distance-0.mp4",
+                "video_results": 0.9698638916015625,
+                "video_sim": 15.517822265625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a view of a waterfall from a distance-1.mp4",
+                "video_results": 0.985870361328125,
+                "video_sim": 15.77392578125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a view of a waterfall from a distance-2.mp4",
+                "video_results": 0.9782257080078125,
+                "video_sim": 15.651611328125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a view of a waterfall from a distance-3.mp4",
+                "video_results": 0.862396240234375,
+                "video_sim": 13.79833984375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a view of a waterfall from a distance-4.mp4",
+                "video_results": 0.9291534423828125,
+                "video_sim": 14.866455078125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a group of hot air balloons flying over a valley-0.mp4",
+                "video_results": 0.8197784423828125,
+                "video_sim": 13.116455078125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a group of hot air balloons flying over a valley-1.mp4",
+                "video_results": 0.8596649169921875,
+                "video_sim": 13.754638671875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a group of hot air balloons flying over a valley-2.mp4",
+                "video_results": 0.93701171875,
+                "video_sim": 14.9921875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a group of hot air balloons flying over a valley-3.mp4",
+                "video_results": 0.8704986572265625,
+                "video_sim": 13.927978515625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a group of hot air balloons flying over a valley-4.mp4",
+                "video_results": 0.87066650390625,
+                "video_sim": 13.9306640625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/an aerial view of a group of islands in the middle of a lake-0.mp4",
+                "video_results": 0.9234466552734375,
+                "video_sim": 14.775146484375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/an aerial view of a group of islands in the middle of a lake-1.mp4",
+                "video_results": 0.8626708984375,
+                "video_sim": 13.802734375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/an aerial view of a group of islands in the middle of a lake-2.mp4",
+                "video_results": 0.927032470703125,
+                "video_sim": 14.83251953125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/an aerial view of a group of islands in the middle of a lake-3.mp4",
+                "video_results": 0.9158172607421875,
+                "video_sim": 14.653076171875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/an aerial view of a group of islands in the middle of a lake-4.mp4",
+                "video_results": 0.9203338623046875,
+                "video_sim": 14.725341796875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/an aerial view of a rocky beach in indonesia-0.mp4",
+                "video_results": 0.951141357421875,
+                "video_sim": 15.21826171875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/an aerial view of a rocky beach in indonesia-1.mp4",
+                "video_results": 0.9620361328125,
+                "video_sim": 15.392578125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/an aerial view of a rocky beach in indonesia-2.mp4",
+                "video_results": 0.9839630126953125,
+                "video_sim": 15.743408203125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/an aerial view of a rocky beach in indonesia-3.mp4",
+                "video_results": 0.9270172119140625,
+                "video_sim": 14.832275390625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/an aerial view of a rocky beach in indonesia-4.mp4",
+                "video_results": 0.94671630859375,
+                "video_sim": 15.1474609375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/fireworks in the night sky over a city-0.mp4",
+                "video_results": 0.9370880126953125,
+                "video_sim": 14.993408203125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/fireworks in the night sky over a city-1.mp4",
+                "video_results": 0.91143798828125,
+                "video_sim": 14.5830078125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/fireworks in the night sky over a city-2.mp4",
+                "video_results": 0.9813995361328125,
+                "video_sim": 15.702392578125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/fireworks in the night sky over a city-3.mp4",
+                "video_results": 0.9042816162109375,
+                "video_sim": 14.468505859375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/fireworks in the night sky over a city-4.mp4",
+                "video_results": 0.9417266845703125,
+                "video_sim": 15.067626953125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a large wave crashes into a lighthouse on a stormy day-0.mp4",
+                "video_results": 0.87982177734375,
+                "video_sim": 14.0771484375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a large wave crashes into a lighthouse on a stormy day-1.mp4",
+                "video_results": 0.8741302490234375,
+                "video_sim": 13.986083984375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a large wave crashes into a lighthouse on a stormy day-2.mp4",
+                "video_results": 0.88916015625,
+                "video_sim": 14.2265625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a large wave crashes into a lighthouse on a stormy day-3.mp4",
+                "video_results": 0.8726959228515625,
+                "video_sim": 13.963134765625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a large wave crashes into a lighthouse on a stormy day-4.mp4",
+                "video_results": 0.8638458251953125,
+                "video_sim": 13.821533203125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a mountain range with a sky background-0.mp4",
+                "video_results": 0.9835662841796875,
+                "video_sim": 15.737060546875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a mountain range with a sky background-1.mp4",
+                "video_results": 0.971099853515625,
+                "video_sim": 15.53759765625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a mountain range with a sky background-2.mp4",
+                "video_results": 0.9648895263671875,
+                "video_sim": 15.438232421875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a mountain range with a sky background-3.mp4",
+                "video_results": 0.9798126220703125,
+                "video_sim": 15.677001953125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a mountain range with a sky background-4.mp4",
+                "video_results": 0.948822021484375,
+                "video_sim": 15.18115234375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a large bonfire is burning in the night sky-0.mp4",
+                "video_results": 0.97021484375,
+                "video_sim": 15.5234375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a large bonfire is burning in the night sky-1.mp4",
+                "video_results": 0.9657745361328125,
+                "video_sim": 15.452392578125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a large bonfire is burning in the night sky-2.mp4",
+                "video_results": 0.9398040771484375,
+                "video_sim": 15.036865234375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a large bonfire is burning in the night sky-3.mp4",
+                "video_results": 0.982879638671875,
+                "video_sim": 15.72607421875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a large bonfire is burning in the night sky-4.mp4",
+                "video_results": 0.9780426025390625,
+                "video_sim": 15.648681640625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a close-up view of the flames of a fireplace-0.mp4",
+                "video_results": 0.9251556396484375,
+                "video_sim": 14.802490234375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a close-up view of the flames of a fireplace-1.mp4",
+                "video_results": 0.9127044677734375,
+                "video_sim": 14.603271484375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a close-up view of the flames of a fireplace-2.mp4",
+                "video_results": 0.95599365234375,
+                "video_sim": 15.2958984375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a close-up view of the flames of a fireplace-3.mp4",
+                "video_results": 0.938995361328125,
+                "video_sim": 15.02392578125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a close-up view of the flames of a fireplace-4.mp4",
+                "video_results": 0.93609619140625,
+                "video_sim": 14.9775390625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a farm in the middle of the day-0.mp4",
+                "video_results": 0.7753143310546875,
+                "video_sim": 12.405029296875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a farm in the middle of the day-1.mp4",
+                "video_results": 0.95184326171875,
+                "video_sim": 15.2294921875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a farm in the middle of the day-2.mp4",
+                "video_results": 0.90032958984375,
+                "video_sim": 14.4052734375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a farm in the middle of the day-3.mp4",
+                "video_results": 0.7881622314453125,
+                "video_sim": 12.610595703125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a farm in the middle of the day-4.mp4",
+                "video_results": 0.85345458984375,
+                "video_sim": 13.6552734375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a flock of birds flying over a tree at sunset-0.mp4",
+                "video_results": 0.9669647216796875,
+                "video_sim": 15.471435546875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a flock of birds flying over a tree at sunset-1.mp4",
+                "video_results": 0.9658660888671875,
+                "video_sim": 15.453857421875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a flock of birds flying over a tree at sunset-2.mp4",
+                "video_results": 0.854156494140625,
+                "video_sim": 13.66650390625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a flock of birds flying over a tree at sunset-3.mp4",
+                "video_results": 0.952972412109375,
+                "video_sim": 15.24755859375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a flock of birds flying over a tree at sunset-4.mp4",
+                "video_results": 0.9861907958984375,
+                "video_sim": 15.779052734375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a captivating scene featuring a spiral galaxy shining brilliantly in the night sky-0.mp4",
+                "video_results": 0.9719085693359375,
+                "video_sim": 15.550537109375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a captivating scene featuring a spiral galaxy shining brilliantly in the night sky-1.mp4",
+                "video_results": 0.9928131103515625,
+                "video_sim": 15.885009765625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a captivating scene featuring a spiral galaxy shining brilliantly in the night sky-2.mp4",
+                "video_results": 0.96002197265625,
+                "video_sim": 15.3603515625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a captivating scene featuring a spiral galaxy shining brilliantly in the night sky-3.mp4",
+                "video_results": 0.956024169921875,
+                "video_sim": 15.29638671875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a captivating scene featuring a spiral galaxy shining brilliantly in the night sky-4.mp4",
+                "video_results": 0.927734375,
+                "video_sim": 14.84375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a mountain with snow on it-0.mp4",
+                "video_results": 0.9690399169921875,
+                "video_sim": 15.504638671875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a mountain with snow on it-1.mp4",
+                "video_results": 0.9797821044921875,
+                "video_sim": 15.676513671875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a mountain with snow on it-2.mp4",
+                "video_results": 0.9163818359375,
+                "video_sim": 14.662109375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a mountain with snow on it-3.mp4",
+                "video_results": 0.9661407470703125,
+                "video_sim": 15.458251953125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a mountain with snow on it-4.mp4",
+                "video_results": 0.8667449951171875,
+                "video_sim": 13.867919921875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a bridge that is in the middle of a river-0.mp4",
+                "video_results": 0.8883209228515625,
+                "video_sim": 14.213134765625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a bridge that is in the middle of a river-1.mp4",
+                "video_results": 0.8779449462890625,
+                "video_sim": 14.047119140625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a bridge that is in the middle of a river-2.mp4",
+                "video_results": 0.958282470703125,
+                "video_sim": 15.33251953125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a bridge that is in the middle of a river-3.mp4",
+                "video_results": 0.9149017333984375,
+                "video_sim": 14.638427734375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a bridge that is in the middle of a river-4.mp4",
+                "video_results": 0.789764404296875,
+                "video_sim": 12.63623046875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a group of people standing on top of a green hill-0.mp4",
+                "video_results": 0.9184722900390625,
+                "video_sim": 14.695556640625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a group of people standing on top of a green hill-1.mp4",
+                "video_results": 0.8494720458984375,
+                "video_sim": 13.591552734375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a group of people standing on top of a green hill-2.mp4",
+                "video_results": 0.9284820556640625,
+                "video_sim": 14.855712890625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a group of people standing on top of a green hill-3.mp4",
+                "video_results": 0.949798583984375,
+                "video_sim": 15.19677734375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a group of people standing on top of a green hill-4.mp4",
+                "video_results": 0.86700439453125,
+                "video_sim": 13.8720703125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a sandy beach with a wooden pier in the water-0.mp4",
+                "video_results": 0.972137451171875,
+                "video_sim": 15.55419921875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a sandy beach with a wooden pier in the water-1.mp4",
+                "video_results": 0.9274139404296875,
+                "video_sim": 14.838623046875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a sandy beach with a wooden pier in the water-2.mp4",
+                "video_results": 0.9594879150390625,
+                "video_sim": 15.351806640625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a sandy beach with a wooden pier in the water-3.mp4",
+                "video_results": 0.945709228515625,
+                "video_sim": 15.13134765625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a sandy beach with a wooden pier in the water-4.mp4",
+                "video_results": 0.9716796875,
+                "video_sim": 15.546875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a lake surrounded by mountains and flowers-0.mp4",
+                "video_results": 0.97442626953125,
+                "video_sim": 15.5908203125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a lake surrounded by mountains and flowers-1.mp4",
+                "video_results": 0.96649169921875,
+                "video_sim": 15.4638671875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a lake surrounded by mountains and flowers-2.mp4",
+                "video_results": 0.9626007080078125,
+                "video_sim": 15.401611328125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a lake surrounded by mountains and flowers-3.mp4",
+                "video_results": 0.936248779296875,
+                "video_sim": 14.97998046875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a lake surrounded by mountains and flowers-4.mp4",
+                "video_results": 0.9625396728515625,
+                "video_sim": 15.400634765625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a hot-air balloon flying over a desert landscape-0.mp4",
+                "video_results": 0.92449951171875,
+                "video_sim": 14.7919921875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a hot-air balloon flying over a desert landscape-1.mp4",
+                "video_results": 0.862884521484375,
+                "video_sim": 13.80615234375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a hot-air balloon flying over a desert landscape-2.mp4",
+                "video_results": 0.978271484375,
+                "video_sim": 15.65234375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a hot-air balloon flying over a desert landscape-3.mp4",
+                "video_results": 0.9749603271484375,
+                "video_sim": 15.599365234375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a hot-air balloon flying over a desert landscape-4.mp4",
+                "video_results": 0.9752960205078125,
+                "video_sim": 15.604736328125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/several hot air balloons flying over a city-0.mp4",
+                "video_results": 0.8619842529296875,
+                "video_sim": 13.791748046875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/several hot air balloons flying over a city-1.mp4",
+                "video_results": 0.8068695068359375,
+                "video_sim": 12.909912109375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/several hot air balloons flying over a city-2.mp4",
+                "video_results": 0.9292144775390625,
+                "video_sim": 14.867431640625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/several hot air balloons flying over a city-3.mp4",
+                "video_results": 0.832763671875,
+                "video_sim": 13.32421875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/several hot air balloons flying over a city-4.mp4",
+                "video_results": 0.9300384521484375,
+                "video_sim": 14.880615234375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a group of hot air balloons flying over a field-0.mp4",
+                "video_results": 0.9335479736328125,
+                "video_sim": 14.936767578125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a group of hot air balloons flying over a field-1.mp4",
+                "video_results": 0.9474029541015625,
+                "video_sim": 15.158447265625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a group of hot air balloons flying over a field-2.mp4",
+                "video_results": 0.8487548828125,
+                "video_sim": 13.580078125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a group of hot air balloons flying over a field-3.mp4",
+                "video_results": 0.98284912109375,
+                "video_sim": 15.7255859375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a group of hot air balloons flying over a field-4.mp4",
+                "video_results": 0.9687652587890625,
+                "video_sim": 15.500244140625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a large wave crashes over a rocky cliff-0.mp4",
+                "video_results": 0.906524658203125,
+                "video_sim": 14.50439453125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a large wave crashes over a rocky cliff-1.mp4",
+                "video_results": 0.9329833984375,
+                "video_sim": 14.927734375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a large wave crashes over a rocky cliff-2.mp4",
+                "video_results": 0.933441162109375,
+                "video_sim": 14.93505859375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a large wave crashes over a rocky cliff-3.mp4",
+                "video_results": 0.9316253662109375,
+                "video_sim": 14.906005859375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a large wave crashes over a rocky cliff-4.mp4",
+                "video_results": 0.9483489990234375,
+                "video_sim": 15.173583984375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/the sun is setting over a lake in the mountains-0.mp4",
+                "video_results": 0.8404541015625,
+                "video_sim": 13.447265625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/the sun is setting over a lake in the mountains-1.mp4",
+                "video_results": 0.959228515625,
+                "video_sim": 15.34765625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/the sun is setting over a lake in the mountains-2.mp4",
+                "video_results": 0.8271026611328125,
+                "video_sim": 13.233642578125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/the sun is setting over a lake in the mountains-3.mp4",
+                "video_results": 0.9844818115234375,
+                "video_sim": 15.751708984375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/the sun is setting over a lake in the mountains-4.mp4",
+                "video_results": 0.9134063720703125,
+                "video_sim": 14.614501953125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a mountain range with snow on the ground-0.mp4",
+                "video_results": 0.952667236328125,
+                "video_sim": 15.24267578125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a mountain range with snow on the ground-1.mp4",
+                "video_results": 0.9518890380859375,
+                "video_sim": 15.230224609375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a mountain range with snow on the ground-2.mp4",
+                "video_results": 0.948486328125,
+                "video_sim": 15.17578125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a mountain range with snow on the ground-3.mp4",
+                "video_results": 0.955322265625,
+                "video_sim": 15.28515625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a mountain range with snow on the ground-4.mp4",
+                "video_results": 0.9269866943359375,
+                "video_sim": 14.831787109375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/sun rays shining through clouds over a lake-0.mp4",
+                "video_results": 0.8912353515625,
+                "video_sim": 14.259765625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/sun rays shining through clouds over a lake-1.mp4",
+                "video_results": 0.9094696044921875,
+                "video_sim": 14.551513671875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/sun rays shining through clouds over a lake-2.mp4",
+                "video_results": 0.9556732177734375,
+                "video_sim": 15.290771484375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/sun rays shining through clouds over a lake-3.mp4",
+                "video_results": 0.9655914306640625,
+                "video_sim": 15.449462890625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/sun rays shining through clouds over a lake-4.mp4",
+                "video_results": 0.94097900390625,
+                "video_sim": 15.0556640625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a boat sits on the shore of a lake with mt fuji in the background-0.mp4",
+                "video_results": 0.9730224609375,
+                "video_sim": 15.568359375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a boat sits on the shore of a lake with mt fuji in the background-1.mp4",
+                "video_results": 0.95745849609375,
+                "video_sim": 15.3193359375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a boat sits on the shore of a lake with mt fuji in the background-2.mp4",
+                "video_results": 0.8408050537109375,
+                "video_sim": 13.452880859375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a boat sits on the shore of a lake with mt fuji in the background-3.mp4",
+                "video_results": 0.9845733642578125,
+                "video_sim": 15.753173828125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a boat sits on the shore of a lake with mt fuji in the background-4.mp4",
+                "video_results": 0.9628143310546875,
+                "video_sim": 15.405029296875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a foggy road with trees in the distance-0.mp4",
+                "video_results": 0.8958740234375,
+                "video_sim": 14.333984375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a foggy road with trees in the distance-1.mp4",
+                "video_results": 0.9340057373046875,
+                "video_sim": 14.944091796875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a foggy road with trees in the distance-2.mp4",
+                "video_results": 0.878936767578125,
+                "video_sim": 14.06298828125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a foggy road with trees in the distance-3.mp4",
+                "video_results": 0.8951263427734375,
+                "video_sim": 14.322021484375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a foggy road with trees in the distance-4.mp4",
+                "video_results": 0.8840484619140625,
+                "video_sim": 14.144775390625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/two swans swimming on a lake in the fog-0.mp4",
+                "video_results": 0.96124267578125,
+                "video_sim": 15.3798828125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/two swans swimming on a lake in the fog-1.mp4",
+                "video_results": 0.96527099609375,
+                "video_sim": 15.4443359375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/two swans swimming on a lake in the fog-2.mp4",
+                "video_results": 0.9063262939453125,
+                "video_sim": 14.501220703125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/two swans swimming on a lake in the fog-3.mp4",
+                "video_results": 0.9619598388671875,
+                "video_sim": 15.391357421875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/two swans swimming on a lake in the fog-4.mp4",
+                "video_results": 0.9524383544921875,
+                "video_sim": 15.239013671875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/the sun is shining through the trees near a waterfall-0.mp4",
+                "video_results": 0.9435272216796875,
+                "video_sim": 15.096435546875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/the sun is shining through the trees near a waterfall-1.mp4",
+                "video_results": 0.9490966796875,
+                "video_sim": 15.185546875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/the sun is shining through the trees near a waterfall-2.mp4",
+                "video_results": 0.9384307861328125,
+                "video_sim": 15.014892578125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/the sun is shining through the trees near a waterfall-3.mp4",
+                "video_results": 0.9668426513671875,
+                "video_sim": 15.469482421875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/the sun is shining through the trees near a waterfall-4.mp4",
+                "video_results": 0.9004058837890625,
+                "video_sim": 14.406494140625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a sandy beach with palm trees on the shore-0.mp4",
+                "video_results": 0.905792236328125,
+                "video_sim": 14.49267578125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a sandy beach with palm trees on the shore-1.mp4",
+                "video_results": 0.896026611328125,
+                "video_sim": 14.33642578125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a sandy beach with palm trees on the shore-2.mp4",
+                "video_results": 0.9804534912109375,
+                "video_sim": 15.687255859375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a sandy beach with palm trees on the shore-3.mp4",
+                "video_results": 0.9284210205078125,
+                "video_sim": 14.854736328125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a sandy beach with palm trees on the shore-4.mp4",
+                "video_results": 0.981414794921875,
+                "video_sim": 15.70263671875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/an aerial view of a body of water and a beach-0.mp4",
+                "video_results": 0.9561614990234375,
+                "video_sim": 15.298583984375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/an aerial view of a body of water and a beach-1.mp4",
+                "video_results": 0.940582275390625,
+                "video_sim": 15.04931640625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/an aerial view of a body of water and a beach-2.mp4",
+                "video_results": 0.9501800537109375,
+                "video_sim": 15.202880859375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/an aerial view of a body of water and a beach-3.mp4",
+                "video_results": 0.9676361083984375,
+                "video_sim": 15.482177734375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/an aerial view of a body of water and a beach-4.mp4",
+                "video_results": 0.9327392578125,
+                "video_sim": 14.923828125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a foggy field that has trees in the grass-0.mp4",
+                "video_results": 0.9415435791015625,
+                "video_sim": 15.064697265625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a foggy field that has trees in the grass-1.mp4",
+                "video_results": 0.92864990234375,
+                "video_sim": 14.8583984375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a foggy field that has trees in the grass-2.mp4",
+                "video_results": 0.9576568603515625,
+                "video_sim": 15.322509765625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a foggy field that has trees in the grass-3.mp4",
+                "video_results": 0.9429931640625,
+                "video_sim": 15.087890625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a foggy field that has trees in the grass-4.mp4",
+                "video_results": 0.9471588134765625,
+                "video_sim": 15.154541015625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a foggy landscape with trees and hills in the distance-0.mp4",
+                "video_results": 0.9523773193359375,
+                "video_sim": 15.238037109375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a foggy landscape with trees and hills in the distance-1.mp4",
+                "video_results": 0.8501739501953125,
+                "video_sim": 13.602783203125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a foggy landscape with trees and hills in the distance-2.mp4",
+                "video_results": 0.9607696533203125,
+                "video_sim": 15.372314453125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a foggy landscape with trees and hills in the distance-3.mp4",
+                "video_results": 0.8639678955078125,
+                "video_sim": 13.823486328125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a foggy landscape with trees and hills in the distance-4.mp4",
+                "video_results": 0.9725341796875,
+                "video_sim": 15.560546875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a large wave in the ocean with a lot of spray coming from it-0.mp4",
+                "video_results": 0.9694671630859375,
+                "video_sim": 15.511474609375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a large wave in the ocean with a lot of spray coming from it-1.mp4",
+                "video_results": 0.9290618896484375,
+                "video_sim": 14.864990234375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a large wave in the ocean with a lot of spray coming from it-2.mp4",
+                "video_results": 0.9455718994140625,
+                "video_sim": 15.129150390625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a large wave in the ocean with a lot of spray coming from it-3.mp4",
+                "video_results": 0.945220947265625,
+                "video_sim": 15.12353515625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a large wave in the ocean with a lot of spray coming from it-4.mp4",
+                "video_results": 0.9722137451171875,
+                "video_sim": 15.555419921875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a waterfall is shown in the middle of a lush green hillside-0.mp4",
+                "video_results": 0.9959716796875,
+                "video_sim": 15.935546875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a waterfall is shown in the middle of a lush green hillside-1.mp4",
+                "video_results": 0.9881439208984375,
+                "video_sim": 15.810302734375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a waterfall is shown in the middle of a lush green hillside-2.mp4",
+                "video_results": 0.9814300537109375,
+                "video_sim": 15.702880859375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a waterfall is shown in the middle of a lush green hillside-3.mp4",
+                "video_results": 0.98468017578125,
+                "video_sim": 15.7548828125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a waterfall is shown in the middle of a lush green hillside-4.mp4",
+                "video_results": 0.92669677734375,
+                "video_sim": 14.8271484375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/an aerial view of a curvy road in the middle of a forest-0.mp4",
+                "video_results": 0.9609222412109375,
+                "video_sim": 15.374755859375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/an aerial view of a curvy road in the middle of a forest-1.mp4",
+                "video_results": 0.958099365234375,
+                "video_sim": 15.32958984375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/an aerial view of a curvy road in the middle of a forest-2.mp4",
+                "video_results": 0.967742919921875,
+                "video_sim": 15.48388671875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/an aerial view of a curvy road in the middle of a forest-3.mp4",
+                "video_results": 0.8805084228515625,
+                "video_sim": 14.088134765625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/an aerial view of a curvy road in the middle of a forest-4.mp4",
+                "video_results": 0.8715362548828125,
+                "video_sim": 13.944580078125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a mountain covered in snow with evergreen trees-0.mp4",
+                "video_results": 0.9776153564453125,
+                "video_sim": 15.641845703125,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a mountain covered in snow with evergreen trees-1.mp4",
+                "video_results": 0.9735260009765625,
+                "video_sim": 15.576416015625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a mountain covered in snow with evergreen trees-2.mp4",
+                "video_results": 0.9588775634765625,
+                "video_sim": 15.342041015625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a mountain covered in snow with evergreen trees-3.mp4",
+                "video_results": 0.975250244140625,
+                "video_sim": 15.60400390625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a mountain covered in snow with evergreen trees-4.mp4",
+                "video_results": 0.9371337890625,
+                "video_sim": 14.994140625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a very large waterfall in the middle of the day-0.mp4",
+                "video_results": 0.9731292724609375,
+                "video_sim": 15.570068359375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a very large waterfall in the middle of the day-1.mp4",
+                "video_results": 0.9678802490234375,
+                "video_sim": 15.486083984375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a very large waterfall in the middle of the day-2.mp4",
+                "video_results": 0.89691162109375,
+                "video_sim": 14.3505859375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a very large waterfall in the middle of the day-3.mp4",
+                "video_results": 0.90838623046875,
+                "video_sim": 14.5341796875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a very large waterfall in the middle of the day-4.mp4",
+                "video_results": 0.9814300537109375,
+                "video_sim": 15.702880859375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a large waterfall in the middle of a lush green hillside-0.mp4",
+                "video_results": 0.97381591796875,
+                "video_sim": 15.5810546875,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a large waterfall in the middle of a lush green hillside-1.mp4",
+                "video_results": 0.953277587890625,
+                "video_sim": 15.25244140625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a large waterfall in the middle of a lush green hillside-2.mp4",
+                "video_results": 0.9859619140625,
+                "video_sim": 15.775390625,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a large waterfall in the middle of a lush green hillside-3.mp4",
+                "video_results": 0.9782562255859375,
+                "video_sim": 15.652099609375,
+                "cnt_per_video": 16
+            },
+            {
+                "video_path": "videos_i2v/a large waterfall in the middle of a lush green hillside-4.mp4",
+                "video_results": 0.9873504638671875,
+                "video_sim": 15.797607421875,
+                "cnt_per_video": 16
+            }
+        ]
+    ]
+}

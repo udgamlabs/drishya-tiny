@@ -1,0 +1,1478 @@
+[
+    {
+        "prompt_en": "a bird and a cat",
+        "dimension": [
+            "multiple_objects"
+        ],
+        "auxiliary_info": {
+            "multiple_objects": {
+                "object": "bird and cat"
+            }
+        },
+        "video_list": [
+            "videos_t2v_long/a bird and a cat-0.mp4",
+            "videos_t2v_long/a bird and a cat-1.mp4",
+            "videos_t2v_long/a bird and a cat-2.mp4",
+            "videos_t2v_long/a bird and a cat-3.mp4",
+            "videos_t2v_long/a bird and a cat-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a cat and a dog",
+        "dimension": [
+            "multiple_objects"
+        ],
+        "auxiliary_info": {
+            "multiple_objects": {
+                "object": "cat and dog"
+            }
+        },
+        "video_list": [
+            "videos_t2v_long/a cat and a dog-0.mp4",
+            "videos_t2v_long/a cat and a dog-1.mp4",
+            "videos_t2v_long/a cat and a dog-2.mp4",
+            "videos_t2v_long/a cat and a dog-3.mp4",
+            "videos_t2v_long/a cat and a dog-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a dog and a horse",
+        "dimension": [
+            "multiple_objects"
+        ],
+        "auxiliary_info": {
+            "multiple_objects": {
+                "object": "dog and horse"
+            }
+        },
+        "video_list": [
+            "videos_t2v_long/a dog and a horse-0.mp4",
+            "videos_t2v_long/a dog and a horse-1.mp4",
+            "videos_t2v_long/a dog and a horse-2.mp4",
+            "videos_t2v_long/a dog and a horse-3.mp4",
+            "videos_t2v_long/a dog and a horse-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a horse and a sheep",
+        "dimension": [
+            "multiple_objects"
+        ],
+        "auxiliary_info": {
+            "multiple_objects": {
+                "object": "horse and sheep"
+            }
+        },
+        "video_list": [
+            "videos_t2v_long/a horse and a sheep-0.mp4",
+            "videos_t2v_long/a horse and a sheep-1.mp4",
+            "videos_t2v_long/a horse and a sheep-2.mp4",
+            "videos_t2v_long/a horse and a sheep-3.mp4",
+            "videos_t2v_long/a horse and a sheep-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a sheep and a cow",
+        "dimension": [
+            "multiple_objects"
+        ],
+        "auxiliary_info": {
+            "multiple_objects": {
+                "object": "sheep and cow"
+            }
+        },
+        "video_list": [
+            "videos_t2v_long/a sheep and a cow-0.mp4",
+            "videos_t2v_long/a sheep and a cow-1.mp4",
+            "videos_t2v_long/a sheep and a cow-2.mp4",
+            "videos_t2v_long/a sheep and a cow-3.mp4",
+            "videos_t2v_long/a sheep and a cow-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a cow and an elephant",
+        "dimension": [
+            "multiple_objects"
+        ],
+        "auxiliary_info": {
+            "multiple_objects": {
+                "object": "cow and elephant"
+            }
+        },
+        "video_list": [
+            "videos_t2v_long/a cow and an elephant-0.mp4",
+            "videos_t2v_long/a cow and an elephant-1.mp4",
+            "videos_t2v_long/a cow and an elephant-2.mp4",
+            "videos_t2v_long/a cow and an elephant-3.mp4",
+            "videos_t2v_long/a cow and an elephant-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "an elephant and a bear",
+        "dimension": [
+            "multiple_objects"
+        ],
+        "auxiliary_info": {
+            "multiple_objects": {
+                "object": "elephant and bear"
+            }
+        },
+        "video_list": [
+            "videos_t2v_long/an elephant and a bear-0.mp4",
+            "videos_t2v_long/an elephant and a bear-1.mp4",
+            "videos_t2v_long/an elephant and a bear-2.mp4",
+            "videos_t2v_long/an elephant and a bear-3.mp4",
+            "videos_t2v_long/an elephant and a bear-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a bear and a zebra",
+        "dimension": [
+            "multiple_objects"
+        ],
+        "auxiliary_info": {
+            "multiple_objects": {
+                "object": "bear and zebra"
+            }
+        },
+        "video_list": [
+            "videos_t2v_long/a bear and a zebra-0.mp4",
+            "videos_t2v_long/a bear and a zebra-1.mp4",
+            "videos_t2v_long/a bear and a zebra-2.mp4",
+            "videos_t2v_long/a bear and a zebra-3.mp4",
+            "videos_t2v_long/a bear and a zebra-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a zebra and a giraffe",
+        "dimension": [
+            "multiple_objects"
+        ],
+        "auxiliary_info": {
+            "multiple_objects": {
+                "object": "zebra and giraffe"
+            }
+        },
+        "video_list": [
+            "videos_t2v_long/a zebra and a giraffe-0.mp4",
+            "videos_t2v_long/a zebra and a giraffe-1.mp4",
+            "videos_t2v_long/a zebra and a giraffe-2.mp4",
+            "videos_t2v_long/a zebra and a giraffe-3.mp4",
+            "videos_t2v_long/a zebra and a giraffe-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a giraffe and a bird",
+        "dimension": [
+            "multiple_objects"
+        ],
+        "auxiliary_info": {
+            "multiple_objects": {
+                "object": "giraffe and bird"
+            }
+        },
+        "video_list": [
+            "videos_t2v_long/a giraffe and a bird-0.mp4",
+            "videos_t2v_long/a giraffe and a bird-1.mp4",
+            "videos_t2v_long/a giraffe and a bird-2.mp4",
+            "videos_t2v_long/a giraffe and a bird-3.mp4",
+            "videos_t2v_long/a giraffe and a bird-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a chair and a couch",
+        "dimension": [
+            "multiple_objects"
+        ],
+        "auxiliary_info": {
+            "multiple_objects": {
+                "object": "chair and couch"
+            }
+        },
+        "video_list": [
+            "videos_t2v_long/a chair and a couch-0.mp4",
+            "videos_t2v_long/a chair and a couch-1.mp4",
+            "videos_t2v_long/a chair and a couch-2.mp4",
+            "videos_t2v_long/a chair and a couch-3.mp4",
+            "videos_t2v_long/a chair and a couch-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a couch and a potted plant",
+        "dimension": [
+            "multiple_objects"
+        ],
+        "auxiliary_info": {
+            "multiple_objects": {
+                "object": "couch and potted plant"
+            }
+        },
+        "video_list": [
+            "videos_t2v_long/a couch and a potted plant-0.mp4",
+            "videos_t2v_long/a couch and a potted plant-1.mp4",
+            "videos_t2v_long/a couch and a potted plant-2.mp4",
+            "videos_t2v_long/a couch and a potted plant-3.mp4",
+            "videos_t2v_long/a couch and a potted plant-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a potted plant and a tv",
+        "dimension": [
+            "multiple_objects"
+        ],
+        "auxiliary_info": {
+            "multiple_objects": {
+                "object": "potted plant and tv"
+            }
+        },
+        "video_list": [
+            "videos_t2v_long/a potted plant and a tv-0.mp4",
+            "videos_t2v_long/a potted plant and a tv-1.mp4",
+            "videos_t2v_long/a potted plant and a tv-2.mp4",
+            "videos_t2v_long/a potted plant and a tv-3.mp4",
+            "videos_t2v_long/a potted plant and a tv-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a tv and a laptop",
+        "dimension": [
+            "multiple_objects"
+        ],
+        "auxiliary_info": {
+            "multiple_objects": {
+                "object": "tv and laptop"
+            }
+        },
+        "video_list": [
+            "videos_t2v_long/a tv and a laptop-0.mp4",
+            "videos_t2v_long/a tv and a laptop-1.mp4",
+            "videos_t2v_long/a tv and a laptop-2.mp4",
+            "videos_t2v_long/a tv and a laptop-3.mp4",
+            "videos_t2v_long/a tv and a laptop-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a laptop and a remote",
+        "dimension": [
+            "multiple_objects"
+        ],
+        "auxiliary_info": {
+            "multiple_objects": {
+                "object": "laptop and remote"
+            }
+        },
+        "video_list": [
+            "videos_t2v_long/a laptop and a remote-0.mp4",
+            "videos_t2v_long/a laptop and a remote-1.mp4",
+            "videos_t2v_long/a laptop and a remote-2.mp4",
+            "videos_t2v_long/a laptop and a remote-3.mp4",
+            "videos_t2v_long/a laptop and a remote-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a remote and a keyboard",
+        "dimension": [
+            "multiple_objects"
+        ],
+        "auxiliary_info": {
+            "multiple_objects": {
+                "object": "remote and keyboard"
+            }
+        },
+        "video_list": [
+            "videos_t2v_long/a remote and a keyboard-0.mp4",
+            "videos_t2v_long/a remote and a keyboard-1.mp4",
+            "videos_t2v_long/a remote and a keyboard-2.mp4",
+            "videos_t2v_long/a remote and a keyboard-3.mp4",
+            "videos_t2v_long/a remote and a keyboard-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a keyboard and a cell phone",
+        "dimension": [
+            "multiple_objects"
+        ],
+        "auxiliary_info": {
+            "multiple_objects": {
+                "object": "keyboard and cell phone"
+            }
+        },
+        "video_list": [
+            "videos_t2v_long/a keyboard and a cell phone-0.mp4",
+            "videos_t2v_long/a keyboard and a cell phone-1.mp4",
+            "videos_t2v_long/a keyboard and a cell phone-2.mp4",
+            "videos_t2v_long/a keyboard and a cell phone-3.mp4",
+            "videos_t2v_long/a keyboard and a cell phone-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a cell phone and a book",
+        "dimension": [
+            "multiple_objects"
+        ],
+        "auxiliary_info": {
+            "multiple_objects": {
+                "object": "cell phone and book"
+            }
+        },
+        "video_list": [
+            "videos_t2v_long/a cell phone and a book-0.mp4",
+            "videos_t2v_long/a cell phone and a book-1.mp4",
+            "videos_t2v_long/a cell phone and a book-2.mp4",
+            "videos_t2v_long/a cell phone and a book-3.mp4",
+            "videos_t2v_long/a cell phone and a book-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a book and a clock",
+        "dimension": [
+            "multiple_objects"
+        ],
+        "auxiliary_info": {
+            "multiple_objects": {
+                "object": "book and clock"
+            }
+        },
+        "video_list": [
+            "videos_t2v_long/a book and a clock-0.mp4",
+            "videos_t2v_long/a book and a clock-1.mp4",
+            "videos_t2v_long/a book and a clock-2.mp4",
+            "videos_t2v_long/a book and a clock-3.mp4",
+            "videos_t2v_long/a book and a clock-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a clock and a backpack",
+        "dimension": [
+            "multiple_objects"
+        ],
+        "auxiliary_info": {
+            "multiple_objects": {
+                "object": "clock and backpack"
+            }
+        },
+        "video_list": [
+            "videos_t2v_long/a clock and a backpack-0.mp4",
+            "videos_t2v_long/a clock and a backpack-1.mp4",
+            "videos_t2v_long/a clock and a backpack-2.mp4",
+            "videos_t2v_long/a clock and a backpack-3.mp4",
+            "videos_t2v_long/a clock and a backpack-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a backpack and an umbrella",
+        "dimension": [
+            "multiple_objects"
+        ],
+        "auxiliary_info": {
+            "multiple_objects": {
+                "object": "backpack and umbrella"
+            }
+        },
+        "video_list": [
+            "videos_t2v_long/a backpack and an umbrella-0.mp4",
+            "videos_t2v_long/a backpack and an umbrella-1.mp4",
+            "videos_t2v_long/a backpack and an umbrella-2.mp4",
+            "videos_t2v_long/a backpack and an umbrella-3.mp4",
+            "videos_t2v_long/a backpack and an umbrella-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "an umbrella and a handbag",
+        "dimension": [
+            "multiple_objects"
+        ],
+        "auxiliary_info": {
+            "multiple_objects": {
+                "object": "umbrella and handbag"
+            }
+        },
+        "video_list": [
+            "videos_t2v_long/an umbrella and a handbag-0.mp4",
+            "videos_t2v_long/an umbrella and a handbag-1.mp4",
+            "videos_t2v_long/an umbrella and a handbag-2.mp4",
+            "videos_t2v_long/an umbrella and a handbag-3.mp4",
+            "videos_t2v_long/an umbrella and a handbag-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a handbag and a tie",
+        "dimension": [
+            "multiple_objects"
+        ],
+        "auxiliary_info": {
+            "multiple_objects": {
+                "object": "handbag and tie"
+            }
+        },
+        "video_list": [
+            "videos_t2v_long/a handbag and a tie-0.mp4",
+            "videos_t2v_long/a handbag and a tie-1.mp4",
+            "videos_t2v_long/a handbag and a tie-2.mp4",
+            "videos_t2v_long/a handbag and a tie-3.mp4",
+            "videos_t2v_long/a handbag and a tie-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a tie and a suitcase",
+        "dimension": [
+            "multiple_objects"
+        ],
+        "auxiliary_info": {
+            "multiple_objects": {
+                "object": "tie and suitcase"
+            }
+        },
+        "video_list": [
+            "videos_t2v_long/a tie and a suitcase-0.mp4",
+            "videos_t2v_long/a tie and a suitcase-1.mp4",
+            "videos_t2v_long/a tie and a suitcase-2.mp4",
+            "videos_t2v_long/a tie and a suitcase-3.mp4",
+            "videos_t2v_long/a tie and a suitcase-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a suitcase and a vase",
+        "dimension": [
+            "multiple_objects"
+        ],
+        "auxiliary_info": {
+            "multiple_objects": {
+                "object": "suitcase and vase"
+            }
+        },
+        "video_list": [
+            "videos_t2v_long/a suitcase and a vase-0.mp4",
+            "videos_t2v_long/a suitcase and a vase-1.mp4",
+            "videos_t2v_long/a suitcase and a vase-2.mp4",
+            "videos_t2v_long/a suitcase and a vase-3.mp4",
+            "videos_t2v_long/a suitcase and a vase-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a vase and scissors",
+        "dimension": [
+            "multiple_objects"
+        ],
+        "auxiliary_info": {
+            "multiple_objects": {
+                "object": "vase and scissors"
+            }
+        },
+        "video_list": [
+            "videos_t2v_long/a vase and scissors-0.mp4",
+            "videos_t2v_long/a vase and scissors-1.mp4",
+            "videos_t2v_long/a vase and scissors-2.mp4",
+            "videos_t2v_long/a vase and scissors-3.mp4",
+            "videos_t2v_long/a vase and scissors-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "scissors and a teddy bear",
+        "dimension": [
+            "multiple_objects"
+        ],
+        "auxiliary_info": {
+            "multiple_objects": {
+                "object": "scissors and teddy bear"
+            }
+        },
+        "video_list": [
+            "videos_t2v_long/scissors and a teddy bear-0.mp4",
+            "videos_t2v_long/scissors and a teddy bear-1.mp4",
+            "videos_t2v_long/scissors and a teddy bear-2.mp4",
+            "videos_t2v_long/scissors and a teddy bear-3.mp4",
+            "videos_t2v_long/scissors and a teddy bear-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a teddy bear and a frisbee",
+        "dimension": [
+            "multiple_objects"
+        ],
+        "auxiliary_info": {
+            "multiple_objects": {
+                "object": "teddy bear and frisbee"
+            }
+        },
+        "video_list": [
+            "videos_t2v_long/a teddy bear and a frisbee-0.mp4",
+            "videos_t2v_long/a teddy bear and a frisbee-1.mp4",
+            "videos_t2v_long/a teddy bear and a frisbee-2.mp4",
+            "videos_t2v_long/a teddy bear and a frisbee-3.mp4",
+            "videos_t2v_long/a teddy bear and a frisbee-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a frisbee and skis",
+        "dimension": [
+            "multiple_objects"
+        ],
+        "auxiliary_info": {
+            "multiple_objects": {
+                "object": "frisbee and skis"
+            }
+        },
+        "video_list": [
+            "videos_t2v_long/a frisbee and skis-0.mp4",
+            "videos_t2v_long/a frisbee and skis-1.mp4",
+            "videos_t2v_long/a frisbee and skis-2.mp4",
+            "videos_t2v_long/a frisbee and skis-3.mp4",
+            "videos_t2v_long/a frisbee and skis-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "skis and a snowboard",
+        "dimension": [
+            "multiple_objects"
+        ],
+        "auxiliary_info": {
+            "multiple_objects": {
+                "object": "skis and snowboard"
+            }
+        },
+        "video_list": [
+            "videos_t2v_long/skis and a snowboard-0.mp4",
+            "videos_t2v_long/skis and a snowboard-1.mp4",
+            "videos_t2v_long/skis and a snowboard-2.mp4",
+            "videos_t2v_long/skis and a snowboard-3.mp4",
+            "videos_t2v_long/skis and a snowboard-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a snowboard and a sports ball",
+        "dimension": [
+            "multiple_objects"
+        ],
+        "auxiliary_info": {
+            "multiple_objects": {
+                "object": "snowboard and sports ball"
+            }
+        },
+        "video_list": [
+            "videos_t2v_long/a snowboard and a sports ball-0.mp4",
+            "videos_t2v_long/a snowboard and a sports ball-1.mp4",
+            "videos_t2v_long/a snowboard and a sports ball-2.mp4",
+            "videos_t2v_long/a snowboard and a sports ball-3.mp4",
+            "videos_t2v_long/a snowboard and a sports ball-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a sports ball and a kite",
+        "dimension": [
+            "multiple_objects"
+        ],
+        "auxiliary_info": {
+            "multiple_objects": {
+                "object": "sports ball and kite"
+            }
+        },
+        "video_list": [
+            "videos_t2v_long/a sports ball and a kite-0.mp4",
+            "videos_t2v_long/a sports ball and a kite-1.mp4",
+            "videos_t2v_long/a sports ball and a kite-2.mp4",
+            "videos_t2v_long/a sports ball and a kite-3.mp4",
+            "videos_t2v_long/a sports ball and a kite-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a kite and a baseball bat",
+        "dimension": [
+            "multiple_objects"
+        ],
+        "auxiliary_info": {
+            "multiple_objects": {
+                "object": "kite and baseball bat"
+            }
+        },
+        "video_list": [
+            "videos_t2v_long/a kite and a baseball bat-0.mp4",
+            "videos_t2v_long/a kite and a baseball bat-1.mp4",
+            "videos_t2v_long/a kite and a baseball bat-2.mp4",
+            "videos_t2v_long/a kite and a baseball bat-3.mp4",
+            "videos_t2v_long/a kite and a baseball bat-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a baseball bat and a baseball glove",
+        "dimension": [
+            "multiple_objects"
+        ],
+        "auxiliary_info": {
+            "multiple_objects": {
+                "object": "baseball bat and baseball glove"
+            }
+        },
+        "video_list": [
+            "videos_t2v_long/a baseball bat and a baseball glove-0.mp4",
+            "videos_t2v_long/a baseball bat and a baseball glove-1.mp4",
+            "videos_t2v_long/a baseball bat and a baseball glove-2.mp4",
+            "videos_t2v_long/a baseball bat and a baseball glove-3.mp4",
+            "videos_t2v_long/a baseball bat and a baseball glove-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a baseball glove and a skateboard",
+        "dimension": [
+            "multiple_objects"
+        ],
+        "auxiliary_info": {
+            "multiple_objects": {
+                "object": "baseball glove and skateboard"
+            }
+        },
+        "video_list": [
+            "videos_t2v_long/a baseball glove and a skateboard-0.mp4",
+            "videos_t2v_long/a baseball glove and a skateboard-1.mp4",
+            "videos_t2v_long/a baseball glove and a skateboard-2.mp4",
+            "videos_t2v_long/a baseball glove and a skateboard-3.mp4",
+            "videos_t2v_long/a baseball glove and a skateboard-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a skateboard and a surfboard",
+        "dimension": [
+            "multiple_objects"
+        ],
+        "auxiliary_info": {
+            "multiple_objects": {
+                "object": "skateboard and surfboard"
+            }
+        },
+        "video_list": [
+            "videos_t2v_long/a skateboard and a surfboard-0.mp4",
+            "videos_t2v_long/a skateboard and a surfboard-1.mp4",
+            "videos_t2v_long/a skateboard and a surfboard-2.mp4",
+            "videos_t2v_long/a skateboard and a surfboard-3.mp4",
+            "videos_t2v_long/a skateboard and a surfboard-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a surfboard and a tennis racket",
+        "dimension": [
+            "multiple_objects"
+        ],
+        "auxiliary_info": {
+            "multiple_objects": {
+                "object": "surfboard and tennis racket"
+            }
+        },
+        "video_list": [
+            "videos_t2v_long/a surfboard and a tennis racket-0.mp4",
+            "videos_t2v_long/a surfboard and a tennis racket-1.mp4",
+            "videos_t2v_long/a surfboard and a tennis racket-2.mp4",
+            "videos_t2v_long/a surfboard and a tennis racket-3.mp4",
+            "videos_t2v_long/a surfboard and a tennis racket-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a tennis racket and a bottle",
+        "dimension": [
+            "multiple_objects"
+        ],
+        "auxiliary_info": {
+            "multiple_objects": {
+                "object": "tennis racket and bottle"
+            }
+        },
+        "video_list": [
+            "videos_t2v_long/a tennis racket and a bottle-0.mp4",
+            "videos_t2v_long/a tennis racket and a bottle-1.mp4",
+            "videos_t2v_long/a tennis racket and a bottle-2.mp4",
+            "videos_t2v_long/a tennis racket and a bottle-3.mp4",
+            "videos_t2v_long/a tennis racket and a bottle-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a bottle and a chair",
+        "dimension": [
+            "multiple_objects"
+        ],
+        "auxiliary_info": {
+            "multiple_objects": {
+                "object": "bottle and chair"
+            }
+        },
+        "video_list": [
+            "videos_t2v_long/a bottle and a chair-0.mp4",
+            "videos_t2v_long/a bottle and a chair-1.mp4",
+            "videos_t2v_long/a bottle and a chair-2.mp4",
+            "videos_t2v_long/a bottle and a chair-3.mp4",
+            "videos_t2v_long/a bottle and a chair-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "an airplane and a train",
+        "dimension": [
+            "multiple_objects"
+        ],
+        "auxiliary_info": {
+            "multiple_objects": {
+                "object": "airplane and train"
+            }
+        },
+        "video_list": [
+            "videos_t2v_long/an airplane and a train-0.mp4",
+            "videos_t2v_long/an airplane and a train-1.mp4",
+            "videos_t2v_long/an airplane and a train-2.mp4",
+            "videos_t2v_long/an airplane and a train-3.mp4",
+            "videos_t2v_long/an airplane and a train-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a train and a boat",
+        "dimension": [
+            "multiple_objects"
+        ],
+        "auxiliary_info": {
+            "multiple_objects": {
+                "object": "train and boat"
+            }
+        },
+        "video_list": [
+            "videos_t2v_long/a train and a boat-0.mp4",
+            "videos_t2v_long/a train and a boat-1.mp4",
+            "videos_t2v_long/a train and a boat-2.mp4",
+            "videos_t2v_long/a train and a boat-3.mp4",
+            "videos_t2v_long/a train and a boat-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a boat and an airplane",
+        "dimension": [
+            "multiple_objects"
+        ],
+        "auxiliary_info": {
+            "multiple_objects": {
+                "object": "boat and airplane"
+            }
+        },
+        "video_list": [
+            "videos_t2v_long/a boat and an airplane-0.mp4",
+            "videos_t2v_long/a boat and an airplane-1.mp4",
+            "videos_t2v_long/a boat and an airplane-2.mp4",
+            "videos_t2v_long/a boat and an airplane-3.mp4",
+            "videos_t2v_long/a boat and an airplane-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a bicycle and a car",
+        "dimension": [
+            "multiple_objects"
+        ],
+        "auxiliary_info": {
+            "multiple_objects": {
+                "object": "bicycle and car"
+            }
+        },
+        "video_list": [
+            "videos_t2v_long/a bicycle and a car-0.mp4",
+            "videos_t2v_long/a bicycle and a car-1.mp4",
+            "videos_t2v_long/a bicycle and a car-2.mp4",
+            "videos_t2v_long/a bicycle and a car-3.mp4",
+            "videos_t2v_long/a bicycle and a car-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a car and a motorcycle",
+        "dimension": [
+            "multiple_objects"
+        ],
+        "auxiliary_info": {
+            "multiple_objects": {
+                "object": "car and motorcycle"
+            }
+        },
+        "video_list": [
+            "videos_t2v_long/a car and a motorcycle-0.mp4",
+            "videos_t2v_long/a car and a motorcycle-1.mp4",
+            "videos_t2v_long/a car and a motorcycle-2.mp4",
+            "videos_t2v_long/a car and a motorcycle-3.mp4",
+            "videos_t2v_long/a car and a motorcycle-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a motorcycle and a bus",
+        "dimension": [
+            "multiple_objects"
+        ],
+        "auxiliary_info": {
+            "multiple_objects": {
+                "object": "motorcycle and bus"
+            }
+        },
+        "video_list": [
+            "videos_t2v_long/a motorcycle and a bus-0.mp4",
+            "videos_t2v_long/a motorcycle and a bus-1.mp4",
+            "videos_t2v_long/a motorcycle and a bus-2.mp4",
+            "videos_t2v_long/a motorcycle and a bus-3.mp4",
+            "videos_t2v_long/a motorcycle and a bus-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a bus and a traffic light",
+        "dimension": [
+            "multiple_objects"
+        ],
+        "auxiliary_info": {
+            "multiple_objects": {
+                "object": "bus and traffic light"
+            }
+        },
+        "video_list": [
+            "videos_t2v_long/a bus and a traffic light-0.mp4",
+            "videos_t2v_long/a bus and a traffic light-1.mp4",
+            "videos_t2v_long/a bus and a traffic light-2.mp4",
+            "videos_t2v_long/a bus and a traffic light-3.mp4",
+            "videos_t2v_long/a bus and a traffic light-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a traffic light and a fire hydrant",
+        "dimension": [
+            "multiple_objects"
+        ],
+        "auxiliary_info": {
+            "multiple_objects": {
+                "object": "traffic light and fire hydrant"
+            }
+        },
+        "video_list": [
+            "videos_t2v_long/a traffic light and a fire hydrant-0.mp4",
+            "videos_t2v_long/a traffic light and a fire hydrant-1.mp4",
+            "videos_t2v_long/a traffic light and a fire hydrant-2.mp4",
+            "videos_t2v_long/a traffic light and a fire hydrant-3.mp4",
+            "videos_t2v_long/a traffic light and a fire hydrant-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a fire hydrant and a stop sign",
+        "dimension": [
+            "multiple_objects"
+        ],
+        "auxiliary_info": {
+            "multiple_objects": {
+                "object": "fire hydrant and stop sign"
+            }
+        },
+        "video_list": [
+            "videos_t2v_long/a fire hydrant and a stop sign-0.mp4",
+            "videos_t2v_long/a fire hydrant and a stop sign-1.mp4",
+            "videos_t2v_long/a fire hydrant and a stop sign-2.mp4",
+            "videos_t2v_long/a fire hydrant and a stop sign-3.mp4",
+            "videos_t2v_long/a fire hydrant and a stop sign-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a stop sign and a parking meter",
+        "dimension": [
+            "multiple_objects"
+        ],
+        "auxiliary_info": {
+            "multiple_objects": {
+                "object": "stop sign and parking meter"
+            }
+        },
+        "video_list": [
+            "videos_t2v_long/a stop sign and a parking meter-0.mp4",
+            "videos_t2v_long/a stop sign and a parking meter-1.mp4",
+            "videos_t2v_long/a stop sign and a parking meter-2.mp4",
+            "videos_t2v_long/a stop sign and a parking meter-3.mp4",
+            "videos_t2v_long/a stop sign and a parking meter-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a parking meter and a truck",
+        "dimension": [
+            "multiple_objects"
+        ],
+        "auxiliary_info": {
+            "multiple_objects": {
+                "object": "parking meter and truck"
+            }
+        },
+        "video_list": [
+            "videos_t2v_long/a parking meter and a truck-0.mp4",
+            "videos_t2v_long/a parking meter and a truck-1.mp4",
+            "videos_t2v_long/a parking meter and a truck-2.mp4",
+            "videos_t2v_long/a parking meter and a truck-3.mp4",
+            "videos_t2v_long/a parking meter and a truck-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a truck and a bicycle",
+        "dimension": [
+            "multiple_objects"
+        ],
+        "auxiliary_info": {
+            "multiple_objects": {
+                "object": "truck and bicycle"
+            }
+        },
+        "video_list": [
+            "videos_t2v_long/a truck and a bicycle-0.mp4",
+            "videos_t2v_long/a truck and a bicycle-1.mp4",
+            "videos_t2v_long/a truck and a bicycle-2.mp4",
+            "videos_t2v_long/a truck and a bicycle-3.mp4",
+            "videos_t2v_long/a truck and a bicycle-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a toilet and a hair drier",
+        "dimension": [
+            "multiple_objects"
+        ],
+        "auxiliary_info": {
+            "multiple_objects": {
+                "object": "toilet and hair drier"
+            }
+        },
+        "video_list": [
+            "videos_t2v_long/a toilet and a hair drier-0.mp4",
+            "videos_t2v_long/a toilet and a hair drier-1.mp4",
+            "videos_t2v_long/a toilet and a hair drier-2.mp4",
+            "videos_t2v_long/a toilet and a hair drier-3.mp4",
+            "videos_t2v_long/a toilet and a hair drier-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a hair drier and a toothbrush",
+        "dimension": [
+            "multiple_objects"
+        ],
+        "auxiliary_info": {
+            "multiple_objects": {
+                "object": "hair drier and toothbrush"
+            }
+        },
+        "video_list": [
+            "videos_t2v_long/a hair drier and a toothbrush-0.mp4",
+            "videos_t2v_long/a hair drier and a toothbrush-1.mp4",
+            "videos_t2v_long/a hair drier and a toothbrush-2.mp4",
+            "videos_t2v_long/a hair drier and a toothbrush-3.mp4",
+            "videos_t2v_long/a hair drier and a toothbrush-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a toothbrush and a sink",
+        "dimension": [
+            "multiple_objects"
+        ],
+        "auxiliary_info": {
+            "multiple_objects": {
+                "object": "toothbrush and sink"
+            }
+        },
+        "video_list": [
+            "videos_t2v_long/a toothbrush and a sink-0.mp4",
+            "videos_t2v_long/a toothbrush and a sink-1.mp4",
+            "videos_t2v_long/a toothbrush and a sink-2.mp4",
+            "videos_t2v_long/a toothbrush and a sink-3.mp4",
+            "videos_t2v_long/a toothbrush and a sink-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a sink and a toilet",
+        "dimension": [
+            "multiple_objects"
+        ],
+        "auxiliary_info": {
+            "multiple_objects": {
+                "object": "sink and toilet"
+            }
+        },
+        "video_list": [
+            "videos_t2v_long/a sink and a toilet-0.mp4",
+            "videos_t2v_long/a sink and a toilet-1.mp4",
+            "videos_t2v_long/a sink and a toilet-2.mp4",
+            "videos_t2v_long/a sink and a toilet-3.mp4",
+            "videos_t2v_long/a sink and a toilet-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a wine glass and a chair",
+        "dimension": [
+            "multiple_objects"
+        ],
+        "auxiliary_info": {
+            "multiple_objects": {
+                "object": "wine glass and chair"
+            }
+        },
+        "video_list": [
+            "videos_t2v_long/a wine glass and a chair-0.mp4",
+            "videos_t2v_long/a wine glass and a chair-1.mp4",
+            "videos_t2v_long/a wine glass and a chair-2.mp4",
+            "videos_t2v_long/a wine glass and a chair-3.mp4",
+            "videos_t2v_long/a wine glass and a chair-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a cup and a couch",
+        "dimension": [
+            "multiple_objects"
+        ],
+        "auxiliary_info": {
+            "multiple_objects": {
+                "object": "cup and couch"
+            }
+        },
+        "video_list": [
+            "videos_t2v_long/a cup and a couch-0.mp4",
+            "videos_t2v_long/a cup and a couch-1.mp4",
+            "videos_t2v_long/a cup and a couch-2.mp4",
+            "videos_t2v_long/a cup and a couch-3.mp4",
+            "videos_t2v_long/a cup and a couch-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a fork and a potted plant",
+        "dimension": [
+            "multiple_objects"
+        ],
+        "auxiliary_info": {
+            "multiple_objects": {
+                "object": "fork and potted plant"
+            }
+        },
+        "video_list": [
+            "videos_t2v_long/a fork and a potted plant-0.mp4",
+            "videos_t2v_long/a fork and a potted plant-1.mp4",
+            "videos_t2v_long/a fork and a potted plant-2.mp4",
+            "videos_t2v_long/a fork and a potted plant-3.mp4",
+            "videos_t2v_long/a fork and a potted plant-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a knife and a tv",
+        "dimension": [
+            "multiple_objects"
+        ],
+        "auxiliary_info": {
+            "multiple_objects": {
+                "object": "knife and tv"
+            }
+        },
+        "video_list": [
+            "videos_t2v_long/a knife and a tv-0.mp4",
+            "videos_t2v_long/a knife and a tv-1.mp4",
+            "videos_t2v_long/a knife and a tv-2.mp4",
+            "videos_t2v_long/a knife and a tv-3.mp4",
+            "videos_t2v_long/a knife and a tv-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a spoon and a laptop",
+        "dimension": [
+            "multiple_objects"
+        ],
+        "auxiliary_info": {
+            "multiple_objects": {
+                "object": "spoon and laptop"
+            }
+        },
+        "video_list": [
+            "videos_t2v_long/a spoon and a laptop-0.mp4",
+            "videos_t2v_long/a spoon and a laptop-1.mp4",
+            "videos_t2v_long/a spoon and a laptop-2.mp4",
+            "videos_t2v_long/a spoon and a laptop-3.mp4",
+            "videos_t2v_long/a spoon and a laptop-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a bowl and a remote",
+        "dimension": [
+            "multiple_objects"
+        ],
+        "auxiliary_info": {
+            "multiple_objects": {
+                "object": "bowl and remote"
+            }
+        },
+        "video_list": [
+            "videos_t2v_long/a bowl and a remote-0.mp4",
+            "videos_t2v_long/a bowl and a remote-1.mp4",
+            "videos_t2v_long/a bowl and a remote-2.mp4",
+            "videos_t2v_long/a bowl and a remote-3.mp4",
+            "videos_t2v_long/a bowl and a remote-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a banana and a keyboard",
+        "dimension": [
+            "multiple_objects"
+        ],
+        "auxiliary_info": {
+            "multiple_objects": {
+                "object": "banana and keyboard"
+            }
+        },
+        "video_list": [
+            "videos_t2v_long/a banana and a keyboard-0.mp4",
+            "videos_t2v_long/a banana and a keyboard-1.mp4",
+            "videos_t2v_long/a banana and a keyboard-2.mp4",
+            "videos_t2v_long/a banana and a keyboard-3.mp4",
+            "videos_t2v_long/a banana and a keyboard-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "an apple and a cell phone",
+        "dimension": [
+            "multiple_objects"
+        ],
+        "auxiliary_info": {
+            "multiple_objects": {
+                "object": "apple and cell phone"
+            }
+        },
+        "video_list": [
+            "videos_t2v_long/an apple and a cell phone-0.mp4",
+            "videos_t2v_long/an apple and a cell phone-1.mp4",
+            "videos_t2v_long/an apple and a cell phone-2.mp4",
+            "videos_t2v_long/an apple and a cell phone-3.mp4",
+            "videos_t2v_long/an apple and a cell phone-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a sandwich and a book",
+        "dimension": [
+            "multiple_objects"
+        ],
+        "auxiliary_info": {
+            "multiple_objects": {
+                "object": "sandwich and book"
+            }
+        },
+        "video_list": [
+            "videos_t2v_long/a sandwich and a book-0.mp4",
+            "videos_t2v_long/a sandwich and a book-1.mp4",
+            "videos_t2v_long/a sandwich and a book-2.mp4",
+            "videos_t2v_long/a sandwich and a book-3.mp4",
+            "videos_t2v_long/a sandwich and a book-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "an orange and a clock",
+        "dimension": [
+            "multiple_objects"
+        ],
+        "auxiliary_info": {
+            "multiple_objects": {
+                "object": "orange and clock"
+            }
+        },
+        "video_list": [
+            "videos_t2v_long/an orange and a clock-0.mp4",
+            "videos_t2v_long/an orange and a clock-1.mp4",
+            "videos_t2v_long/an orange and a clock-2.mp4",
+            "videos_t2v_long/an orange and a clock-3.mp4",
+            "videos_t2v_long/an orange and a clock-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "broccoli and a backpack",
+        "dimension": [
+            "multiple_objects"
+        ],
+        "auxiliary_info": {
+            "multiple_objects": {
+                "object": "broccoli and backpack"
+            }
+        },
+        "video_list": [
+            "videos_t2v_long/broccoli and a backpack-0.mp4",
+            "videos_t2v_long/broccoli and a backpack-1.mp4",
+            "videos_t2v_long/broccoli and a backpack-2.mp4",
+            "videos_t2v_long/broccoli and a backpack-3.mp4",
+            "videos_t2v_long/broccoli and a backpack-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a carrot and an umbrella",
+        "dimension": [
+            "multiple_objects"
+        ],
+        "auxiliary_info": {
+            "multiple_objects": {
+                "object": "carrot and umbrella"
+            }
+        },
+        "video_list": [
+            "videos_t2v_long/a carrot and an umbrella-0.mp4",
+            "videos_t2v_long/a carrot and an umbrella-1.mp4",
+            "videos_t2v_long/a carrot and an umbrella-2.mp4",
+            "videos_t2v_long/a carrot and an umbrella-3.mp4",
+            "videos_t2v_long/a carrot and an umbrella-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a hot dog and a handbag",
+        "dimension": [
+            "multiple_objects"
+        ],
+        "auxiliary_info": {
+            "multiple_objects": {
+                "object": "hot dog and handbag"
+            }
+        },
+        "video_list": [
+            "videos_t2v_long/a hot dog and a handbag-0.mp4",
+            "videos_t2v_long/a hot dog and a handbag-1.mp4",
+            "videos_t2v_long/a hot dog and a handbag-2.mp4",
+            "videos_t2v_long/a hot dog and a handbag-3.mp4",
+            "videos_t2v_long/a hot dog and a handbag-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a pizza and a tie",
+        "dimension": [
+            "multiple_objects"
+        ],
+        "auxiliary_info": {
+            "multiple_objects": {
+                "object": "pizza and tie"
+            }
+        },
+        "video_list": [
+            "videos_t2v_long/a pizza and a tie-0.mp4",
+            "videos_t2v_long/a pizza and a tie-1.mp4",
+            "videos_t2v_long/a pizza and a tie-2.mp4",
+            "videos_t2v_long/a pizza and a tie-3.mp4",
+            "videos_t2v_long/a pizza and a tie-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a donut and a suitcase",
+        "dimension": [
+            "multiple_objects"
+        ],
+        "auxiliary_info": {
+            "multiple_objects": {
+                "object": "donut and suitcase"
+            }
+        },
+        "video_list": [
+            "videos_t2v_long/a donut and a suitcase-0.mp4",
+            "videos_t2v_long/a donut and a suitcase-1.mp4",
+            "videos_t2v_long/a donut and a suitcase-2.mp4",
+            "videos_t2v_long/a donut and a suitcase-3.mp4",
+            "videos_t2v_long/a donut and a suitcase-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a cake and a vase",
+        "dimension": [
+            "multiple_objects"
+        ],
+        "auxiliary_info": {
+            "multiple_objects": {
+                "object": "cake and vase"
+            }
+        },
+        "video_list": [
+            "videos_t2v_long/a cake and a vase-0.mp4",
+            "videos_t2v_long/a cake and a vase-1.mp4",
+            "videos_t2v_long/a cake and a vase-2.mp4",
+            "videos_t2v_long/a cake and a vase-3.mp4",
+            "videos_t2v_long/a cake and a vase-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "an oven and scissors",
+        "dimension": [
+            "multiple_objects"
+        ],
+        "auxiliary_info": {
+            "multiple_objects": {
+                "object": "oven and scissors"
+            }
+        },
+        "video_list": [
+            "videos_t2v_long/an oven and scissors-0.mp4",
+            "videos_t2v_long/an oven and scissors-1.mp4",
+            "videos_t2v_long/an oven and scissors-2.mp4",
+            "videos_t2v_long/an oven and scissors-3.mp4",
+            "videos_t2v_long/an oven and scissors-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a toaster and a teddy bear",
+        "dimension": [
+            "multiple_objects"
+        ],
+        "auxiliary_info": {
+            "multiple_objects": {
+                "object": "toaster and teddy bear"
+            }
+        },
+        "video_list": [
+            "videos_t2v_long/a toaster and a teddy bear-0.mp4",
+            "videos_t2v_long/a toaster and a teddy bear-1.mp4",
+            "videos_t2v_long/a toaster and a teddy bear-2.mp4",
+            "videos_t2v_long/a toaster and a teddy bear-3.mp4",
+            "videos_t2v_long/a toaster and a teddy bear-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a microwave and a frisbee",
+        "dimension": [
+            "multiple_objects"
+        ],
+        "auxiliary_info": {
+            "multiple_objects": {
+                "object": "microwave and frisbee"
+            }
+        },
+        "video_list": [
+            "videos_t2v_long/a microwave and a frisbee-0.mp4",
+            "videos_t2v_long/a microwave and a frisbee-1.mp4",
+            "videos_t2v_long/a microwave and a frisbee-2.mp4",
+            "videos_t2v_long/a microwave and a frisbee-3.mp4",
+            "videos_t2v_long/a microwave and a frisbee-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a refrigerator and skis",
+        "dimension": [
+            "multiple_objects"
+        ],
+        "auxiliary_info": {
+            "multiple_objects": {
+                "object": "refrigerator and skis"
+            }
+        },
+        "video_list": [
+            "videos_t2v_long/a refrigerator and skis-0.mp4",
+            "videos_t2v_long/a refrigerator and skis-1.mp4",
+            "videos_t2v_long/a refrigerator and skis-2.mp4",
+            "videos_t2v_long/a refrigerator and skis-3.mp4",
+            "videos_t2v_long/a refrigerator and skis-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a bicycle and an airplane",
+        "dimension": [
+            "multiple_objects"
+        ],
+        "auxiliary_info": {
+            "multiple_objects": {
+                "object": "bicycle and airplane"
+            }
+        },
+        "video_list": [
+            "videos_t2v_long/a bicycle and an airplane-0.mp4",
+            "videos_t2v_long/a bicycle and an airplane-1.mp4",
+            "videos_t2v_long/a bicycle and an airplane-2.mp4",
+            "videos_t2v_long/a bicycle and an airplane-3.mp4",
+            "videos_t2v_long/a bicycle and an airplane-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a car and a train",
+        "dimension": [
+            "multiple_objects"
+        ],
+        "auxiliary_info": {
+            "multiple_objects": {
+                "object": "car and train"
+            }
+        },
+        "video_list": [
+            "videos_t2v_long/a car and a train-0.mp4",
+            "videos_t2v_long/a car and a train-1.mp4",
+            "videos_t2v_long/a car and a train-2.mp4",
+            "videos_t2v_long/a car and a train-3.mp4",
+            "videos_t2v_long/a car and a train-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a motorcycle and a boat",
+        "dimension": [
+            "multiple_objects"
+        ],
+        "auxiliary_info": {
+            "multiple_objects": {
+                "object": "motorcycle and boat"
+            }
+        },
+        "video_list": [
+            "videos_t2v_long/a motorcycle and a boat-0.mp4",
+            "videos_t2v_long/a motorcycle and a boat-1.mp4",
+            "videos_t2v_long/a motorcycle and a boat-2.mp4",
+            "videos_t2v_long/a motorcycle and a boat-3.mp4",
+            "videos_t2v_long/a motorcycle and a boat-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a person and a toilet",
+        "dimension": [
+            "multiple_objects"
+        ],
+        "auxiliary_info": {
+            "multiple_objects": {
+                "object": "person and toilet"
+            }
+        },
+        "video_list": [
+            "videos_t2v_long/a person and a toilet-0.mp4",
+            "videos_t2v_long/a person and a toilet-1.mp4",
+            "videos_t2v_long/a person and a toilet-2.mp4",
+            "videos_t2v_long/a person and a toilet-3.mp4",
+            "videos_t2v_long/a person and a toilet-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a person and a hair drier",
+        "dimension": [
+            "multiple_objects"
+        ],
+        "auxiliary_info": {
+            "multiple_objects": {
+                "object": "person and hair drier"
+            }
+        },
+        "video_list": [
+            "videos_t2v_long/a person and a hair drier-0.mp4",
+            "videos_t2v_long/a person and a hair drier-1.mp4",
+            "videos_t2v_long/a person and a hair drier-2.mp4",
+            "videos_t2v_long/a person and a hair drier-3.mp4",
+            "videos_t2v_long/a person and a hair drier-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a person and a toothbrush",
+        "dimension": [
+            "multiple_objects"
+        ],
+        "auxiliary_info": {
+            "multiple_objects": {
+                "object": "person and toothbrush"
+            }
+        },
+        "video_list": [
+            "videos_t2v_long/a person and a toothbrush-0.mp4",
+            "videos_t2v_long/a person and a toothbrush-1.mp4",
+            "videos_t2v_long/a person and a toothbrush-2.mp4",
+            "videos_t2v_long/a person and a toothbrush-3.mp4",
+            "videos_t2v_long/a person and a toothbrush-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a person and a sink",
+        "dimension": [
+            "multiple_objects"
+        ],
+        "auxiliary_info": {
+            "multiple_objects": {
+                "object": "person and sink"
+            }
+        },
+        "video_list": [
+            "videos_t2v_long/a person and a sink-0.mp4",
+            "videos_t2v_long/a person and a sink-1.mp4",
+            "videos_t2v_long/a person and a sink-2.mp4",
+            "videos_t2v_long/a person and a sink-3.mp4",
+            "videos_t2v_long/a person and a sink-4.mp4"
+        ]
+    }
+]

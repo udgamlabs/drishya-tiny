@@ -1,0 +1,2007 @@
+{
+    "temporal_style": [
+        0.12154665957111865,
+        [
+            {
+                "video_path": "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, in super slow motion-0.mp4",
+                "video_results": 0.19906176626682281
+            },
+            {
+                "video_path": "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, in super slow motion-1.mp4",
+                "video_results": 0.17833539843559265
+            },
+            {
+                "video_path": "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, in super slow motion-2.mp4",
+                "video_results": 0.15570688247680664
+            },
+            {
+                "video_path": "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, in super slow motion-3.mp4",
+                "video_results": 0.18071448802947998
+            },
+            {
+                "video_path": "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, in super slow motion-4.mp4",
+                "video_results": 0.14874807000160217
+            },
+            {
+                "video_path": "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, zoom in-0.mp4",
+                "video_results": 0.20588868856430054
+            },
+            {
+                "video_path": "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, zoom in-1.mp4",
+                "video_results": 0.19032427668571472
+            },
+            {
+                "video_path": "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, zoom in-2.mp4",
+                "video_results": 0.15849687159061432
+            },
+            {
+                "video_path": "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, zoom in-3.mp4",
+                "video_results": 0.17740555107593536
+            },
+            {
+                "video_path": "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, zoom in-4.mp4",
+                "video_results": 0.165696382522583
+            },
+            {
+                "video_path": "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, zoom out-0.mp4",
+                "video_results": 0.12185224890708923
+            },
+            {
+                "video_path": "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, zoom out-1.mp4",
+                "video_results": 0.1787969321012497
+            },
+            {
+                "video_path": "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, zoom out-2.mp4",
+                "video_results": 0.1445709615945816
+            },
+            {
+                "video_path": "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, zoom out-3.mp4",
+                "video_results": 0.16565431654453278
+            },
+            {
+                "video_path": "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, zoom out-4.mp4",
+                "video_results": 0.1605651080608368
+            },
+            {
+                "video_path": "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, pan left-0.mp4",
+                "video_results": 0.19223624467849731
+            },
+            {
+                "video_path": "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, pan left-1.mp4",
+                "video_results": 0.17945966124534607
+            },
+            {
+                "video_path": "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, pan left-2.mp4",
+                "video_results": 0.15047726035118103
+            },
+            {
+                "video_path": "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, pan left-3.mp4",
+                "video_results": 0.1295453906059265
+            },
+            {
+                "video_path": "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, pan left-4.mp4",
+                "video_results": 0.1494663953781128
+            },
+            {
+                "video_path": "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, pan right-0.mp4",
+                "video_results": 0.14375817775726318
+            },
+            {
+                "video_path": "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, pan right-1.mp4",
+                "video_results": 0.13498491048812866
+            },
+            {
+                "video_path": "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, pan right-2.mp4",
+                "video_results": 0.15705054998397827
+            },
+            {
+                "video_path": "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, pan right-3.mp4",
+                "video_results": 0.17019370198249817
+            },
+            {
+                "video_path": "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, pan right-4.mp4",
+                "video_results": 0.19298207759857178
+            },
+            {
+                "video_path": "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, tilt up-0.mp4",
+                "video_results": 0.1570339798927307
+            },
+            {
+                "video_path": "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, tilt up-1.mp4",
+                "video_results": 0.14185991883277893
+            },
+            {
+                "video_path": "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, tilt up-2.mp4",
+                "video_results": 0.13584771752357483
+            },
+            {
+                "video_path": "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, tilt up-3.mp4",
+                "video_results": 0.14152932167053223
+            },
+            {
+                "video_path": "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, tilt up-4.mp4",
+                "video_results": 0.15834560990333557
+            },
+            {
+                "video_path": "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, tilt down-0.mp4",
+                "video_results": 0.13699963688850403
+            },
+            {
+                "video_path": "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, tilt down-1.mp4",
+                "video_results": 0.14392556250095367
+            },
+            {
+                "video_path": "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, tilt down-2.mp4",
+                "video_results": 0.16662248969078064
+            },
+            {
+                "video_path": "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, tilt down-3.mp4",
+                "video_results": 0.14493539929389954
+            },
+            {
+                "video_path": "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, tilt down-4.mp4",
+                "video_results": 0.14350077509880066
+            },
+            {
+                "video_path": "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, with an intense shaking effect-0.mp4",
+                "video_results": 0.20621323585510254
+            },
+            {
+                "video_path": "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, with an intense shaking effect-1.mp4",
+                "video_results": 0.1613779217004776
+            },
+            {
+                "video_path": "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, with an intense shaking effect-2.mp4",
+                "video_results": 0.16153918206691742
+            },
+            {
+                "video_path": "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, with an intense shaking effect-3.mp4",
+                "video_results": 0.1125536859035492
+            },
+            {
+                "video_path": "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, with an intense shaking effect-4.mp4",
+                "video_results": 0.18104338645935059
+            },
+            {
+                "video_path": "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, featuring a steady and smooth perspective-0.mp4",
+                "video_results": 0.13612747192382812
+            },
+            {
+                "video_path": "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, featuring a steady and smooth perspective-1.mp4",
+                "video_results": 0.11258401721715927
+            },
+            {
+                "video_path": "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, featuring a steady and smooth perspective-2.mp4",
+                "video_results": 0.1353583037853241
+            },
+            {
+                "video_path": "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, featuring a steady and smooth perspective-3.mp4",
+                "video_results": 0.16950750350952148
+            },
+            {
+                "video_path": "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, featuring a steady and smooth perspective-4.mp4",
+                "video_results": 0.13341763615608215
+            },
+            {
+                "video_path": "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, racking focus-0.mp4",
+                "video_results": 0.1925070583820343
+            },
+            {
+                "video_path": "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, racking focus-1.mp4",
+                "video_results": 0.13552279770374298
+            },
+            {
+                "video_path": "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, racking focus-2.mp4",
+                "video_results": 0.20489796996116638
+            },
+            {
+                "video_path": "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, racking focus-3.mp4",
+                "video_results": 0.18391594290733337
+            },
+            {
+                "video_path": "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, racking focus-4.mp4",
+                "video_results": 0.17662349343299866
+            },
+            {
+                "video_path": "videos_t2v/The bund Shanghai, in super slow motion-0.mp4",
+                "video_results": 0.16006185114383698
+            },
+            {
+                "video_path": "videos_t2v/The bund Shanghai, in super slow motion-1.mp4",
+                "video_results": 0.042968884110450745
+            },
+            {
+                "video_path": "videos_t2v/The bund Shanghai, in super slow motion-2.mp4",
+                "video_results": 0.096206434071064
+            },
+            {
+                "video_path": "videos_t2v/The bund Shanghai, in super slow motion-3.mp4",
+                "video_results": 0.04232218116521835
+            },
+            {
+                "video_path": "videos_t2v/The bund Shanghai, in super slow motion-4.mp4",
+                "video_results": 0.16600477695465088
+            },
+            {
+                "video_path": "videos_t2v/The bund Shanghai, zoom in-0.mp4",
+                "video_results": 0.13641288876533508
+            },
+            {
+                "video_path": "videos_t2v/The bund Shanghai, zoom in-1.mp4",
+                "video_results": -0.012185115367174149
+            },
+            {
+                "video_path": "videos_t2v/The bund Shanghai, zoom in-2.mp4",
+                "video_results": 0.11365601420402527
+            },
+            {
+                "video_path": "videos_t2v/The bund Shanghai, zoom in-3.mp4",
+                "video_results": 0.08073551207780838
+            },
+            {
+                "video_path": "videos_t2v/The bund Shanghai, zoom in-4.mp4",
+                "video_results": 0.09977339208126068
+            },
+            {
+                "video_path": "videos_t2v/The bund Shanghai, zoom out-0.mp4",
+                "video_results": 0.013165785931050777
+            },
+            {
+                "video_path": "videos_t2v/The bund Shanghai, zoom out-1.mp4",
+                "video_results": 0.12699592113494873
+            },
+            {
+                "video_path": "videos_t2v/The bund Shanghai, zoom out-2.mp4",
+                "video_results": 0.05661613494157791
+            },
+            {
+                "video_path": "videos_t2v/The bund Shanghai, zoom out-3.mp4",
+                "video_results": 0.06538193672895432
+            },
+            {
+                "video_path": "videos_t2v/The bund Shanghai, zoom out-4.mp4",
+                "video_results": 0.07712629437446594
+            },
+            {
+                "video_path": "videos_t2v/The bund Shanghai, pan left-0.mp4",
+                "video_results": 0.06243182718753815
+            },
+            {
+                "video_path": "videos_t2v/The bund Shanghai, pan left-1.mp4",
+                "video_results": 0.024284766986966133
+            },
+            {
+                "video_path": "videos_t2v/The bund Shanghai, pan left-2.mp4",
+                "video_results": 0.04995029419660568
+            },
+            {
+                "video_path": "videos_t2v/The bund Shanghai, pan left-3.mp4",
+                "video_results": 0.06150481104850769
+            },
+            {
+                "video_path": "videos_t2v/The bund Shanghai, pan left-4.mp4",
+                "video_results": 0.10831321030855179
+            },
+            {
+                "video_path": "videos_t2v/The bund Shanghai, pan right-0.mp4",
+                "video_results": 0.06018058955669403
+            },
+            {
+                "video_path": "videos_t2v/The bund Shanghai, pan right-1.mp4",
+                "video_results": 0.038031257688999176
+            },
+            {
+                "video_path": "videos_t2v/The bund Shanghai, pan right-2.mp4",
+                "video_results": 0.025211041793227196
+            },
+            {
+                "video_path": "videos_t2v/The bund Shanghai, pan right-3.mp4",
+                "video_results": 0.06382951140403748
+            },
+            {
+                "video_path": "videos_t2v/The bund Shanghai, pan right-4.mp4",
+                "video_results": 0.06077858805656433
+            },
+            {
+                "video_path": "videos_t2v/The bund Shanghai, tilt up-0.mp4",
+                "video_results": 0.025848405435681343
+            },
+            {
+                "video_path": "videos_t2v/The bund Shanghai, tilt up-1.mp4",
+                "video_results": 0.06558488309383392
+            },
+            {
+                "video_path": "videos_t2v/The bund Shanghai, tilt up-2.mp4",
+                "video_results": 0.07096202671527863
+            },
+            {
+                "video_path": "videos_t2v/The bund Shanghai, tilt up-3.mp4",
+                "video_results": 0.008187733590602875
+            },
+            {
+                "video_path": "videos_t2v/The bund Shanghai, tilt up-4.mp4",
+                "video_results": 0.04015659913420677
+            },
+            {
+                "video_path": "videos_t2v/The bund Shanghai, tilt down-0.mp4",
+                "video_results": 0.09640724956989288
+            },
+            {
+                "video_path": "videos_t2v/The bund Shanghai, tilt down-1.mp4",
+                "video_results": 0.09714655578136444
+            },
+            {
+                "video_path": "videos_t2v/The bund Shanghai, tilt down-2.mp4",
+                "video_results": 0.08733707666397095
+            },
+            {
+                "video_path": "videos_t2v/The bund Shanghai, tilt down-3.mp4",
+                "video_results": 0.09104587882757187
+            },
+            {
+                "video_path": "videos_t2v/The bund Shanghai, tilt down-4.mp4",
+                "video_results": 0.0887671709060669
+            },
+            {
+                "video_path": "videos_t2v/The bund Shanghai, with an intense shaking effect-0.mp4",
+                "video_results": 0.07344613969326019
+            },
+            {
+                "video_path": "videos_t2v/The bund Shanghai, with an intense shaking effect-1.mp4",
+                "video_results": 0.027201466262340546
+            },
+            {
+                "video_path": "videos_t2v/The bund Shanghai, with an intense shaking effect-2.mp4",
+                "video_results": 0.032062724232673645
+            },
+            {
+                "video_path": "videos_t2v/The bund Shanghai, with an intense shaking effect-3.mp4",
+                "video_results": 0.04970230907201767
+            },
+            {
+                "video_path": "videos_t2v/The bund Shanghai, with an intense shaking effect-4.mp4",
+                "video_results": 0.04992695525288582
+            },
+            {
+                "video_path": "videos_t2v/The bund Shanghai, featuring a steady and smooth perspective-0.mp4",
+                "video_results": 0.10001121461391449
+            },
+            {
+                "video_path": "videos_t2v/The bund Shanghai, featuring a steady and smooth perspective-1.mp4",
+                "video_results": 0.012903694063425064
+            },
+            {
+                "video_path": "videos_t2v/The bund Shanghai, featuring a steady and smooth perspective-2.mp4",
+                "video_results": 0.08801410347223282
+            },
+            {
+                "video_path": "videos_t2v/The bund Shanghai, featuring a steady and smooth perspective-3.mp4",
+                "video_results": 0.06852041929960251
+            },
+            {
+                "video_path": "videos_t2v/The bund Shanghai, featuring a steady and smooth perspective-4.mp4",
+                "video_results": 0.09552866220474243
+            },
+            {
+                "video_path": "videos_t2v/The bund Shanghai, racking focus-0.mp4",
+                "video_results": 0.0017655976116657257
+            },
+            {
+                "video_path": "videos_t2v/The bund Shanghai, racking focus-1.mp4",
+                "video_results": 0.05534394457936287
+            },
+            {
+                "video_path": "videos_t2v/The bund Shanghai, racking focus-2.mp4",
+                "video_results": 0.08092717081308365
+            },
+            {
+                "video_path": "videos_t2v/The bund Shanghai, racking focus-3.mp4",
+                "video_results": 0.04207003861665726
+            },
+            {
+                "video_path": "videos_t2v/The bund Shanghai, racking focus-4.mp4",
+                "video_results": 0.028843946754932404
+            },
+            {
+                "video_path": "videos_t2v/a shark is swimming in the ocean, in super slow motion-0.mp4",
+                "video_results": 0.22026649117469788
+            },
+            {
+                "video_path": "videos_t2v/a shark is swimming in the ocean, in super slow motion-1.mp4",
+                "video_results": 0.23015637695789337
+            },
+            {
+                "video_path": "videos_t2v/a shark is swimming in the ocean, in super slow motion-2.mp4",
+                "video_results": 0.24590763449668884
+            },
+            {
+                "video_path": "videos_t2v/a shark is swimming in the ocean, in super slow motion-3.mp4",
+                "video_results": 0.2209080308675766
+            },
+            {
+                "video_path": "videos_t2v/a shark is swimming in the ocean, in super slow motion-4.mp4",
+                "video_results": 0.18652299046516418
+            },
+            {
+                "video_path": "videos_t2v/a shark is swimming in the ocean, zoom in-0.mp4",
+                "video_results": 0.23446041345596313
+            },
+            {
+                "video_path": "videos_t2v/a shark is swimming in the ocean, zoom in-1.mp4",
+                "video_results": 0.23968225717544556
+            },
+            {
+                "video_path": "videos_t2v/a shark is swimming in the ocean, zoom in-2.mp4",
+                "video_results": 0.19824185967445374
+            },
+            {
+                "video_path": "videos_t2v/a shark is swimming in the ocean, zoom in-3.mp4",
+                "video_results": 0.2453158050775528
+            },
+            {
+                "video_path": "videos_t2v/a shark is swimming in the ocean, zoom in-4.mp4",
+                "video_results": 0.19359415769577026
+            },
+            {
+                "video_path": "videos_t2v/a shark is swimming in the ocean, zoom out-0.mp4",
+                "video_results": 0.15162146091461182
+            },
+            {
+                "video_path": "videos_t2v/a shark is swimming in the ocean, zoom out-1.mp4",
+                "video_results": 0.18161225318908691
+            },
+            {
+                "video_path": "videos_t2v/a shark is swimming in the ocean, zoom out-2.mp4",
+                "video_results": 0.20202970504760742
+            },
+            {
+                "video_path": "videos_t2v/a shark is swimming in the ocean, zoom out-3.mp4",
+                "video_results": 0.1835062950849533
+            },
+            {
+                "video_path": "videos_t2v/a shark is swimming in the ocean, zoom out-4.mp4",
+                "video_results": 0.16688552498817444
+            },
+            {
+                "video_path": "videos_t2v/a shark is swimming in the ocean, pan left-0.mp4",
+                "video_results": 0.19801008701324463
+            },
+            {
+                "video_path": "videos_t2v/a shark is swimming in the ocean, pan left-1.mp4",
+                "video_results": 0.1837858259677887
+            },
+            {
+                "video_path": "videos_t2v/a shark is swimming in the ocean, pan left-2.mp4",
+                "video_results": 0.15378935635089874
+            },
+            {
+                "video_path": "videos_t2v/a shark is swimming in the ocean, pan left-3.mp4",
+                "video_results": 0.19863764941692352
+            },
+            {
+                "video_path": "videos_t2v/a shark is swimming in the ocean, pan left-4.mp4",
+                "video_results": 0.18751972913742065
+            },
+            {
+                "video_path": "videos_t2v/a shark is swimming in the ocean, pan right-0.mp4",
+                "video_results": 0.09052009880542755
+            },
+            {
+                "video_path": "videos_t2v/a shark is swimming in the ocean, pan right-1.mp4",
+                "video_results": 0.16288164258003235
+            },
+            {
+                "video_path": "videos_t2v/a shark is swimming in the ocean, pan right-2.mp4",
+                "video_results": 0.20013216137886047
+            },
+            {
+                "video_path": "videos_t2v/a shark is swimming in the ocean, pan right-3.mp4",
+                "video_results": 0.17881447076797485
+            },
+            {
+                "video_path": "videos_t2v/a shark is swimming in the ocean, pan right-4.mp4",
+                "video_results": 0.1849312037229538
+            },
+            {
+                "video_path": "videos_t2v/a shark is swimming in the ocean, tilt up-0.mp4",
+                "video_results": 0.14269277453422546
+            },
+            {
+                "video_path": "videos_t2v/a shark is swimming in the ocean, tilt up-1.mp4",
+                "video_results": 0.16362425684928894
+            },
+            {
+                "video_path": "videos_t2v/a shark is swimming in the ocean, tilt up-2.mp4",
+                "video_results": 0.15334740281105042
+            },
+            {
+                "video_path": "videos_t2v/a shark is swimming in the ocean, tilt up-3.mp4",
+                "video_results": 0.18157856166362762
+            },
+            {
+                "video_path": "videos_t2v/a shark is swimming in the ocean, tilt up-4.mp4",
+                "video_results": 0.16666188836097717
+            },
+            {
+                "video_path": "videos_t2v/a shark is swimming in the ocean, tilt down-0.mp4",
+                "video_results": 0.16597148776054382
+            },
+            {
+                "video_path": "videos_t2v/a shark is swimming in the ocean, tilt down-1.mp4",
+                "video_results": 0.1430858075618744
+            },
+            {
+                "video_path": "videos_t2v/a shark is swimming in the ocean, tilt down-2.mp4",
+                "video_results": 0.13507947325706482
+            },
+            {
+                "video_path": "videos_t2v/a shark is swimming in the ocean, tilt down-3.mp4",
+                "video_results": 0.16318561136722565
+            },
+            {
+                "video_path": "videos_t2v/a shark is swimming in the ocean, tilt down-4.mp4",
+                "video_results": 0.1664438545703888
+            },
+            {
+                "video_path": "videos_t2v/a shark is swimming in the ocean, with an intense shaking effect-0.mp4",
+                "video_results": 0.2019956409931183
+            },
+            {
+                "video_path": "videos_t2v/a shark is swimming in the ocean, with an intense shaking effect-1.mp4",
+                "video_results": 0.1711093634366989
+            },
+            {
+                "video_path": "videos_t2v/a shark is swimming in the ocean, with an intense shaking effect-2.mp4",
+                "video_results": 0.21681275963783264
+            },
+            {
+                "video_path": "videos_t2v/a shark is swimming in the ocean, with an intense shaking effect-3.mp4",
+                "video_results": 0.22170767188072205
+            },
+            {
+                "video_path": "videos_t2v/a shark is swimming in the ocean, with an intense shaking effect-4.mp4",
+                "video_results": 0.20845767855644226
+            },
+            {
+                "video_path": "videos_t2v/a shark is swimming in the ocean, featuring a steady and smooth perspective-0.mp4",
+                "video_results": 0.203346848487854
+            },
+            {
+                "video_path": "videos_t2v/a shark is swimming in the ocean, featuring a steady and smooth perspective-1.mp4",
+                "video_results": 0.1948411762714386
+            },
+            {
+                "video_path": "videos_t2v/a shark is swimming in the ocean, featuring a steady and smooth perspective-2.mp4",
+                "video_results": 0.20276899635791779
+            },
+            {
+                "video_path": "videos_t2v/a shark is swimming in the ocean, featuring a steady and smooth perspective-3.mp4",
+                "video_results": 0.19585996866226196
+            },
+            {
+                "video_path": "videos_t2v/a shark is swimming in the ocean, featuring a steady and smooth perspective-4.mp4",
+                "video_results": 0.1656695306301117
+            },
+            {
+                "video_path": "videos_t2v/a shark is swimming in the ocean, racking focus-0.mp4",
+                "video_results": 0.13697244226932526
+            },
+            {
+                "video_path": "videos_t2v/a shark is swimming in the ocean, racking focus-1.mp4",
+                "video_results": 0.15270936489105225
+            },
+            {
+                "video_path": "videos_t2v/a shark is swimming in the ocean, racking focus-2.mp4",
+                "video_results": 0.16672617197036743
+            },
+            {
+                "video_path": "videos_t2v/a shark is swimming in the ocean, racking focus-3.mp4",
+                "video_results": 0.17922577261924744
+            },
+            {
+                "video_path": "videos_t2v/a shark is swimming in the ocean, racking focus-4.mp4",
+                "video_results": 0.16114139556884766
+            },
+            {
+                "video_path": "videos_t2v/A panda drinking coffee in a cafe in Paris, in super slow motion-0.mp4",
+                "video_results": 0.14534389972686768
+            },
+            {
+                "video_path": "videos_t2v/A panda drinking coffee in a cafe in Paris, in super slow motion-1.mp4",
+                "video_results": 0.17596665024757385
+            },
+            {
+                "video_path": "videos_t2v/A panda drinking coffee in a cafe in Paris, in super slow motion-2.mp4",
+                "video_results": 0.2742981016635895
+            },
+            {
+                "video_path": "videos_t2v/A panda drinking coffee in a cafe in Paris, in super slow motion-3.mp4",
+                "video_results": 0.19411930441856384
+            },
+            {
+                "video_path": "videos_t2v/A panda drinking coffee in a cafe in Paris, in super slow motion-4.mp4",
+                "video_results": 0.1759968400001526
+            },
+            {
+                "video_path": "videos_t2v/A panda drinking coffee in a cafe in Paris, zoom in-0.mp4",
+                "video_results": 0.20803304016590118
+            },
+            {
+                "video_path": "videos_t2v/A panda drinking coffee in a cafe in Paris, zoom in-1.mp4",
+                "video_results": 0.1566789448261261
+            },
+            {
+                "video_path": "videos_t2v/A panda drinking coffee in a cafe in Paris, zoom in-2.mp4",
+                "video_results": 0.16215722262859344
+            },
+            {
+                "video_path": "videos_t2v/A panda drinking coffee in a cafe in Paris, zoom in-3.mp4",
+                "video_results": 0.18031173944473267
+            },
+            {
+                "video_path": "videos_t2v/A panda drinking coffee in a cafe in Paris, zoom in-4.mp4",
+                "video_results": 0.18371045589447021
+            },
+            {
+                "video_path": "videos_t2v/A panda drinking coffee in a cafe in Paris, zoom out-0.mp4",
+                "video_results": 0.15815144777297974
+            },
+            {
+                "video_path": "videos_t2v/A panda drinking coffee in a cafe in Paris, zoom out-1.mp4",
+                "video_results": 0.11355344951152802
+            },
+            {
+                "video_path": "videos_t2v/A panda drinking coffee in a cafe in Paris, zoom out-2.mp4",
+                "video_results": 0.09895163774490356
+            },
+            {
+                "video_path": "videos_t2v/A panda drinking coffee in a cafe in Paris, zoom out-3.mp4",
+                "video_results": 0.19862745702266693
+            },
+            {
+                "video_path": "videos_t2v/A panda drinking coffee in a cafe in Paris, zoom out-4.mp4",
+                "video_results": 0.127804696559906
+            },
+            {
+                "video_path": "videos_t2v/A panda drinking coffee in a cafe in Paris, pan left-0.mp4",
+                "video_results": 0.20906959474086761
+            },
+            {
+                "video_path": "videos_t2v/A panda drinking coffee in a cafe in Paris, pan left-1.mp4",
+                "video_results": 0.14399318397045135
+            },
+            {
+                "video_path": "videos_t2v/A panda drinking coffee in a cafe in Paris, pan left-2.mp4",
+                "video_results": 0.2080300897359848
+            },
+            {
+                "video_path": "videos_t2v/A panda drinking coffee in a cafe in Paris, pan left-3.mp4",
+                "video_results": 0.18041396141052246
+            },
+            {
+                "video_path": "videos_t2v/A panda drinking coffee in a cafe in Paris, pan left-4.mp4",
+                "video_results": 0.17616716027259827
+            },
+            {
+                "video_path": "videos_t2v/A panda drinking coffee in a cafe in Paris, pan right-0.mp4",
+                "video_results": 0.1077532172203064
+            },
+            {
+                "video_path": "videos_t2v/A panda drinking coffee in a cafe in Paris, pan right-1.mp4",
+                "video_results": 0.07166700810194016
+            },
+            {
+                "video_path": "videos_t2v/A panda drinking coffee in a cafe in Paris, pan right-2.mp4",
+                "video_results": 0.18523205816745758
+            },
+            {
+                "video_path": "videos_t2v/A panda drinking coffee in a cafe in Paris, pan right-3.mp4",
+                "video_results": 0.10906589031219482
+            },
+            {
+                "video_path": "videos_t2v/A panda drinking coffee in a cafe in Paris, pan right-4.mp4",
+                "video_results": 0.19719010591506958
+            },
+            {
+                "video_path": "videos_t2v/A panda drinking coffee in a cafe in Paris, tilt up-0.mp4",
+                "video_results": 0.21451902389526367
+            },
+            {
+                "video_path": "videos_t2v/A panda drinking coffee in a cafe in Paris, tilt up-1.mp4",
+                "video_results": 0.13712120056152344
+            },
+            {
+                "video_path": "videos_t2v/A panda drinking coffee in a cafe in Paris, tilt up-2.mp4",
+                "video_results": 0.18672484159469604
+            },
+            {
+                "video_path": "videos_t2v/A panda drinking coffee in a cafe in Paris, tilt up-3.mp4",
+                "video_results": 0.2136627435684204
+            },
+            {
+                "video_path": "videos_t2v/A panda drinking coffee in a cafe in Paris, tilt up-4.mp4",
+                "video_results": 0.1586143970489502
+            },
+            {
+                "video_path": "videos_t2v/A panda drinking coffee in a cafe in Paris, tilt down-0.mp4",
+                "video_results": 0.21587657928466797
+            },
+            {
+                "video_path": "videos_t2v/A panda drinking coffee in a cafe in Paris, tilt down-1.mp4",
+                "video_results": 0.19130289554595947
+            },
+            {
+                "video_path": "videos_t2v/A panda drinking coffee in a cafe in Paris, tilt down-2.mp4",
+                "video_results": 0.11231480538845062
+            },
+            {
+                "video_path": "videos_t2v/A panda drinking coffee in a cafe in Paris, tilt down-3.mp4",
+                "video_results": 0.13668623566627502
+            },
+            {
+                "video_path": "videos_t2v/A panda drinking coffee in a cafe in Paris, tilt down-4.mp4",
+                "video_results": 0.20888124406337738
+            },
+            {
+                "video_path": "videos_t2v/A panda drinking coffee in a cafe in Paris, with an intense shaking effect-0.mp4",
+                "video_results": 0.162126824259758
+            },
+            {
+                "video_path": "videos_t2v/A panda drinking coffee in a cafe in Paris, with an intense shaking effect-1.mp4",
+                "video_results": 0.20825794339179993
+            },
+            {
+                "video_path": "videos_t2v/A panda drinking coffee in a cafe in Paris, with an intense shaking effect-2.mp4",
+                "video_results": 0.1938829869031906
+            },
+            {
+                "video_path": "videos_t2v/A panda drinking coffee in a cafe in Paris, with an intense shaking effect-3.mp4",
+                "video_results": 0.21297964453697205
+            },
+            {
+                "video_path": "videos_t2v/A panda drinking coffee in a cafe in Paris, with an intense shaking effect-4.mp4",
+                "video_results": 0.16912105679512024
+            },
+            {
+                "video_path": "videos_t2v/A panda drinking coffee in a cafe in Paris, featuring a steady and smooth perspective-0.mp4",
+                "video_results": 0.18179276585578918
+            },
+            {
+                "video_path": "videos_t2v/A panda drinking coffee in a cafe in Paris, featuring a steady and smooth perspective-1.mp4",
+                "video_results": 0.20807066559791565
+            },
+            {
+                "video_path": "videos_t2v/A panda drinking coffee in a cafe in Paris, featuring a steady and smooth perspective-2.mp4",
+                "video_results": 0.22344648838043213
+            },
+            {
+                "video_path": "videos_t2v/A panda drinking coffee in a cafe in Paris, featuring a steady and smooth perspective-3.mp4",
+                "video_results": 0.14410743117332458
+            },
+            {
+                "video_path": "videos_t2v/A panda drinking coffee in a cafe in Paris, featuring a steady and smooth perspective-4.mp4",
+                "video_results": 0.1578931212425232
+            },
+            {
+                "video_path": "videos_t2v/A panda drinking coffee in a cafe in Paris, racking focus-0.mp4",
+                "video_results": 0.22217045724391937
+            },
+            {
+                "video_path": "videos_t2v/A panda drinking coffee in a cafe in Paris, racking focus-1.mp4",
+                "video_results": 0.1380814015865326
+            },
+            {
+                "video_path": "videos_t2v/A panda drinking coffee in a cafe in Paris, racking focus-2.mp4",
+                "video_results": 0.15398572385311127
+            },
+            {
+                "video_path": "videos_t2v/A panda drinking coffee in a cafe in Paris, racking focus-3.mp4",
+                "video_results": 0.13419191539287567
+            },
+            {
+                "video_path": "videos_t2v/A panda drinking coffee in a cafe in Paris, racking focus-4.mp4",
+                "video_results": 0.237884983420372
+            },
+            {
+                "video_path": "videos_t2v/A cute happy Corgi playing in park, sunset, in super slow motion-0.mp4",
+                "video_results": 0.054352205246686935
+            },
+            {
+                "video_path": "videos_t2v/A cute happy Corgi playing in park, sunset, in super slow motion-1.mp4",
+                "video_results": 0.0875948965549469
+            },
+            {
+                "video_path": "videos_t2v/A cute happy Corgi playing in park, sunset, in super slow motion-2.mp4",
+                "video_results": 0.11897843331098557
+            },
+            {
+                "video_path": "videos_t2v/A cute happy Corgi playing in park, sunset, in super slow motion-3.mp4",
+                "video_results": 0.04901698976755142
+            },
+            {
+                "video_path": "videos_t2v/A cute happy Corgi playing in park, sunset, in super slow motion-4.mp4",
+                "video_results": 0.13396403193473816
+            },
+            {
+                "video_path": "videos_t2v/A cute happy Corgi playing in park, sunset, zoom in-0.mp4",
+                "video_results": 0.09371157735586166
+            },
+            {
+                "video_path": "videos_t2v/A cute happy Corgi playing in park, sunset, zoom in-1.mp4",
+                "video_results": 0.02867351658642292
+            },
+            {
+                "video_path": "videos_t2v/A cute happy Corgi playing in park, sunset, zoom in-2.mp4",
+                "video_results": 0.04962249845266342
+            },
+            {
+                "video_path": "videos_t2v/A cute happy Corgi playing in park, sunset, zoom in-3.mp4",
+                "video_results": 0.12969094514846802
+            },
+            {
+                "video_path": "videos_t2v/A cute happy Corgi playing in park, sunset, zoom in-4.mp4",
+                "video_results": 0.1282701939344406
+            },
+            {
+                "video_path": "videos_t2v/A cute happy Corgi playing in park, sunset, zoom out-0.mp4",
+                "video_results": 0.06688523292541504
+            },
+            {
+                "video_path": "videos_t2v/A cute happy Corgi playing in park, sunset, zoom out-1.mp4",
+                "video_results": 0.11375544220209122
+            },
+            {
+                "video_path": "videos_t2v/A cute happy Corgi playing in park, sunset, zoom out-2.mp4",
+                "video_results": 0.15549582242965698
+            },
+            {
+                "video_path": "videos_t2v/A cute happy Corgi playing in park, sunset, zoom out-3.mp4",
+                "video_results": 0.14043369889259338
+            },
+            {
+                "video_path": "videos_t2v/A cute happy Corgi playing in park, sunset, zoom out-4.mp4",
+                "video_results": 0.07156743109226227
+            },
+            {
+                "video_path": "videos_t2v/A cute happy Corgi playing in park, sunset, pan left-0.mp4",
+                "video_results": 0.13166847825050354
+            },
+            {
+                "video_path": "videos_t2v/A cute happy Corgi playing in park, sunset, pan left-1.mp4",
+                "video_results": 0.13704095780849457
+            },
+            {
+                "video_path": "videos_t2v/A cute happy Corgi playing in park, sunset, pan left-2.mp4",
+                "video_results": 0.06144825741648674
+            },
+            {
+                "video_path": "videos_t2v/A cute happy Corgi playing in park, sunset, pan left-3.mp4",
+                "video_results": 0.0961265042424202
+            },
+            {
+                "video_path": "videos_t2v/A cute happy Corgi playing in park, sunset, pan left-4.mp4",
+                "video_results": 0.06181073933839798
+            },
+            {
+                "video_path": "videos_t2v/A cute happy Corgi playing in park, sunset, pan right-0.mp4",
+                "video_results": 0.06485190242528915
+            },
+            {
+                "video_path": "videos_t2v/A cute happy Corgi playing in park, sunset, pan right-1.mp4",
+                "video_results": 0.09883355349302292
+            },
+            {
+                "video_path": "videos_t2v/A cute happy Corgi playing in park, sunset, pan right-2.mp4",
+                "video_results": 0.10115358978509903
+            },
+            {
+                "video_path": "videos_t2v/A cute happy Corgi playing in park, sunset, pan right-3.mp4",
+                "video_results": 0.12805019319057465
+            },
+            {
+                "video_path": "videos_t2v/A cute happy Corgi playing in park, sunset, pan right-4.mp4",
+                "video_results": 0.02096322365105152
+            },
+            {
+                "video_path": "videos_t2v/A cute happy Corgi playing in park, sunset, tilt up-0.mp4",
+                "video_results": 0.12256281077861786
+            },
+            {
+                "video_path": "videos_t2v/A cute happy Corgi playing in park, sunset, tilt up-1.mp4",
+                "video_results": 0.0453789085149765
+            },
+            {
+                "video_path": "videos_t2v/A cute happy Corgi playing in park, sunset, tilt up-2.mp4",
+                "video_results": 0.06566760689020157
+            },
+            {
+                "video_path": "videos_t2v/A cute happy Corgi playing in park, sunset, tilt up-3.mp4",
+                "video_results": 0.08218497782945633
+            },
+            {
+                "video_path": "videos_t2v/A cute happy Corgi playing in park, sunset, tilt up-4.mp4",
+                "video_results": 0.14699594676494598
+            },
+            {
+                "video_path": "videos_t2v/A cute happy Corgi playing in park, sunset, tilt down-0.mp4",
+                "video_results": 0.06729206442832947
+            },
+            {
+                "video_path": "videos_t2v/A cute happy Corgi playing in park, sunset, tilt down-1.mp4",
+                "video_results": 0.12245313078165054
+            },
+            {
+                "video_path": "videos_t2v/A cute happy Corgi playing in park, sunset, tilt down-2.mp4",
+                "video_results": 0.16673718392848969
+            },
+            {
+                "video_path": "videos_t2v/A cute happy Corgi playing in park, sunset, tilt down-3.mp4",
+                "video_results": 0.03340950608253479
+            },
+            {
+                "video_path": "videos_t2v/A cute happy Corgi playing in park, sunset, tilt down-4.mp4",
+                "video_results": 0.049290452152490616
+            },
+            {
+                "video_path": "videos_t2v/A cute happy Corgi playing in park, sunset, with an intense shaking effect-0.mp4",
+                "video_results": 0.02034955471754074
+            },
+            {
+                "video_path": "videos_t2v/A cute happy Corgi playing in park, sunset, with an intense shaking effect-1.mp4",
+                "video_results": 0.09183484315872192
+            },
+            {
+                "video_path": "videos_t2v/A cute happy Corgi playing in park, sunset, with an intense shaking effect-2.mp4",
+                "video_results": 0.10301712155342102
+            },
+            {
+                "video_path": "videos_t2v/A cute happy Corgi playing in park, sunset, with an intense shaking effect-3.mp4",
+                "video_results": 0.04269695654511452
+            },
+            {
+                "video_path": "videos_t2v/A cute happy Corgi playing in park, sunset, with an intense shaking effect-4.mp4",
+                "video_results": 0.10240267217159271
+            },
+            {
+                "video_path": "videos_t2v/A cute happy Corgi playing in park, sunset, featuring a steady and smooth perspective-0.mp4",
+                "video_results": 0.06352006644010544
+            },
+            {
+                "video_path": "videos_t2v/A cute happy Corgi playing in park, sunset, featuring a steady and smooth perspective-1.mp4",
+                "video_results": 0.16693827509880066
+            },
+            {
+                "video_path": "videos_t2v/A cute happy Corgi playing in park, sunset, featuring a steady and smooth perspective-2.mp4",
+                "video_results": 0.11367212980985641
+            },
+            {
+                "video_path": "videos_t2v/A cute happy Corgi playing in park, sunset, featuring a steady and smooth perspective-3.mp4",
+                "video_results": 0.06932183355093002
+            },
+            {
+                "video_path": "videos_t2v/A cute happy Corgi playing in park, sunset, featuring a steady and smooth perspective-4.mp4",
+                "video_results": 0.071581169962883
+            },
+            {
+                "video_path": "videos_t2v/A cute happy Corgi playing in park, sunset, racking focus-0.mp4",
+                "video_results": 0.13518385589122772
+            },
+            {
+                "video_path": "videos_t2v/A cute happy Corgi playing in park, sunset, racking focus-1.mp4",
+                "video_results": 0.08343015611171722
+            },
+            {
+                "video_path": "videos_t2v/A cute happy Corgi playing in park, sunset, racking focus-2.mp4",
+                "video_results": 0.00826291274279356
+            },
+            {
+                "video_path": "videos_t2v/A cute happy Corgi playing in park, sunset, racking focus-3.mp4",
+                "video_results": 0.11622311174869537
+            },
+            {
+                "video_path": "videos_t2v/A cute happy Corgi playing in park, sunset, racking focus-4.mp4",
+                "video_results": 0.0602240264415741
+            },
+            {
+                "video_path": "videos_t2v/Gwen Stacy reading a book, in super slow motion-0.mp4",
+                "video_results": 0.041227973997592926
+            },
+            {
+                "video_path": "videos_t2v/Gwen Stacy reading a book, in super slow motion-1.mp4",
+                "video_results": 0.06173081323504448
+            },
+            {
+                "video_path": "videos_t2v/Gwen Stacy reading a book, in super slow motion-2.mp4",
+                "video_results": 0.13488858938217163
+            },
+            {
+                "video_path": "videos_t2v/Gwen Stacy reading a book, in super slow motion-3.mp4",
+                "video_results": 0.07219965010881424
+            },
+            {
+                "video_path": "videos_t2v/Gwen Stacy reading a book, in super slow motion-4.mp4",
+                "video_results": 0.10895411670207977
+            },
+            {
+                "video_path": "videos_t2v/Gwen Stacy reading a book, zoom in-0.mp4",
+                "video_results": 0.0020702630281448364
+            },
+            {
+                "video_path": "videos_t2v/Gwen Stacy reading a book, zoom in-1.mp4",
+                "video_results": 0.08464568108320236
+            },
+            {
+                "video_path": "videos_t2v/Gwen Stacy reading a book, zoom in-2.mp4",
+                "video_results": 0.04732073098421097
+            },
+            {
+                "video_path": "videos_t2v/Gwen Stacy reading a book, zoom in-3.mp4",
+                "video_results": 0.04348386824131012
+            },
+            {
+                "video_path": "videos_t2v/Gwen Stacy reading a book, zoom in-4.mp4",
+                "video_results": 0.13434846699237823
+            },
+            {
+                "video_path": "videos_t2v/Gwen Stacy reading a book, zoom out-0.mp4",
+                "video_results": 0.11531338095664978
+            },
+            {
+                "video_path": "videos_t2v/Gwen Stacy reading a book, zoom out-1.mp4",
+                "video_results": 0.08525148034095764
+            },
+            {
+                "video_path": "videos_t2v/Gwen Stacy reading a book, zoom out-2.mp4",
+                "video_results": 0.18441949784755707
+            },
+            {
+                "video_path": "videos_t2v/Gwen Stacy reading a book, zoom out-3.mp4",
+                "video_results": 0.1380968540906906
+            },
+            {
+                "video_path": "videos_t2v/Gwen Stacy reading a book, zoom out-4.mp4",
+                "video_results": 0.0720103308558464
+            },
+            {
+                "video_path": "videos_t2v/Gwen Stacy reading a book, pan left-0.mp4",
+                "video_results": 0.1007811427116394
+            },
+            {
+                "video_path": "videos_t2v/Gwen Stacy reading a book, pan left-1.mp4",
+                "video_results": 0.11372224241495132
+            },
+            {
+                "video_path": "videos_t2v/Gwen Stacy reading a book, pan left-2.mp4",
+                "video_results": 0.08752235770225525
+            },
+            {
+                "video_path": "videos_t2v/Gwen Stacy reading a book, pan left-3.mp4",
+                "video_results": 0.12723655998706818
+            },
+            {
+                "video_path": "videos_t2v/Gwen Stacy reading a book, pan left-4.mp4",
+                "video_results": 0.11917803436517715
+            },
+            {
+                "video_path": "videos_t2v/Gwen Stacy reading a book, pan right-0.mp4",
+                "video_results": 0.03491649776697159
+            },
+            {
+                "video_path": "videos_t2v/Gwen Stacy reading a book, pan right-1.mp4",
+                "video_results": 0.1294996440410614
+            },
+            {
+                "video_path": "videos_t2v/Gwen Stacy reading a book, pan right-2.mp4",
+                "video_results": 0.04428166523575783
+            },
+            {
+                "video_path": "videos_t2v/Gwen Stacy reading a book, pan right-3.mp4",
+                "video_results": 0.05433546006679535
+            },
+            {
+                "video_path": "videos_t2v/Gwen Stacy reading a book, pan right-4.mp4",
+                "video_results": 0.1242484599351883
+            },
+            {
+                "video_path": "videos_t2v/Gwen Stacy reading a book, tilt up-0.mp4",
+                "video_results": 0.027757536619901657
+            },
+            {
+                "video_path": "videos_t2v/Gwen Stacy reading a book, tilt up-1.mp4",
+                "video_results": 0.1231328621506691
+            },
+            {
+                "video_path": "videos_t2v/Gwen Stacy reading a book, tilt up-2.mp4",
+                "video_results": 0.12504692375659943
+            },
+            {
+                "video_path": "videos_t2v/Gwen Stacy reading a book, tilt up-3.mp4",
+                "video_results": 0.04349225014448166
+            },
+            {
+                "video_path": "videos_t2v/Gwen Stacy reading a book, tilt up-4.mp4",
+                "video_results": 0.0683312863111496
+            },
+            {
+                "video_path": "videos_t2v/Gwen Stacy reading a book, tilt down-0.mp4",
+                "video_results": 0.05279736965894699
+            },
+            {
+                "video_path": "videos_t2v/Gwen Stacy reading a book, tilt down-1.mp4",
+                "video_results": 0.0533251091837883
+            },
+            {
+                "video_path": "videos_t2v/Gwen Stacy reading a book, tilt down-2.mp4",
+                "video_results": 0.06662321090698242
+            },
+            {
+                "video_path": "videos_t2v/Gwen Stacy reading a book, tilt down-3.mp4",
+                "video_results": 0.08286923915147781
+            },
+            {
+                "video_path": "videos_t2v/Gwen Stacy reading a book, tilt down-4.mp4",
+                "video_results": 0.1282009482383728
+            },
+            {
+                "video_path": "videos_t2v/Gwen Stacy reading a book, with an intense shaking effect-0.mp4",
+                "video_results": 0.12341580539941788
+            },
+            {
+                "video_path": "videos_t2v/Gwen Stacy reading a book, with an intense shaking effect-1.mp4",
+                "video_results": 0.10138165950775146
+            },
+            {
+                "video_path": "videos_t2v/Gwen Stacy reading a book, with an intense shaking effect-2.mp4",
+                "video_results": 0.08751271665096283
+            },
+            {
+                "video_path": "videos_t2v/Gwen Stacy reading a book, with an intense shaking effect-3.mp4",
+                "video_results": 0.12012393772602081
+            },
+            {
+                "video_path": "videos_t2v/Gwen Stacy reading a book, with an intense shaking effect-4.mp4",
+                "video_results": 0.07137409597635269
+            },
+            {
+                "video_path": "videos_t2v/Gwen Stacy reading a book, featuring a steady and smooth perspective-0.mp4",
+                "video_results": 0.014417050406336784
+            },
+            {
+                "video_path": "videos_t2v/Gwen Stacy reading a book, featuring a steady and smooth perspective-1.mp4",
+                "video_results": 0.09634080529212952
+            },
+            {
+                "video_path": "videos_t2v/Gwen Stacy reading a book, featuring a steady and smooth perspective-2.mp4",
+                "video_results": 0.0802488625049591
+            },
+            {
+                "video_path": "videos_t2v/Gwen Stacy reading a book, featuring a steady and smooth perspective-3.mp4",
+                "video_results": 0.08718734979629517
+            },
+            {
+                "video_path": "videos_t2v/Gwen Stacy reading a book, featuring a steady and smooth perspective-4.mp4",
+                "video_results": 0.09213801473379135
+            },
+            {
+                "video_path": "videos_t2v/Gwen Stacy reading a book, racking focus-0.mp4",
+                "video_results": 0.12112414836883545
+            },
+            {
+                "video_path": "videos_t2v/Gwen Stacy reading a book, racking focus-1.mp4",
+                "video_results": 0.15215188264846802
+            },
+            {
+                "video_path": "videos_t2v/Gwen Stacy reading a book, racking focus-2.mp4",
+                "video_results": 0.07392633706331253
+            },
+            {
+                "video_path": "videos_t2v/Gwen Stacy reading a book, racking focus-3.mp4",
+                "video_results": 0.14418593049049377
+            },
+            {
+                "video_path": "videos_t2v/Gwen Stacy reading a book, racking focus-4.mp4",
+                "video_results": 0.09638121724128723
+            },
+            {
+                "video_path": "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, in super slow motion-0.mp4",
+                "video_results": 0.09960903227329254
+            },
+            {
+                "video_path": "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, in super slow motion-1.mp4",
+                "video_results": 0.11307881772518158
+            },
+            {
+                "video_path": "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, in super slow motion-2.mp4",
+                "video_results": 0.11419182270765305
+            },
+            {
+                "video_path": "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, in super slow motion-3.mp4",
+                "video_results": 0.09802783280611038
+            },
+            {
+                "video_path": "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, in super slow motion-4.mp4",
+                "video_results": 0.13973930478096008
+            },
+            {
+                "video_path": "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, zoom in-0.mp4",
+                "video_results": 0.08339836448431015
+            },
+            {
+                "video_path": "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, zoom in-1.mp4",
+                "video_results": 0.07433793693780899
+            },
+            {
+                "video_path": "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, zoom in-2.mp4",
+                "video_results": 0.05199263617396355
+            },
+            {
+                "video_path": "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, zoom in-3.mp4",
+                "video_results": 0.09093127399682999
+            },
+            {
+                "video_path": "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, zoom in-4.mp4",
+                "video_results": 0.09657953679561615
+            },
+            {
+                "video_path": "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, zoom out-0.mp4",
+                "video_results": 0.105974942445755
+            },
+            {
+                "video_path": "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, zoom out-1.mp4",
+                "video_results": 0.1160818487405777
+            },
+            {
+                "video_path": "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, zoom out-2.mp4",
+                "video_results": 0.13717947900295258
+            },
+            {
+                "video_path": "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, zoom out-3.mp4",
+                "video_results": 0.05575014278292656
+            },
+            {
+                "video_path": "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, zoom out-4.mp4",
+                "video_results": 0.10318398475646973
+            },
+            {
+                "video_path": "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, pan left-0.mp4",
+                "video_results": 0.1143960952758789
+            },
+            {
+                "video_path": "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, pan left-1.mp4",
+                "video_results": 0.021264109760522842
+            },
+            {
+                "video_path": "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, pan left-2.mp4",
+                "video_results": 0.04826725274324417
+            },
+            {
+                "video_path": "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, pan left-3.mp4",
+                "video_results": 0.11253701150417328
+            },
+            {
+                "video_path": "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, pan left-4.mp4",
+                "video_results": 0.058423373848199844
+            },
+            {
+                "video_path": "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, pan right-0.mp4",
+                "video_results": 0.10103132575750351
+            },
+            {
+                "video_path": "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, pan right-1.mp4",
+                "video_results": 0.1497366577386856
+            },
+            {
+                "video_path": "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, pan right-2.mp4",
+                "video_results": 0.15689031779766083
+            },
+            {
+                "video_path": "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, pan right-3.mp4",
+                "video_results": 0.08365239202976227
+            },
+            {
+                "video_path": "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, pan right-4.mp4",
+                "video_results": 0.11069334298372269
+            },
+            {
+                "video_path": "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, tilt up-0.mp4",
+                "video_results": 0.07960747182369232
+            },
+            {
+                "video_path": "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, tilt up-1.mp4",
+                "video_results": 0.07305590063333511
+            },
+            {
+                "video_path": "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, tilt up-2.mp4",
+                "video_results": 0.06340832263231277
+            },
+            {
+                "video_path": "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, tilt up-3.mp4",
+                "video_results": 0.07346999645233154
+            },
+            {
+                "video_path": "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, tilt up-4.mp4",
+                "video_results": 0.04729129374027252
+            },
+            {
+                "video_path": "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, tilt down-0.mp4",
+                "video_results": 0.027319442480802536
+            },
+            {
+                "video_path": "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, tilt down-1.mp4",
+                "video_results": 0.016666796058416367
+            },
+            {
+                "video_path": "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, tilt down-2.mp4",
+                "video_results": 0.0692409798502922
+            },
+            {
+                "video_path": "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, tilt down-3.mp4",
+                "video_results": 0.06883808970451355
+            },
+            {
+                "video_path": "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, tilt down-4.mp4",
+                "video_results": 0.05767860636115074
+            },
+            {
+                "video_path": "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, with an intense shaking effect-0.mp4",
+                "video_results": 0.09822505712509155
+            },
+            {
+                "video_path": "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, with an intense shaking effect-1.mp4",
+                "video_results": 0.06903737783432007
+            },
+            {
+                "video_path": "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, with an intense shaking effect-2.mp4",
+                "video_results": 0.06335559487342834
+            },
+            {
+                "video_path": "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, with an intense shaking effect-3.mp4",
+                "video_results": 0.07260128855705261
+            },
+            {
+                "video_path": "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, with an intense shaking effect-4.mp4",
+                "video_results": 0.06496226787567139
+            },
+            {
+                "video_path": "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, featuring a steady and smooth perspective-0.mp4",
+                "video_results": 0.07023333758115768
+            },
+            {
+                "video_path": "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, featuring a steady and smooth perspective-1.mp4",
+                "video_results": 0.06844168901443481
+            },
+            {
+                "video_path": "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, featuring a steady and smooth perspective-2.mp4",
+                "video_results": 0.05599886551499367
+            },
+            {
+                "video_path": "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, featuring a steady and smooth perspective-3.mp4",
+                "video_results": 0.023887882009148598
+            },
+            {
+                "video_path": "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, featuring a steady and smooth perspective-4.mp4",
+                "video_results": 0.05110689252614975
+            },
+            {
+                "video_path": "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, racking focus-0.mp4",
+                "video_results": 0.05232922360301018
+            },
+            {
+                "video_path": "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, racking focus-1.mp4",
+                "video_results": 0.053234513849020004
+            },
+            {
+                "video_path": "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, racking focus-2.mp4",
+                "video_results": 0.05554188787937164
+            },
+            {
+                "video_path": "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, racking focus-3.mp4",
+                "video_results": 0.00470702862367034
+            },
+            {
+                "video_path": "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, racking focus-4.mp4",
+                "video_results": 0.07031649351119995
+            },
+            {
+                "video_path": "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, in super slow motion-0.mp4",
+                "video_results": 0.08879821002483368
+            },
+            {
+                "video_path": "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, in super slow motion-1.mp4",
+                "video_results": 0.07864822447299957
+            },
+            {
+                "video_path": "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, in super slow motion-2.mp4",
+                "video_results": 0.08229580521583557
+            },
+            {
+                "video_path": "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, in super slow motion-3.mp4",
+                "video_results": 0.12912465631961823
+            },
+            {
+                "video_path": "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, in super slow motion-4.mp4",
+                "video_results": 0.05104845389723778
+            },
+            {
+                "video_path": "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, zoom in-0.mp4",
+                "video_results": 0.08287110924720764
+            },
+            {
+                "video_path": "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, zoom in-1.mp4",
+                "video_results": 0.1278906613588333
+            },
+            {
+                "video_path": "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, zoom in-2.mp4",
+                "video_results": 0.07338787615299225
+            },
+            {
+                "video_path": "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, zoom in-3.mp4",
+                "video_results": 0.10950775444507599
+            },
+            {
+                "video_path": "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, zoom in-4.mp4",
+                "video_results": 0.09816256910562515
+            },
+            {
+                "video_path": "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, zoom out-0.mp4",
+                "video_results": 0.038378044962882996
+            },
+            {
+                "video_path": "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, zoom out-1.mp4",
+                "video_results": 0.06704802811145782
+            },
+            {
+                "video_path": "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, zoom out-2.mp4",
+                "video_results": 0.11886714398860931
+            },
+            {
+                "video_path": "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, zoom out-3.mp4",
+                "video_results": 0.10700153559446335
+            },
+            {
+                "video_path": "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, zoom out-4.mp4",
+                "video_results": 0.013533426448702812
+            },
+            {
+                "video_path": "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, pan left-0.mp4",
+                "video_results": 0.062400978058576584
+            },
+            {
+                "video_path": "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, pan left-1.mp4",
+                "video_results": 0.06962806731462479
+            },
+            {
+                "video_path": "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, pan left-2.mp4",
+                "video_results": 0.10719183087348938
+            },
+            {
+                "video_path": "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, pan left-3.mp4",
+                "video_results": 0.07224474847316742
+            },
+            {
+                "video_path": "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, pan left-4.mp4",
+                "video_results": 0.08937404304742813
+            },
+            {
+                "video_path": "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, pan right-0.mp4",
+                "video_results": 0.04366528242826462
+            },
+            {
+                "video_path": "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, pan right-1.mp4",
+                "video_results": 0.1277572363615036
+            },
+            {
+                "video_path": "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, pan right-2.mp4",
+                "video_results": 0.09921161085367203
+            },
+            {
+                "video_path": "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, pan right-3.mp4",
+                "video_results": 0.07645782083272934
+            },
+            {
+                "video_path": "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, pan right-4.mp4",
+                "video_results": 0.07595392316579819
+            },
+            {
+                "video_path": "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, tilt up-0.mp4",
+                "video_results": 0.06847184151411057
+            },
+            {
+                "video_path": "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, tilt up-1.mp4",
+                "video_results": 0.03082839772105217
+            },
+            {
+                "video_path": "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, tilt up-2.mp4",
+                "video_results": 0.08123473823070526
+            },
+            {
+                "video_path": "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, tilt up-3.mp4",
+                "video_results": 0.07555244863033295
+            },
+            {
+                "video_path": "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, tilt up-4.mp4",
+                "video_results": 0.08308959007263184
+            },
+            {
+                "video_path": "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, tilt down-0.mp4",
+                "video_results": 0.12521222233772278
+            },
+            {
+                "video_path": "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, tilt down-1.mp4",
+                "video_results": 0.04088634252548218
+            },
+            {
+                "video_path": "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, tilt down-2.mp4",
+                "video_results": 0.1133488193154335
+            },
+            {
+                "video_path": "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, tilt down-3.mp4",
+                "video_results": 0.06319005787372589
+            },
+            {
+                "video_path": "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, tilt down-4.mp4",
+                "video_results": 0.08856602758169174
+            },
+            {
+                "video_path": "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, with an intense shaking effect-0.mp4",
+                "video_results": 0.10682471841573715
+            },
+            {
+                "video_path": "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, with an intense shaking effect-1.mp4",
+                "video_results": 0.0016719680279493332
+            },
+            {
+                "video_path": "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, with an intense shaking effect-2.mp4",
+                "video_results": 0.04791761934757233
+            },
+            {
+                "video_path": "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, with an intense shaking effect-3.mp4",
+                "video_results": 0.12393496930599213
+            },
+            {
+                "video_path": "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, with an intense shaking effect-4.mp4",
+                "video_results": 0.0388069823384285
+            },
+            {
+                "video_path": "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, featuring a steady and smooth perspective-0.mp4",
+                "video_results": 0.03143714740872383
+            },
+            {
+                "video_path": "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, featuring a steady and smooth perspective-1.mp4",
+                "video_results": 0.02636919543147087
+            },
+            {
+                "video_path": "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, featuring a steady and smooth perspective-2.mp4",
+                "video_results": -0.012369911186397076
+            },
+            {
+                "video_path": "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, featuring a steady and smooth perspective-3.mp4",
+                "video_results": 0.05943756178021431
+            },
+            {
+                "video_path": "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, featuring a steady and smooth perspective-4.mp4",
+                "video_results": 0.06238847225904465
+            },
+            {
+                "video_path": "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, racking focus-0.mp4",
+                "video_results": 0.01642242819070816
+            },
+            {
+                "video_path": "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, racking focus-1.mp4",
+                "video_results": 0.12453984469175339
+            },
+            {
+                "video_path": "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, racking focus-2.mp4",
+                "video_results": 0.12416791170835495
+            },
+            {
+                "video_path": "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, racking focus-3.mp4",
+                "video_results": 0.08328214287757874
+            },
+            {
+                "video_path": "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, racking focus-4.mp4",
+                "video_results": 0.08887171745300293
+            },
+            {
+                "video_path": "videos_t2v/An astronaut flying in space, in super slow motion-0.mp4",
+                "video_results": 0.21362541615962982
+            },
+            {
+                "video_path": "videos_t2v/An astronaut flying in space, in super slow motion-1.mp4",
+                "video_results": 0.11705878376960754
+            },
+            {
+                "video_path": "videos_t2v/An astronaut flying in space, in super slow motion-2.mp4",
+                "video_results": 0.14702510833740234
+            },
+            {
+                "video_path": "videos_t2v/An astronaut flying in space, in super slow motion-3.mp4",
+                "video_results": 0.15067851543426514
+            },
+            {
+                "video_path": "videos_t2v/An astronaut flying in space, in super slow motion-4.mp4",
+                "video_results": 0.14914903044700623
+            },
+            {
+                "video_path": "videos_t2v/An astronaut flying in space, zoom in-0.mp4",
+                "video_results": 0.18050959706306458
+            },
+            {
+                "video_path": "videos_t2v/An astronaut flying in space, zoom in-1.mp4",
+                "video_results": 0.13598966598510742
+            },
+            {
+                "video_path": "videos_t2v/An astronaut flying in space, zoom in-2.mp4",
+                "video_results": 0.1484743058681488
+            },
+            {
+                "video_path": "videos_t2v/An astronaut flying in space, zoom in-3.mp4",
+                "video_results": 0.1180666908621788
+            },
+            {
+                "video_path": "videos_t2v/An astronaut flying in space, zoom in-4.mp4",
+                "video_results": 0.13401101529598236
+            },
+            {
+                "video_path": "videos_t2v/An astronaut flying in space, zoom out-0.mp4",
+                "video_results": 0.14082752168178558
+            },
+            {
+                "video_path": "videos_t2v/An astronaut flying in space, zoom out-1.mp4",
+                "video_results": 0.19782236218452454
+            },
+            {
+                "video_path": "videos_t2v/An astronaut flying in space, zoom out-2.mp4",
+                "video_results": 0.11276930570602417
+            },
+            {
+                "video_path": "videos_t2v/An astronaut flying in space, zoom out-3.mp4",
+                "video_results": 0.13575655221939087
+            },
+            {
+                "video_path": "videos_t2v/An astronaut flying in space, zoom out-4.mp4",
+                "video_results": 0.09138713032007217
+            },
+            {
+                "video_path": "videos_t2v/An astronaut flying in space, pan left-0.mp4",
+                "video_results": 0.17605318129062653
+            },
+            {
+                "video_path": "videos_t2v/An astronaut flying in space, pan left-1.mp4",
+                "video_results": 0.19010961055755615
+            },
+            {
+                "video_path": "videos_t2v/An astronaut flying in space, pan left-2.mp4",
+                "video_results": 0.1405337154865265
+            },
+            {
+                "video_path": "videos_t2v/An astronaut flying in space, pan left-3.mp4",
+                "video_results": 0.14713162183761597
+            },
+            {
+                "video_path": "videos_t2v/An astronaut flying in space, pan left-4.mp4",
+                "video_results": 0.12856611609458923
+            },
+            {
+                "video_path": "videos_t2v/An astronaut flying in space, pan right-0.mp4",
+                "video_results": 0.14741161465644836
+            },
+            {
+                "video_path": "videos_t2v/An astronaut flying in space, pan right-1.mp4",
+                "video_results": 0.15472933650016785
+            },
+            {
+                "video_path": "videos_t2v/An astronaut flying in space, pan right-2.mp4",
+                "video_results": 0.14395791292190552
+            },
+            {
+                "video_path": "videos_t2v/An astronaut flying in space, pan right-3.mp4",
+                "video_results": 0.19334784150123596
+            },
+            {
+                "video_path": "videos_t2v/An astronaut flying in space, pan right-4.mp4",
+                "video_results": 0.13208869099617004
+            },
+            {
+                "video_path": "videos_t2v/An astronaut flying in space, tilt up-0.mp4",
+                "video_results": 0.16300520300865173
+            },
+            {
+                "video_path": "videos_t2v/An astronaut flying in space, tilt up-1.mp4",
+                "video_results": 0.11102426052093506
+            },
+            {
+                "video_path": "videos_t2v/An astronaut flying in space, tilt up-2.mp4",
+                "video_results": 0.12901240587234497
+            },
+            {
+                "video_path": "videos_t2v/An astronaut flying in space, tilt up-3.mp4",
+                "video_results": 0.12064467370510101
+            },
+            {
+                "video_path": "videos_t2v/An astronaut flying in space, tilt up-4.mp4",
+                "video_results": 0.1805436909198761
+            },
+            {
+                "video_path": "videos_t2v/An astronaut flying in space, tilt down-0.mp4",
+                "video_results": 0.13638454675674438
+            },
+            {
+                "video_path": "videos_t2v/An astronaut flying in space, tilt down-1.mp4",
+                "video_results": 0.16600646078586578
+            },
+            {
+                "video_path": "videos_t2v/An astronaut flying in space, tilt down-2.mp4",
+                "video_results": 0.09098680317401886
+            },
+            {
+                "video_path": "videos_t2v/An astronaut flying in space, tilt down-3.mp4",
+                "video_results": 0.1539475917816162
+            },
+            {
+                "video_path": "videos_t2v/An astronaut flying in space, tilt down-4.mp4",
+                "video_results": 0.15180306136608124
+            },
+            {
+                "video_path": "videos_t2v/An astronaut flying in space, with an intense shaking effect-0.mp4",
+                "video_results": 0.057551007717847824
+            },
+            {
+                "video_path": "videos_t2v/An astronaut flying in space, with an intense shaking effect-1.mp4",
+                "video_results": 0.0703800618648529
+            },
+            {
+                "video_path": "videos_t2v/An astronaut flying in space, with an intense shaking effect-2.mp4",
+                "video_results": 0.13947045803070068
+            },
+            {
+                "video_path": "videos_t2v/An astronaut flying in space, with an intense shaking effect-3.mp4",
+                "video_results": 0.09299130737781525
+            },
+            {
+                "video_path": "videos_t2v/An astronaut flying in space, with an intense shaking effect-4.mp4",
+                "video_results": 0.18952545523643494
+            },
+            {
+                "video_path": "videos_t2v/An astronaut flying in space, featuring a steady and smooth perspective-0.mp4",
+                "video_results": 0.12640850245952606
+            },
+            {
+                "video_path": "videos_t2v/An astronaut flying in space, featuring a steady and smooth perspective-1.mp4",
+                "video_results": 0.10609935224056244
+            },
+            {
+                "video_path": "videos_t2v/An astronaut flying in space, featuring a steady and smooth perspective-2.mp4",
+                "video_results": 0.13627919554710388
+            },
+            {
+                "video_path": "videos_t2v/An astronaut flying in space, featuring a steady and smooth perspective-3.mp4",
+                "video_results": 0.0826345682144165
+            },
+            {
+                "video_path": "videos_t2v/An astronaut flying in space, featuring a steady and smooth perspective-4.mp4",
+                "video_results": 0.06187302991747856
+            },
+            {
+                "video_path": "videos_t2v/An astronaut flying in space, racking focus-0.mp4",
+                "video_results": 0.13422270119190216
+            },
+            {
+                "video_path": "videos_t2v/An astronaut flying in space, racking focus-1.mp4",
+                "video_results": 0.10399925708770752
+            },
+            {
+                "video_path": "videos_t2v/An astronaut flying in space, racking focus-2.mp4",
+                "video_results": 0.15135255455970764
+            },
+            {
+                "video_path": "videos_t2v/An astronaut flying in space, racking focus-3.mp4",
+                "video_results": 0.1298256516456604
+            },
+            {
+                "video_path": "videos_t2v/An astronaut flying in space, racking focus-4.mp4",
+                "video_results": 0.0613214410841465
+            },
+            {
+                "video_path": "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, in super slow motion-0.mp4",
+                "video_results": 0.17191964387893677
+            },
+            {
+                "video_path": "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, in super slow motion-1.mp4",
+                "video_results": 0.2146003246307373
+            },
+            {
+                "video_path": "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, in super slow motion-2.mp4",
+                "video_results": 0.14813536405563354
+            },
+            {
+                "video_path": "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, in super slow motion-3.mp4",
+                "video_results": 0.14394529163837433
+            },
+            {
+                "video_path": "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, in super slow motion-4.mp4",
+                "video_results": 0.2187265008687973
+            },
+            {
+                "video_path": "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, zoom in-0.mp4",
+                "video_results": 0.12394744157791138
+            },
+            {
+                "video_path": "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, zoom in-1.mp4",
+                "video_results": 0.17987754940986633
+            },
+            {
+                "video_path": "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, zoom in-2.mp4",
+                "video_results": 0.1956041157245636
+            },
+            {
+                "video_path": "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, zoom in-3.mp4",
+                "video_results": 0.1704503744840622
+            },
+            {
+                "video_path": "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, zoom in-4.mp4",
+                "video_results": 0.20194925367832184
+            },
+            {
+                "video_path": "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, zoom out-0.mp4",
+                "video_results": 0.17830932140350342
+            },
+            {
+                "video_path": "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, zoom out-1.mp4",
+                "video_results": 0.1979341208934784
+            },
+            {
+                "video_path": "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, zoom out-2.mp4",
+                "video_results": 0.165802001953125
+            },
+            {
+                "video_path": "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, zoom out-3.mp4",
+                "video_results": 0.17151159048080444
+            },
+            {
+                "video_path": "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, zoom out-4.mp4",
+                "video_results": 0.18873919546604156
+            },
+            {
+                "video_path": "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, pan left-0.mp4",
+                "video_results": 0.14092165231704712
+            },
+            {
+                "video_path": "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, pan left-1.mp4",
+                "video_results": 0.2155330777168274
+            },
+            {
+                "video_path": "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, pan left-2.mp4",
+                "video_results": 0.22162024676799774
+            },
+            {
+                "video_path": "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, pan left-3.mp4",
+                "video_results": 0.1935354322195053
+            },
+            {
+                "video_path": "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, pan left-4.mp4",
+                "video_results": 0.15175631642341614
+            },
+            {
+                "video_path": "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, pan right-0.mp4",
+                "video_results": 0.10530129820108414
+            },
+            {
+                "video_path": "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, pan right-1.mp4",
+                "video_results": 0.14382916688919067
+            },
+            {
+                "video_path": "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, pan right-2.mp4",
+                "video_results": 0.11817429214715958
+            },
+            {
+                "video_path": "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, pan right-3.mp4",
+                "video_results": 0.12649978697299957
+            },
+            {
+                "video_path": "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, pan right-4.mp4",
+                "video_results": 0.1251993328332901
+            },
+            {
+                "video_path": "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, tilt up-0.mp4",
+                "video_results": 0.19286362826824188
+            },
+            {
+                "video_path": "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, tilt up-1.mp4",
+                "video_results": 0.19017893075942993
+            },
+            {
+                "video_path": "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, tilt up-2.mp4",
+                "video_results": 0.14172503352165222
+            },
+            {
+                "video_path": "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, tilt up-3.mp4",
+                "video_results": 0.1591612845659256
+            },
+            {
+                "video_path": "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, tilt up-4.mp4",
+                "video_results": 0.1264648139476776
+            },
+            {
+                "video_path": "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, tilt down-0.mp4",
+                "video_results": 0.18113596737384796
+            },
+            {
+                "video_path": "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, tilt down-1.mp4",
+                "video_results": 0.1939205527305603
+            },
+            {
+                "video_path": "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, tilt down-2.mp4",
+                "video_results": 0.22221516072750092
+            },
+            {
+                "video_path": "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, tilt down-3.mp4",
+                "video_results": 0.19121888279914856
+            },
+            {
+                "video_path": "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, tilt down-4.mp4",
+                "video_results": 0.1975969821214676
+            },
+            {
+                "video_path": "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, with an intense shaking effect-0.mp4",
+                "video_results": 0.16317370533943176
+            },
+            {
+                "video_path": "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, with an intense shaking effect-1.mp4",
+                "video_results": 0.08440613001585007
+            },
+            {
+                "video_path": "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, with an intense shaking effect-2.mp4",
+                "video_results": 0.1620766967535019
+            },
+            {
+                "video_path": "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, with an intense shaking effect-3.mp4",
+                "video_results": 0.14273932576179504
+            },
+            {
+                "video_path": "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, with an intense shaking effect-4.mp4",
+                "video_results": 0.1833028644323349
+            },
+            {
+                "video_path": "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, featuring a steady and smooth perspective-0.mp4",
+                "video_results": 0.17255617678165436
+            },
+            {
+                "video_path": "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, featuring a steady and smooth perspective-1.mp4",
+                "video_results": 0.19773820042610168
+            },
+            {
+                "video_path": "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, featuring a steady and smooth perspective-2.mp4",
+                "video_results": 0.14081402122974396
+            },
+            {
+                "video_path": "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, featuring a steady and smooth perspective-3.mp4",
+                "video_results": 0.07593909651041031
+            },
+            {
+                "video_path": "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, featuring a steady and smooth perspective-4.mp4",
+                "video_results": 0.17601102590560913
+            },
+            {
+                "video_path": "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, racking focus-0.mp4",
+                "video_results": 0.16403506696224213
+            },
+            {
+                "video_path": "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, racking focus-1.mp4",
+                "video_results": 0.1340712308883667
+            },
+            {
+                "video_path": "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, racking focus-2.mp4",
+                "video_results": 0.10436369478702545
+            },
+            {
+                "video_path": "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, racking focus-3.mp4",
+                "video_results": 0.07059051096439362
+            },
+            {
+                "video_path": "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, racking focus-4.mp4",
+                "video_results": 0.20506788790225983
+            }
+        ]
+    ]
+}

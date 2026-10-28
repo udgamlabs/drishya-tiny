@@ -1,0 +1,36 @@
+{
+ "arm": "A1",
+ "steps": 18000,
+ "img_steps": 0,
+ "settings": {
+  "cfg": 5.0,
+  "shift": 5.0,
+  "steps": 50
+ },
+ "real_clip_gap": 25.38216933608055,
+ "t2v_heldout": {
+  "n": 512,
+  "fvd": 413.31028323599884,
+  "motion_ratio": 0.7693713267405258,
+  "clip_own": 32.377880811691284,
+  "clip_gap": 20.53154855966568
+ },
+ "i2v_heldout": {
+  "n": 256,
+  "fvd": 441.0533044219583,
+  "motion_ratio": 0.9505501435620175
+ },
+ "vidprom": {
+  "n": 200,
+  "clip_own": 23.326684534549713,
+  "clip_shuf": 14.475886523723602,
+  "clip_gap": 8.85079801082611
+ },
+ "val_loss": 0.45386054615179705,
+ "mini_videos": {
+  "prompts": 516,
+  "videos": 1032,
+  "minutes": 7.5
+ },
+ "peak_mem_gb": 28.92
+}

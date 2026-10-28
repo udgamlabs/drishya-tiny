@@ -1,0 +1,124 @@
+{
+ "dims": [
+  "object_class",
+  "multiple_objects",
+  "human_action",
+  "color",
+  "spatial_relationship",
+  "scene"
+ ],
+ "arms": {
+  "A0": {
+   "dims": {
+    "object_class": 23.18,
+    "multiple_objects": 1.18,
+    "human_action": 15.5,
+    "color": 75.8,
+    "spatial_relationship": 6.41,
+    "scene": 6.47
+   },
+   "missing": [],
+   "mini_semantic": 21.42,
+   "fvd512": 414.41056795951613,
+   "heldout_clip_gap": 20.3464075922966,
+   "vidprom_clip_gap": 8.674731850624084,
+   "i2v_fvd": 457.67136971218986,
+   "val_loss": 0.45389543374379465
+  },
+  "A2": {
+   "dims": {
+    "object_class": 32.67,
+    "multiple_objects": 2.25,
+    "human_action": 21.0,
+    "color": 77.38,
+    "spatial_relationship": 6.25,
+    "scene": 12.61
+   },
+   "missing": [],
+   "mini_semantic": 25.36,
+   "fvd512": 518.7461676310905,
+   "heldout_clip_gap": 21.970683336257935,
+   "vidprom_clip_gap": 10.473857820034027,
+   "i2v_fvd": 481.4122196559652,
+   "val_loss": 0.45475693841775255,
+   "vs_control": {
+    "diff": 4.34,
+    "ci95": [
+     1.99,
+     6.72
+    ],
+    "dims_used": [
+     "object_class",
+     "multiple_objects",
+     "human_action",
+     "color",
+     "spatial_relationship",
+     "scene"
+    ],
+    "prompts": [
+     79,
+     82,
+     100,
+     37,
+     84,
+     86
+    ],
+    "checks": {
+     "semantic_+3_ci_above_0": true,
+     "vidprom_not_below_control": true,
+     "fvd_within_control_+20": false
+    },
+    "passes": false
+   }
+  },
+  "A1": {
+   "dims": {
+    "object_class": 26.66,
+    "multiple_objects": 2.52,
+    "human_action": 21.0,
+    "color": 78.68,
+    "spatial_relationship": 4.65,
+    "scene": 8.76
+   },
+   "missing": [],
+   "mini_semantic": 23.71,
+   "fvd512": 413.31028323599884,
+   "heldout_clip_gap": 20.53154855966568,
+   "vidprom_clip_gap": 8.85079801082611,
+   "i2v_fvd": 441.0533044219583,
+   "val_loss": 0.45386054615179705,
+   "vs_control": {
+    "diff": 3.01,
+    "ci95": [
+     0.93,
+     5.26
+    ],
+    "dims_used": [
+     "object_class",
+     "multiple_objects",
+     "human_action",
+     "color",
+     "spatial_relationship",
+     "scene"
+    ],
+    "prompts": [
+     79,
+     82,
+     100,
+     35,
+     84,
+     86
+    ],
+    "checks": {
+     "semantic_+3_ci_above_0": true,
+     "vidprom_not_below_control": true,
+     "fvd_within_control_+20": true
+    },
+    "passes": true
+   }
+  }
+ },
+ "control": "A0",
+ "rule": "the arm with the highest mini-semantic score among those with (a) diff >= +3 points and 95% CI low > 0, (b) VidProM CLIP\ngap >= the control's, (c) held-out FVD-512 <= the control's + 20. None -> \"no winner\".",
+ "winner": "A1"
+}

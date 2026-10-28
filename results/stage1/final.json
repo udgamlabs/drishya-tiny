@@ -1,0 +1,125 @@
+{
+ "final": {
+  "tag": "final",
+  "n": 2048,
+  "shift": 1.0,
+  "fvd": 167.70008273049984,
+  "ref": "train",
+  "motion": 0.008763618196155676,
+  "motion_ratio": 0.8920183138471073,
+  "seconds": 1864.9,
+  "step": 43449,
+  "minutes": 120.0,
+  "val_ema": 0.3565264319380125,
+  "val_raw": 0.3586358413100243,
+  "params_M": 211.92,
+  "train_windows": 36481,
+  "clips_seen": 2780736
+ },
+ "extra": [
+  {
+   "tag": "final_shift",
+   "n": 2048,
+   "shift": 3.0,
+   "fvd": 160.68183098745732,
+   "ref": "train",
+   "motion": 0.008529849862213723,
+   "motion_ratio": 0.8682238455799682,
+   "seconds": 1869.2
+  },
+  {
+   "tag": "i2v_test",
+   "n": 512,
+   "shift": 1.0,
+   "fvd": 138.9796366811774,
+   "ref": "test",
+   "motion": 0.012122102783450828,
+   "motion_ratio": 1.2338668165528386,
+   "seconds": 467.0
+  }
+ ],
+ "history": [
+  {
+   "tag": "eval@0.1",
+   "n": 512,
+   "shift": 1.0,
+   "fvd": 331.3132142475191,
+   "ref": "train",
+   "motion": 0.009600641050838021,
+   "motion_ratio": 0.977215968374408,
+   "seconds": 473.7,
+   "step": 4369,
+   "frac": 0.1,
+   "val_ema": 0.36080888559420915,
+   "val_raw": 0.36925838390986115
+  },
+  {
+   "tag": "eval@0.25",
+   "n": 512,
+   "shift": 1.0,
+   "fvd": 249.2072538778841,
+   "ref": "train",
+   "motion": 0.009750387433996366,
+   "motion_ratio": 0.9924581335646037,
+   "seconds": 464.2,
+   "step": 10879,
+   "frac": 0.25,
+   "val_ema": 0.3554689208666484,
+   "val_raw": 0.3619662870963415
+  },
+  {
+   "tag": "eval@0.5",
+   "n": 512,
+   "shift": 1.0,
+   "fvd": 204.88319673179353,
+   "ref": "train",
+   "motion": 0.010177067871836698,
+   "motion_ratio": 1.0358884560860526,
+   "seconds": 464.9,
+   "step": 21735,
+   "frac": 0.5,
+   "val_ema": 0.353521733979384,
+   "val_raw": 0.360016172627608
+  },
+  {
+   "tag": "eval@0.75",
+   "n": 512,
+   "shift": 1.0,
+   "fvd": 248.55028925437873,
+   "ref": "train",
+   "motion": 0.009424014247088053,
+   "motion_ratio": 0.9592377383631594,
+   "seconds": 473.6,
+   "step": 32591,
+   "frac": 0.75,
+   "val_ema": 0.3542446658015252,
+   "val_raw": 0.35880047082901
+  }
+ ],
+ "refs": {
+  "n_train_real": 2048,
+  "n_test": 2048,
+  "train_clips": 2115,
+  "test_clips": 196,
+  "fvd_train_vs_test": 72.17553199892487,
+  "fvd_train_vs_static_test": 215.0886819593164,
+  "motion_train": 0.009824482367811305,
+  "motion_test": 0.009845493565130425,
+  "seconds": 3027.8379373550415
+ },
+ "checks": {
+  "P1_fvd_below_max": true,
+  "P2_beats_static_baseline": true,
+  "P3_motion_ratio_0p5_to_2": true,
+  "P4_val_loss_improved": true
+ },
+ "gate_pass": true,
+ "context_external": {
+  "Latte-XL_674M_sky_fvd": 59.82,
+  "StyleGAN-V": 79.52,
+  "DIGAN": 83.11,
+  "VideoGPT": 222.7,
+  "MoCoGAN": 206.6,
+  "source": "Latte paper table (EXTERNAL; our harness not yet checked against it)"
+ }
+}

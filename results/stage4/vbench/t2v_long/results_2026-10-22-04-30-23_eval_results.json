@@ -1,0 +1,807 @@
+{
+    "color": [
+        0.7724717470029969,
+        [
+            {
+                "video_path": "videos_t2v_long/a red bicycle-4.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "videos_t2v_long/a purple bicycle-0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "videos_t2v_long/a purple bicycle-3.mp4",
+                "video_results": 0.8,
+                "cur_success_frame_rate": 0.8
+            },
+            {
+                "video_path": "videos_t2v_long/a red car-2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "videos_t2v_long/a red car-3.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "videos_t2v_long/a green car-0.mp4",
+                "video_results": 0.8888888888888888,
+                "cur_success_frame_rate": 0.8888888888888888
+            },
+            {
+                "video_path": "videos_t2v_long/a green car-1.mp4",
+                "video_results": 0.0,
+                "cur_success_frame_rate": 0.0
+            },
+            {
+                "video_path": "videos_t2v_long/a green car-2.mp4",
+                "video_results": 0.0,
+                "cur_success_frame_rate": 0.0
+            },
+            {
+                "video_path": "videos_t2v_long/a green car-3.mp4",
+                "video_results": 0.6666666666666666,
+                "cur_success_frame_rate": 0.6666666666666666
+            },
+            {
+                "video_path": "videos_t2v_long/a blue car-1.mp4",
+                "video_results": 0.2727272727272727,
+                "cur_success_frame_rate": 0.2727272727272727
+            },
+            {
+                "video_path": "videos_t2v_long/a blue car-2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "videos_t2v_long/a blue car-3.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "videos_t2v_long/a yellow car-0.mp4",
+                "video_results": 0.9,
+                "cur_success_frame_rate": 0.9
+            },
+            {
+                "video_path": "videos_t2v_long/a yellow car-1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "videos_t2v_long/a yellow car-2.mp4",
+                "video_results": 0.0625,
+                "cur_success_frame_rate": 0.0625
+            },
+            {
+                "video_path": "videos_t2v_long/a yellow car-3.mp4",
+                "video_results": 0.8571428571428571,
+                "cur_success_frame_rate": 0.8571428571428571
+            },
+            {
+                "video_path": "videos_t2v_long/a yellow car-4.mp4",
+                "video_results": 0.8,
+                "cur_success_frame_rate": 0.8
+            },
+            {
+                "video_path": "videos_t2v_long/an orange car-0.mp4",
+                "video_results": 0.6,
+                "cur_success_frame_rate": 0.6
+            },
+            {
+                "video_path": "videos_t2v_long/an orange car-1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "videos_t2v_long/an orange car-4.mp4",
+                "video_results": 0.5,
+                "cur_success_frame_rate": 0.5
+            },
+            {
+                "video_path": "videos_t2v_long/a purple car-0.mp4",
+                "video_results": 0.375,
+                "cur_success_frame_rate": 0.375
+            },
+            {
+                "video_path": "videos_t2v_long/a purple car-3.mp4",
+                "video_results": 0.21428571428571427,
+                "cur_success_frame_rate": 0.21428571428571427
+            },
+            {
+                "video_path": "videos_t2v_long/a pink car-0.mp4",
+                "video_results": 0.0,
+                "cur_success_frame_rate": 0.0
+            },
+            {
+                "video_path": "videos_t2v_long/a pink car-2.mp4",
+                "video_results": 0.7142857142857143,
+                "cur_success_frame_rate": 0.7142857142857143
+            },
+            {
+                "video_path": "videos_t2v_long/a pink car-3.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "videos_t2v_long/a black car-1.mp4",
+                "video_results": 0.0,
+                "cur_success_frame_rate": 0.0
+            },
+            {
+                "video_path": "videos_t2v_long/a black car-4.mp4",
+                "video_results": 0.9,
+                "cur_success_frame_rate": 0.9
+            },
+            {
+                "video_path": "videos_t2v_long/a white car-0.mp4",
+                "video_results": 0.0,
+                "cur_success_frame_rate": 0.0
+            },
+            {
+                "video_path": "videos_t2v_long/a white car-2.mp4",
+                "video_results": 0.07692307692307693,
+                "cur_success_frame_rate": 0.07692307692307693
+            },
+            {
+                "video_path": "videos_t2v_long/a red bird-1.mp4",
+                "video_results": 0.0,
+                "cur_success_frame_rate": 0.0
+            },
+            {
+                "video_path": "videos_t2v_long/a red bird-2.mp4",
+                "video_results": 0.6666666666666666,
+                "cur_success_frame_rate": 0.6666666666666666
+            },
+            {
+                "video_path": "videos_t2v_long/a blue bird-0.mp4",
+                "video_results": 0.0,
+                "cur_success_frame_rate": 0.0
+            },
+            {
+                "video_path": "videos_t2v_long/a blue bird-1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "videos_t2v_long/a blue bird-2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "videos_t2v_long/a blue bird-3.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "videos_t2v_long/a blue bird-4.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "videos_t2v_long/a yellow bird-0.mp4",
+                "video_results": 0.0,
+                "cur_success_frame_rate": 0.0
+            },
+            {
+                "video_path": "videos_t2v_long/a yellow bird-1.mp4",
+                "video_results": 0.07692307692307693,
+                "cur_success_frame_rate": 0.07692307692307693
+            },
+            {
+                "video_path": "videos_t2v_long/a yellow bird-2.mp4",
+                "video_results": 0.0,
+                "cur_success_frame_rate": 0.0
+            },
+            {
+                "video_path": "videos_t2v_long/a yellow bird-3.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "videos_t2v_long/a yellow bird-4.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "videos_t2v_long/an orange bird-3.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "videos_t2v_long/an orange bird-4.mp4",
+                "video_results": 0.125,
+                "cur_success_frame_rate": 0.125
+            },
+            {
+                "video_path": "videos_t2v_long/a purple bird-0.mp4",
+                "video_results": 0.0,
+                "cur_success_frame_rate": 0.0
+            },
+            {
+                "video_path": "videos_t2v_long/a purple bird-1.mp4",
+                "video_results": 0.0,
+                "cur_success_frame_rate": 0.0
+            },
+            {
+                "video_path": "videos_t2v_long/a purple bird-3.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "videos_t2v_long/a purple bird-4.mp4",
+                "video_results": 0.875,
+                "cur_success_frame_rate": 0.875
+            },
+            {
+                "video_path": "videos_t2v_long/a pink bird-0.mp4",
+                "video_results": 0.0,
+                "cur_success_frame_rate": 0.0
+            },
+            {
+                "video_path": "videos_t2v_long/a pink bird-1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "videos_t2v_long/a pink bird-2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "videos_t2v_long/a pink bird-3.mp4",
+                "video_results": 0.8125,
+                "cur_success_frame_rate": 0.8125
+            },
+            {
+                "video_path": "videos_t2v_long/a pink bird-4.mp4",
+                "video_results": 0.0625,
+                "cur_success_frame_rate": 0.0625
+            },
+            {
+                "video_path": "videos_t2v_long/a black bird-1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "videos_t2v_long/a white bird-0.mp4",
+                "video_results": 0.8571428571428571,
+                "cur_success_frame_rate": 0.8571428571428571
+            },
+            {
+                "video_path": "videos_t2v_long/a white bird-1.mp4",
+                "video_results": 0.36363636363636365,
+                "cur_success_frame_rate": 0.36363636363636365
+            },
+            {
+                "video_path": "videos_t2v_long/a white bird-2.mp4",
+                "video_results": 0.125,
+                "cur_success_frame_rate": 0.125
+            },
+            {
+                "video_path": "videos_t2v_long/a white bird-3.mp4",
+                "video_results": 0.75,
+                "cur_success_frame_rate": 0.75
+            },
+            {
+                "video_path": "videos_t2v_long/a white bird-4.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "videos_t2v_long/a black cat-0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "videos_t2v_long/a black cat-2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "videos_t2v_long/a black cat-3.mp4",
+                "video_results": 0.6666666666666666,
+                "cur_success_frame_rate": 0.6666666666666666
+            },
+            {
+                "video_path": "videos_t2v_long/a black cat-4.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "videos_t2v_long/a white cat-0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "videos_t2v_long/a white cat-1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "videos_t2v_long/a white cat-2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "videos_t2v_long/a white cat-3.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "videos_t2v_long/a white cat-4.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "videos_t2v_long/an orange cat-1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "videos_t2v_long/an orange cat-2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "videos_t2v_long/an orange cat-3.mp4",
+                "video_results": 0.4444444444444444,
+                "cur_success_frame_rate": 0.4444444444444444
+            },
+            {
+                "video_path": "videos_t2v_long/an orange cat-4.mp4",
+                "video_results": 0.0,
+                "cur_success_frame_rate": 0.0
+            },
+            {
+                "video_path": "videos_t2v_long/a yellow cat-0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "videos_t2v_long/a yellow cat-3.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "videos_t2v_long/a yellow cat-4.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "videos_t2v_long/a red umbrella-0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "videos_t2v_long/a red umbrella-4.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "videos_t2v_long/a green umbrella-1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "videos_t2v_long/a yellow umbrella-0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "videos_t2v_long/an orange umbrella-0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "videos_t2v_long/an orange umbrella-2.mp4",
+                "video_results": 0.0,
+                "cur_success_frame_rate": 0.0
+            },
+            {
+                "video_path": "videos_t2v_long/an orange umbrella-4.mp4",
+                "video_results": 0.625,
+                "cur_success_frame_rate": 0.625
+            },
+            {
+                "video_path": "videos_t2v_long/a purple umbrella-2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "videos_t2v_long/a purple umbrella-3.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "videos_t2v_long/a purple umbrella-4.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "videos_t2v_long/a pink umbrella-0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "videos_t2v_long/a pink umbrella-1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "videos_t2v_long/a pink umbrella-4.mp4",
+                "video_results": 0.5333333333333333,
+                "cur_success_frame_rate": 0.5333333333333333
+            },
+            {
+                "video_path": "videos_t2v_long/a white umbrella-1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "videos_t2v_long/a white umbrella-2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "videos_t2v_long/a white umbrella-3.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "videos_t2v_long/a red suitcase-0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "videos_t2v_long/a green suitcase-2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "videos_t2v_long/a green suitcase-3.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "videos_t2v_long/a blue suitcase-3.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "videos_t2v_long/a black suitcase-0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "videos_t2v_long/a black suitcase-1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "videos_t2v_long/a black suitcase-2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "videos_t2v_long/a black suitcase-3.mp4",
+                "video_results": 0.3333333333333333,
+                "cur_success_frame_rate": 0.3333333333333333
+            },
+            {
+                "video_path": "videos_t2v_long/a red bowl-0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "videos_t2v_long/a red bowl-1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "videos_t2v_long/a red bowl-2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "videos_t2v_long/a red bowl-3.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "videos_t2v_long/a red bowl-4.mp4",
+                "video_results": 0.7777777777777778,
+                "cur_success_frame_rate": 0.7777777777777778
+            },
+            {
+                "video_path": "videos_t2v_long/a green bowl-1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "videos_t2v_long/a green bowl-3.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "videos_t2v_long/a green bowl-4.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "videos_t2v_long/a blue bowl-0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "videos_t2v_long/a blue bowl-1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "videos_t2v_long/a blue bowl-2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "videos_t2v_long/a blue bowl-3.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "videos_t2v_long/a blue bowl-4.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "videos_t2v_long/a yellow bowl-0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "videos_t2v_long/a yellow bowl-1.mp4",
+                "video_results": 0.0,
+                "cur_success_frame_rate": 0.0
+            },
+            {
+                "video_path": "videos_t2v_long/a yellow bowl-2.mp4",
+                "video_results": 0.875,
+                "cur_success_frame_rate": 0.875
+            },
+            {
+                "video_path": "videos_t2v_long/a yellow bowl-4.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "videos_t2v_long/an orange bowl-3.mp4",
+                "video_results": 0.75,
+                "cur_success_frame_rate": 0.75
+            },
+            {
+                "video_path": "videos_t2v_long/an orange bowl-4.mp4",
+                "video_results": 0.8,
+                "cur_success_frame_rate": 0.8
+            },
+            {
+                "video_path": "videos_t2v_long/a purple bowl-0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "videos_t2v_long/a purple bowl-1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "videos_t2v_long/a purple bowl-2.mp4",
+                "video_results": 0.8181818181818182,
+                "cur_success_frame_rate": 0.8181818181818182
+            },
+            {
+                "video_path": "videos_t2v_long/a purple bowl-3.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "videos_t2v_long/a purple bowl-4.mp4",
+                "video_results": 0.8888888888888888,
+                "cur_success_frame_rate": 0.8888888888888888
+            },
+            {
+                "video_path": "videos_t2v_long/a pink bowl-0.mp4",
+                "video_results": 0.16666666666666666,
+                "cur_success_frame_rate": 0.16666666666666666
+            },
+            {
+                "video_path": "videos_t2v_long/a pink bowl-1.mp4",
+                "video_results": 0.4375,
+                "cur_success_frame_rate": 0.4375
+            },
+            {
+                "video_path": "videos_t2v_long/a pink bowl-2.mp4",
+                "video_results": 0.1,
+                "cur_success_frame_rate": 0.1
+            },
+            {
+                "video_path": "videos_t2v_long/a pink bowl-4.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "videos_t2v_long/a white bowl-0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "videos_t2v_long/a white bowl-3.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "videos_t2v_long/a red chair-3.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "videos_t2v_long/a green chair-1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "videos_t2v_long/a green chair-4.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "videos_t2v_long/a blue chair-2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "videos_t2v_long/a yellow chair-1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "videos_t2v_long/a purple chair-1.mp4",
+                "video_results": 0.6666666666666666,
+                "cur_success_frame_rate": 0.6666666666666666
+            },
+            {
+                "video_path": "videos_t2v_long/a black chair-0.mp4",
+                "video_results": 0.75,
+                "cur_success_frame_rate": 0.75
+            },
+            {
+                "video_path": "videos_t2v_long/a black chair-1.mp4",
+                "video_results": 0.7692307692307693,
+                "cur_success_frame_rate": 0.7692307692307693
+            },
+            {
+                "video_path": "videos_t2v_long/a black chair-2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "videos_t2v_long/a black chair-4.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "videos_t2v_long/a white chair-1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "videos_t2v_long/a red clock-1.mp4",
+                "video_results": 0.0,
+                "cur_success_frame_rate": 0.0
+            },
+            {
+                "video_path": "videos_t2v_long/a red clock-3.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "videos_t2v_long/a black clock-4.mp4",
+                "video_results": 0.75,
+                "cur_success_frame_rate": 0.75
+            },
+            {
+                "video_path": "videos_t2v_long/a green vase-0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "videos_t2v_long/a green vase-3.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "videos_t2v_long/a blue vase-0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "videos_t2v_long/a blue vase-2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "videos_t2v_long/a blue vase-3.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "videos_t2v_long/a blue vase-4.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "videos_t2v_long/a yellow vase-1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "videos_t2v_long/a yellow vase-4.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "videos_t2v_long/a purple vase-2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "videos_t2v_long/a purple vase-3.mp4",
+                "video_results": 0.5,
+                "cur_success_frame_rate": 0.5
+            },
+            {
+                "video_path": "videos_t2v_long/a pink vase-0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "videos_t2v_long/a pink vase-1.mp4",
+                "video_results": 0.0,
+                "cur_success_frame_rate": 0.0
+            },
+            {
+                "video_path": "videos_t2v_long/a pink vase-4.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "videos_t2v_long/a black vase-2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "videos_t2v_long/a white vase-0.mp4",
+                "video_results": 0.6666666666666666,
+                "cur_success_frame_rate": 0.6666666666666666
+            },
+            {
+                "video_path": "videos_t2v_long/a white vase-1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "videos_t2v_long/a white vase-2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "videos_t2v_long/a white vase-3.mp4",
+                "video_results": 0.9333333333333333,
+                "cur_success_frame_rate": 0.9333333333333333
+            }
+        ]
+    ]
+}

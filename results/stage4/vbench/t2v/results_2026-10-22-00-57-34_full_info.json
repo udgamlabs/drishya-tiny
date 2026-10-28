@@ -1,0 +1,1302 @@
+[
+    {
+        "prompt_en": "A beautiful coastal beach in spring, waves lapping on sand, in super slow motion",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, in super slow motion-0.mp4",
+            "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, in super slow motion-1.mp4",
+            "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, in super slow motion-2.mp4",
+            "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, in super slow motion-3.mp4",
+            "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, in super slow motion-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A beautiful coastal beach in spring, waves lapping on sand, zoom in",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, zoom in-0.mp4",
+            "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, zoom in-1.mp4",
+            "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, zoom in-2.mp4",
+            "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, zoom in-3.mp4",
+            "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, zoom in-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A beautiful coastal beach in spring, waves lapping on sand, zoom out",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, zoom out-0.mp4",
+            "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, zoom out-1.mp4",
+            "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, zoom out-2.mp4",
+            "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, zoom out-3.mp4",
+            "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, zoom out-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A beautiful coastal beach in spring, waves lapping on sand, pan left",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, pan left-0.mp4",
+            "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, pan left-1.mp4",
+            "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, pan left-2.mp4",
+            "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, pan left-3.mp4",
+            "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, pan left-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A beautiful coastal beach in spring, waves lapping on sand, pan right",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, pan right-0.mp4",
+            "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, pan right-1.mp4",
+            "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, pan right-2.mp4",
+            "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, pan right-3.mp4",
+            "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, pan right-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A beautiful coastal beach in spring, waves lapping on sand, tilt up",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, tilt up-0.mp4",
+            "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, tilt up-1.mp4",
+            "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, tilt up-2.mp4",
+            "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, tilt up-3.mp4",
+            "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, tilt up-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A beautiful coastal beach in spring, waves lapping on sand, tilt down",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, tilt down-0.mp4",
+            "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, tilt down-1.mp4",
+            "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, tilt down-2.mp4",
+            "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, tilt down-3.mp4",
+            "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, tilt down-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A beautiful coastal beach in spring, waves lapping on sand, with an intense shaking effect",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, with an intense shaking effect-0.mp4",
+            "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, with an intense shaking effect-1.mp4",
+            "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, with an intense shaking effect-2.mp4",
+            "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, with an intense shaking effect-3.mp4",
+            "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, with an intense shaking effect-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A beautiful coastal beach in spring, waves lapping on sand, featuring a steady and smooth perspective",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, featuring a steady and smooth perspective-0.mp4",
+            "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, featuring a steady and smooth perspective-1.mp4",
+            "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, featuring a steady and smooth perspective-2.mp4",
+            "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, featuring a steady and smooth perspective-3.mp4",
+            "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, featuring a steady and smooth perspective-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A beautiful coastal beach in spring, waves lapping on sand, racking focus",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, racking focus-0.mp4",
+            "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, racking focus-1.mp4",
+            "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, racking focus-2.mp4",
+            "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, racking focus-3.mp4",
+            "videos_t2v/A beautiful coastal beach in spring, waves lapping on sand, racking focus-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "The bund Shanghai, in super slow motion",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/The bund Shanghai, in super slow motion-0.mp4",
+            "videos_t2v/The bund Shanghai, in super slow motion-1.mp4",
+            "videos_t2v/The bund Shanghai, in super slow motion-2.mp4",
+            "videos_t2v/The bund Shanghai, in super slow motion-3.mp4",
+            "videos_t2v/The bund Shanghai, in super slow motion-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "The bund Shanghai, zoom in",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/The bund Shanghai, zoom in-0.mp4",
+            "videos_t2v/The bund Shanghai, zoom in-1.mp4",
+            "videos_t2v/The bund Shanghai, zoom in-2.mp4",
+            "videos_t2v/The bund Shanghai, zoom in-3.mp4",
+            "videos_t2v/The bund Shanghai, zoom in-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "The bund Shanghai, zoom out",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/The bund Shanghai, zoom out-0.mp4",
+            "videos_t2v/The bund Shanghai, zoom out-1.mp4",
+            "videos_t2v/The bund Shanghai, zoom out-2.mp4",
+            "videos_t2v/The bund Shanghai, zoom out-3.mp4",
+            "videos_t2v/The bund Shanghai, zoom out-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "The bund Shanghai, pan left",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/The bund Shanghai, pan left-0.mp4",
+            "videos_t2v/The bund Shanghai, pan left-1.mp4",
+            "videos_t2v/The bund Shanghai, pan left-2.mp4",
+            "videos_t2v/The bund Shanghai, pan left-3.mp4",
+            "videos_t2v/The bund Shanghai, pan left-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "The bund Shanghai, pan right",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/The bund Shanghai, pan right-0.mp4",
+            "videos_t2v/The bund Shanghai, pan right-1.mp4",
+            "videos_t2v/The bund Shanghai, pan right-2.mp4",
+            "videos_t2v/The bund Shanghai, pan right-3.mp4",
+            "videos_t2v/The bund Shanghai, pan right-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "The bund Shanghai, tilt up",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/The bund Shanghai, tilt up-0.mp4",
+            "videos_t2v/The bund Shanghai, tilt up-1.mp4",
+            "videos_t2v/The bund Shanghai, tilt up-2.mp4",
+            "videos_t2v/The bund Shanghai, tilt up-3.mp4",
+            "videos_t2v/The bund Shanghai, tilt up-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "The bund Shanghai, tilt down",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/The bund Shanghai, tilt down-0.mp4",
+            "videos_t2v/The bund Shanghai, tilt down-1.mp4",
+            "videos_t2v/The bund Shanghai, tilt down-2.mp4",
+            "videos_t2v/The bund Shanghai, tilt down-3.mp4",
+            "videos_t2v/The bund Shanghai, tilt down-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "The bund Shanghai, with an intense shaking effect",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/The bund Shanghai, with an intense shaking effect-0.mp4",
+            "videos_t2v/The bund Shanghai, with an intense shaking effect-1.mp4",
+            "videos_t2v/The bund Shanghai, with an intense shaking effect-2.mp4",
+            "videos_t2v/The bund Shanghai, with an intense shaking effect-3.mp4",
+            "videos_t2v/The bund Shanghai, with an intense shaking effect-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "The bund Shanghai, featuring a steady and smooth perspective",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/The bund Shanghai, featuring a steady and smooth perspective-0.mp4",
+            "videos_t2v/The bund Shanghai, featuring a steady and smooth perspective-1.mp4",
+            "videos_t2v/The bund Shanghai, featuring a steady and smooth perspective-2.mp4",
+            "videos_t2v/The bund Shanghai, featuring a steady and smooth perspective-3.mp4",
+            "videos_t2v/The bund Shanghai, featuring a steady and smooth perspective-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "The bund Shanghai, racking focus",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/The bund Shanghai, racking focus-0.mp4",
+            "videos_t2v/The bund Shanghai, racking focus-1.mp4",
+            "videos_t2v/The bund Shanghai, racking focus-2.mp4",
+            "videos_t2v/The bund Shanghai, racking focus-3.mp4",
+            "videos_t2v/The bund Shanghai, racking focus-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a shark is swimming in the ocean, in super slow motion",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/a shark is swimming in the ocean, in super slow motion-0.mp4",
+            "videos_t2v/a shark is swimming in the ocean, in super slow motion-1.mp4",
+            "videos_t2v/a shark is swimming in the ocean, in super slow motion-2.mp4",
+            "videos_t2v/a shark is swimming in the ocean, in super slow motion-3.mp4",
+            "videos_t2v/a shark is swimming in the ocean, in super slow motion-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a shark is swimming in the ocean, zoom in",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/a shark is swimming in the ocean, zoom in-0.mp4",
+            "videos_t2v/a shark is swimming in the ocean, zoom in-1.mp4",
+            "videos_t2v/a shark is swimming in the ocean, zoom in-2.mp4",
+            "videos_t2v/a shark is swimming in the ocean, zoom in-3.mp4",
+            "videos_t2v/a shark is swimming in the ocean, zoom in-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a shark is swimming in the ocean, zoom out",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/a shark is swimming in the ocean, zoom out-0.mp4",
+            "videos_t2v/a shark is swimming in the ocean, zoom out-1.mp4",
+            "videos_t2v/a shark is swimming in the ocean, zoom out-2.mp4",
+            "videos_t2v/a shark is swimming in the ocean, zoom out-3.mp4",
+            "videos_t2v/a shark is swimming in the ocean, zoom out-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a shark is swimming in the ocean, pan left",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/a shark is swimming in the ocean, pan left-0.mp4",
+            "videos_t2v/a shark is swimming in the ocean, pan left-1.mp4",
+            "videos_t2v/a shark is swimming in the ocean, pan left-2.mp4",
+            "videos_t2v/a shark is swimming in the ocean, pan left-3.mp4",
+            "videos_t2v/a shark is swimming in the ocean, pan left-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a shark is swimming in the ocean, pan right",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/a shark is swimming in the ocean, pan right-0.mp4",
+            "videos_t2v/a shark is swimming in the ocean, pan right-1.mp4",
+            "videos_t2v/a shark is swimming in the ocean, pan right-2.mp4",
+            "videos_t2v/a shark is swimming in the ocean, pan right-3.mp4",
+            "videos_t2v/a shark is swimming in the ocean, pan right-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a shark is swimming in the ocean, tilt up",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/a shark is swimming in the ocean, tilt up-0.mp4",
+            "videos_t2v/a shark is swimming in the ocean, tilt up-1.mp4",
+            "videos_t2v/a shark is swimming in the ocean, tilt up-2.mp4",
+            "videos_t2v/a shark is swimming in the ocean, tilt up-3.mp4",
+            "videos_t2v/a shark is swimming in the ocean, tilt up-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a shark is swimming in the ocean, tilt down",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/a shark is swimming in the ocean, tilt down-0.mp4",
+            "videos_t2v/a shark is swimming in the ocean, tilt down-1.mp4",
+            "videos_t2v/a shark is swimming in the ocean, tilt down-2.mp4",
+            "videos_t2v/a shark is swimming in the ocean, tilt down-3.mp4",
+            "videos_t2v/a shark is swimming in the ocean, tilt down-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a shark is swimming in the ocean, with an intense shaking effect",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/a shark is swimming in the ocean, with an intense shaking effect-0.mp4",
+            "videos_t2v/a shark is swimming in the ocean, with an intense shaking effect-1.mp4",
+            "videos_t2v/a shark is swimming in the ocean, with an intense shaking effect-2.mp4",
+            "videos_t2v/a shark is swimming in the ocean, with an intense shaking effect-3.mp4",
+            "videos_t2v/a shark is swimming in the ocean, with an intense shaking effect-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a shark is swimming in the ocean, featuring a steady and smooth perspective",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/a shark is swimming in the ocean, featuring a steady and smooth perspective-0.mp4",
+            "videos_t2v/a shark is swimming in the ocean, featuring a steady and smooth perspective-1.mp4",
+            "videos_t2v/a shark is swimming in the ocean, featuring a steady and smooth perspective-2.mp4",
+            "videos_t2v/a shark is swimming in the ocean, featuring a steady and smooth perspective-3.mp4",
+            "videos_t2v/a shark is swimming in the ocean, featuring a steady and smooth perspective-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a shark is swimming in the ocean, racking focus",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/a shark is swimming in the ocean, racking focus-0.mp4",
+            "videos_t2v/a shark is swimming in the ocean, racking focus-1.mp4",
+            "videos_t2v/a shark is swimming in the ocean, racking focus-2.mp4",
+            "videos_t2v/a shark is swimming in the ocean, racking focus-3.mp4",
+            "videos_t2v/a shark is swimming in the ocean, racking focus-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A panda drinking coffee in a cafe in Paris, in super slow motion",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/A panda drinking coffee in a cafe in Paris, in super slow motion-0.mp4",
+            "videos_t2v/A panda drinking coffee in a cafe in Paris, in super slow motion-1.mp4",
+            "videos_t2v/A panda drinking coffee in a cafe in Paris, in super slow motion-2.mp4",
+            "videos_t2v/A panda drinking coffee in a cafe in Paris, in super slow motion-3.mp4",
+            "videos_t2v/A panda drinking coffee in a cafe in Paris, in super slow motion-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A panda drinking coffee in a cafe in Paris, zoom in",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/A panda drinking coffee in a cafe in Paris, zoom in-0.mp4",
+            "videos_t2v/A panda drinking coffee in a cafe in Paris, zoom in-1.mp4",
+            "videos_t2v/A panda drinking coffee in a cafe in Paris, zoom in-2.mp4",
+            "videos_t2v/A panda drinking coffee in a cafe in Paris, zoom in-3.mp4",
+            "videos_t2v/A panda drinking coffee in a cafe in Paris, zoom in-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A panda drinking coffee in a cafe in Paris, zoom out",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/A panda drinking coffee in a cafe in Paris, zoom out-0.mp4",
+            "videos_t2v/A panda drinking coffee in a cafe in Paris, zoom out-1.mp4",
+            "videos_t2v/A panda drinking coffee in a cafe in Paris, zoom out-2.mp4",
+            "videos_t2v/A panda drinking coffee in a cafe in Paris, zoom out-3.mp4",
+            "videos_t2v/A panda drinking coffee in a cafe in Paris, zoom out-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A panda drinking coffee in a cafe in Paris, pan left",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/A panda drinking coffee in a cafe in Paris, pan left-0.mp4",
+            "videos_t2v/A panda drinking coffee in a cafe in Paris, pan left-1.mp4",
+            "videos_t2v/A panda drinking coffee in a cafe in Paris, pan left-2.mp4",
+            "videos_t2v/A panda drinking coffee in a cafe in Paris, pan left-3.mp4",
+            "videos_t2v/A panda drinking coffee in a cafe in Paris, pan left-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A panda drinking coffee in a cafe in Paris, pan right",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/A panda drinking coffee in a cafe in Paris, pan right-0.mp4",
+            "videos_t2v/A panda drinking coffee in a cafe in Paris, pan right-1.mp4",
+            "videos_t2v/A panda drinking coffee in a cafe in Paris, pan right-2.mp4",
+            "videos_t2v/A panda drinking coffee in a cafe in Paris, pan right-3.mp4",
+            "videos_t2v/A panda drinking coffee in a cafe in Paris, pan right-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A panda drinking coffee in a cafe in Paris, tilt up",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/A panda drinking coffee in a cafe in Paris, tilt up-0.mp4",
+            "videos_t2v/A panda drinking coffee in a cafe in Paris, tilt up-1.mp4",
+            "videos_t2v/A panda drinking coffee in a cafe in Paris, tilt up-2.mp4",
+            "videos_t2v/A panda drinking coffee in a cafe in Paris, tilt up-3.mp4",
+            "videos_t2v/A panda drinking coffee in a cafe in Paris, tilt up-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A panda drinking coffee in a cafe in Paris, tilt down",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/A panda drinking coffee in a cafe in Paris, tilt down-0.mp4",
+            "videos_t2v/A panda drinking coffee in a cafe in Paris, tilt down-1.mp4",
+            "videos_t2v/A panda drinking coffee in a cafe in Paris, tilt down-2.mp4",
+            "videos_t2v/A panda drinking coffee in a cafe in Paris, tilt down-3.mp4",
+            "videos_t2v/A panda drinking coffee in a cafe in Paris, tilt down-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A panda drinking coffee in a cafe in Paris, with an intense shaking effect",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/A panda drinking coffee in a cafe in Paris, with an intense shaking effect-0.mp4",
+            "videos_t2v/A panda drinking coffee in a cafe in Paris, with an intense shaking effect-1.mp4",
+            "videos_t2v/A panda drinking coffee in a cafe in Paris, with an intense shaking effect-2.mp4",
+            "videos_t2v/A panda drinking coffee in a cafe in Paris, with an intense shaking effect-3.mp4",
+            "videos_t2v/A panda drinking coffee in a cafe in Paris, with an intense shaking effect-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A panda drinking coffee in a cafe in Paris, featuring a steady and smooth perspective",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/A panda drinking coffee in a cafe in Paris, featuring a steady and smooth perspective-0.mp4",
+            "videos_t2v/A panda drinking coffee in a cafe in Paris, featuring a steady and smooth perspective-1.mp4",
+            "videos_t2v/A panda drinking coffee in a cafe in Paris, featuring a steady and smooth perspective-2.mp4",
+            "videos_t2v/A panda drinking coffee in a cafe in Paris, featuring a steady and smooth perspective-3.mp4",
+            "videos_t2v/A panda drinking coffee in a cafe in Paris, featuring a steady and smooth perspective-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A panda drinking coffee in a cafe in Paris, racking focus",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/A panda drinking coffee in a cafe in Paris, racking focus-0.mp4",
+            "videos_t2v/A panda drinking coffee in a cafe in Paris, racking focus-1.mp4",
+            "videos_t2v/A panda drinking coffee in a cafe in Paris, racking focus-2.mp4",
+            "videos_t2v/A panda drinking coffee in a cafe in Paris, racking focus-3.mp4",
+            "videos_t2v/A panda drinking coffee in a cafe in Paris, racking focus-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A cute happy Corgi playing in park, sunset, in super slow motion",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/A cute happy Corgi playing in park, sunset, in super slow motion-0.mp4",
+            "videos_t2v/A cute happy Corgi playing in park, sunset, in super slow motion-1.mp4",
+            "videos_t2v/A cute happy Corgi playing in park, sunset, in super slow motion-2.mp4",
+            "videos_t2v/A cute happy Corgi playing in park, sunset, in super slow motion-3.mp4",
+            "videos_t2v/A cute happy Corgi playing in park, sunset, in super slow motion-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A cute happy Corgi playing in park, sunset, zoom in",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/A cute happy Corgi playing in park, sunset, zoom in-0.mp4",
+            "videos_t2v/A cute happy Corgi playing in park, sunset, zoom in-1.mp4",
+            "videos_t2v/A cute happy Corgi playing in park, sunset, zoom in-2.mp4",
+            "videos_t2v/A cute happy Corgi playing in park, sunset, zoom in-3.mp4",
+            "videos_t2v/A cute happy Corgi playing in park, sunset, zoom in-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A cute happy Corgi playing in park, sunset, zoom out",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/A cute happy Corgi playing in park, sunset, zoom out-0.mp4",
+            "videos_t2v/A cute happy Corgi playing in park, sunset, zoom out-1.mp4",
+            "videos_t2v/A cute happy Corgi playing in park, sunset, zoom out-2.mp4",
+            "videos_t2v/A cute happy Corgi playing in park, sunset, zoom out-3.mp4",
+            "videos_t2v/A cute happy Corgi playing in park, sunset, zoom out-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A cute happy Corgi playing in park, sunset, pan left",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/A cute happy Corgi playing in park, sunset, pan left-0.mp4",
+            "videos_t2v/A cute happy Corgi playing in park, sunset, pan left-1.mp4",
+            "videos_t2v/A cute happy Corgi playing in park, sunset, pan left-2.mp4",
+            "videos_t2v/A cute happy Corgi playing in park, sunset, pan left-3.mp4",
+            "videos_t2v/A cute happy Corgi playing in park, sunset, pan left-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A cute happy Corgi playing in park, sunset, pan right",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/A cute happy Corgi playing in park, sunset, pan right-0.mp4",
+            "videos_t2v/A cute happy Corgi playing in park, sunset, pan right-1.mp4",
+            "videos_t2v/A cute happy Corgi playing in park, sunset, pan right-2.mp4",
+            "videos_t2v/A cute happy Corgi playing in park, sunset, pan right-3.mp4",
+            "videos_t2v/A cute happy Corgi playing in park, sunset, pan right-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A cute happy Corgi playing in park, sunset, tilt up",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/A cute happy Corgi playing in park, sunset, tilt up-0.mp4",
+            "videos_t2v/A cute happy Corgi playing in park, sunset, tilt up-1.mp4",
+            "videos_t2v/A cute happy Corgi playing in park, sunset, tilt up-2.mp4",
+            "videos_t2v/A cute happy Corgi playing in park, sunset, tilt up-3.mp4",
+            "videos_t2v/A cute happy Corgi playing in park, sunset, tilt up-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A cute happy Corgi playing in park, sunset, tilt down",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/A cute happy Corgi playing in park, sunset, tilt down-0.mp4",
+            "videos_t2v/A cute happy Corgi playing in park, sunset, tilt down-1.mp4",
+            "videos_t2v/A cute happy Corgi playing in park, sunset, tilt down-2.mp4",
+            "videos_t2v/A cute happy Corgi playing in park, sunset, tilt down-3.mp4",
+            "videos_t2v/A cute happy Corgi playing in park, sunset, tilt down-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A cute happy Corgi playing in park, sunset, with an intense shaking effect",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/A cute happy Corgi playing in park, sunset, with an intense shaking effect-0.mp4",
+            "videos_t2v/A cute happy Corgi playing in park, sunset, with an intense shaking effect-1.mp4",
+            "videos_t2v/A cute happy Corgi playing in park, sunset, with an intense shaking effect-2.mp4",
+            "videos_t2v/A cute happy Corgi playing in park, sunset, with an intense shaking effect-3.mp4",
+            "videos_t2v/A cute happy Corgi playing in park, sunset, with an intense shaking effect-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A cute happy Corgi playing in park, sunset, featuring a steady and smooth perspective",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/A cute happy Corgi playing in park, sunset, featuring a steady and smooth perspective-0.mp4",
+            "videos_t2v/A cute happy Corgi playing in park, sunset, featuring a steady and smooth perspective-1.mp4",
+            "videos_t2v/A cute happy Corgi playing in park, sunset, featuring a steady and smooth perspective-2.mp4",
+            "videos_t2v/A cute happy Corgi playing in park, sunset, featuring a steady and smooth perspective-3.mp4",
+            "videos_t2v/A cute happy Corgi playing in park, sunset, featuring a steady and smooth perspective-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A cute happy Corgi playing in park, sunset, racking focus",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/A cute happy Corgi playing in park, sunset, racking focus-0.mp4",
+            "videos_t2v/A cute happy Corgi playing in park, sunset, racking focus-1.mp4",
+            "videos_t2v/A cute happy Corgi playing in park, sunset, racking focus-2.mp4",
+            "videos_t2v/A cute happy Corgi playing in park, sunset, racking focus-3.mp4",
+            "videos_t2v/A cute happy Corgi playing in park, sunset, racking focus-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Gwen Stacy reading a book, in super slow motion",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/Gwen Stacy reading a book, in super slow motion-0.mp4",
+            "videos_t2v/Gwen Stacy reading a book, in super slow motion-1.mp4",
+            "videos_t2v/Gwen Stacy reading a book, in super slow motion-2.mp4",
+            "videos_t2v/Gwen Stacy reading a book, in super slow motion-3.mp4",
+            "videos_t2v/Gwen Stacy reading a book, in super slow motion-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Gwen Stacy reading a book, zoom in",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/Gwen Stacy reading a book, zoom in-0.mp4",
+            "videos_t2v/Gwen Stacy reading a book, zoom in-1.mp4",
+            "videos_t2v/Gwen Stacy reading a book, zoom in-2.mp4",
+            "videos_t2v/Gwen Stacy reading a book, zoom in-3.mp4",
+            "videos_t2v/Gwen Stacy reading a book, zoom in-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Gwen Stacy reading a book, zoom out",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/Gwen Stacy reading a book, zoom out-0.mp4",
+            "videos_t2v/Gwen Stacy reading a book, zoom out-1.mp4",
+            "videos_t2v/Gwen Stacy reading a book, zoom out-2.mp4",
+            "videos_t2v/Gwen Stacy reading a book, zoom out-3.mp4",
+            "videos_t2v/Gwen Stacy reading a book, zoom out-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Gwen Stacy reading a book, pan left",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/Gwen Stacy reading a book, pan left-0.mp4",
+            "videos_t2v/Gwen Stacy reading a book, pan left-1.mp4",
+            "videos_t2v/Gwen Stacy reading a book, pan left-2.mp4",
+            "videos_t2v/Gwen Stacy reading a book, pan left-3.mp4",
+            "videos_t2v/Gwen Stacy reading a book, pan left-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Gwen Stacy reading a book, pan right",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/Gwen Stacy reading a book, pan right-0.mp4",
+            "videos_t2v/Gwen Stacy reading a book, pan right-1.mp4",
+            "videos_t2v/Gwen Stacy reading a book, pan right-2.mp4",
+            "videos_t2v/Gwen Stacy reading a book, pan right-3.mp4",
+            "videos_t2v/Gwen Stacy reading a book, pan right-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Gwen Stacy reading a book, tilt up",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/Gwen Stacy reading a book, tilt up-0.mp4",
+            "videos_t2v/Gwen Stacy reading a book, tilt up-1.mp4",
+            "videos_t2v/Gwen Stacy reading a book, tilt up-2.mp4",
+            "videos_t2v/Gwen Stacy reading a book, tilt up-3.mp4",
+            "videos_t2v/Gwen Stacy reading a book, tilt up-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Gwen Stacy reading a book, tilt down",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/Gwen Stacy reading a book, tilt down-0.mp4",
+            "videos_t2v/Gwen Stacy reading a book, tilt down-1.mp4",
+            "videos_t2v/Gwen Stacy reading a book, tilt down-2.mp4",
+            "videos_t2v/Gwen Stacy reading a book, tilt down-3.mp4",
+            "videos_t2v/Gwen Stacy reading a book, tilt down-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Gwen Stacy reading a book, with an intense shaking effect",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/Gwen Stacy reading a book, with an intense shaking effect-0.mp4",
+            "videos_t2v/Gwen Stacy reading a book, with an intense shaking effect-1.mp4",
+            "videos_t2v/Gwen Stacy reading a book, with an intense shaking effect-2.mp4",
+            "videos_t2v/Gwen Stacy reading a book, with an intense shaking effect-3.mp4",
+            "videos_t2v/Gwen Stacy reading a book, with an intense shaking effect-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Gwen Stacy reading a book, featuring a steady and smooth perspective",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/Gwen Stacy reading a book, featuring a steady and smooth perspective-0.mp4",
+            "videos_t2v/Gwen Stacy reading a book, featuring a steady and smooth perspective-1.mp4",
+            "videos_t2v/Gwen Stacy reading a book, featuring a steady and smooth perspective-2.mp4",
+            "videos_t2v/Gwen Stacy reading a book, featuring a steady and smooth perspective-3.mp4",
+            "videos_t2v/Gwen Stacy reading a book, featuring a steady and smooth perspective-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Gwen Stacy reading a book, racking focus",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/Gwen Stacy reading a book, racking focus-0.mp4",
+            "videos_t2v/Gwen Stacy reading a book, racking focus-1.mp4",
+            "videos_t2v/Gwen Stacy reading a book, racking focus-2.mp4",
+            "videos_t2v/Gwen Stacy reading a book, racking focus-3.mp4",
+            "videos_t2v/Gwen Stacy reading a book, racking focus-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A boat sailing leisurely along the Seine River with the Eiffel Tower in background, in super slow motion",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, in super slow motion-0.mp4",
+            "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, in super slow motion-1.mp4",
+            "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, in super slow motion-2.mp4",
+            "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, in super slow motion-3.mp4",
+            "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, in super slow motion-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A boat sailing leisurely along the Seine River with the Eiffel Tower in background, zoom in",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, zoom in-0.mp4",
+            "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, zoom in-1.mp4",
+            "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, zoom in-2.mp4",
+            "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, zoom in-3.mp4",
+            "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, zoom in-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A boat sailing leisurely along the Seine River with the Eiffel Tower in background, zoom out",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, zoom out-0.mp4",
+            "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, zoom out-1.mp4",
+            "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, zoom out-2.mp4",
+            "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, zoom out-3.mp4",
+            "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, zoom out-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A boat sailing leisurely along the Seine River with the Eiffel Tower in background, pan left",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, pan left-0.mp4",
+            "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, pan left-1.mp4",
+            "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, pan left-2.mp4",
+            "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, pan left-3.mp4",
+            "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, pan left-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A boat sailing leisurely along the Seine River with the Eiffel Tower in background, pan right",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, pan right-0.mp4",
+            "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, pan right-1.mp4",
+            "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, pan right-2.mp4",
+            "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, pan right-3.mp4",
+            "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, pan right-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A boat sailing leisurely along the Seine River with the Eiffel Tower in background, tilt up",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, tilt up-0.mp4",
+            "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, tilt up-1.mp4",
+            "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, tilt up-2.mp4",
+            "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, tilt up-3.mp4",
+            "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, tilt up-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A boat sailing leisurely along the Seine River with the Eiffel Tower in background, tilt down",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, tilt down-0.mp4",
+            "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, tilt down-1.mp4",
+            "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, tilt down-2.mp4",
+            "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, tilt down-3.mp4",
+            "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, tilt down-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A boat sailing leisurely along the Seine River with the Eiffel Tower in background, with an intense shaking effect",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, with an intense shaking effect-0.mp4",
+            "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, with an intense shaking effect-1.mp4",
+            "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, with an intense shaking effect-2.mp4",
+            "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, with an intense shaking effect-3.mp4",
+            "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, with an intense shaking effect-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A boat sailing leisurely along the Seine River with the Eiffel Tower in background, featuring a steady and smooth perspective",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, featuring a steady and smooth perspective-0.mp4",
+            "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, featuring a steady and smooth perspective-1.mp4",
+            "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, featuring a steady and smooth perspective-2.mp4",
+            "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, featuring a steady and smooth perspective-3.mp4",
+            "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, featuring a steady and smooth perspective-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A boat sailing leisurely along the Seine River with the Eiffel Tower in background, racking focus",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, racking focus-0.mp4",
+            "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, racking focus-1.mp4",
+            "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, racking focus-2.mp4",
+            "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, racking focus-3.mp4",
+            "videos_t2v/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, racking focus-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, in super slow motion",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, in super slow motion-0.mp4",
+            "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, in super slow motion-1.mp4",
+            "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, in super slow motion-2.mp4",
+            "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, in super slow motion-3.mp4",
+            "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, in super slow motion-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, zoom in",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, zoom in-0.mp4",
+            "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, zoom in-1.mp4",
+            "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, zoom in-2.mp4",
+            "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, zoom in-3.mp4",
+            "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, zoom in-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, zoom out",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, zoom out-0.mp4",
+            "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, zoom out-1.mp4",
+            "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, zoom out-2.mp4",
+            "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, zoom out-3.mp4",
+            "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, zoom out-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, pan left",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, pan left-0.mp4",
+            "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, pan left-1.mp4",
+            "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, pan left-2.mp4",
+            "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, pan left-3.mp4",
+            "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, pan left-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, pan right",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, pan right-0.mp4",
+            "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, pan right-1.mp4",
+            "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, pan right-2.mp4",
+            "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, pan right-3.mp4",
+            "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, pan right-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, tilt up",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, tilt up-0.mp4",
+            "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, tilt up-1.mp4",
+            "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, tilt up-2.mp4",
+            "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, tilt up-3.mp4",
+            "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, tilt up-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, tilt down",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, tilt down-0.mp4",
+            "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, tilt down-1.mp4",
+            "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, tilt down-2.mp4",
+            "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, tilt down-3.mp4",
+            "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, tilt down-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, with an intense shaking effect",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, with an intense shaking effect-0.mp4",
+            "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, with an intense shaking effect-1.mp4",
+            "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, with an intense shaking effect-2.mp4",
+            "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, with an intense shaking effect-3.mp4",
+            "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, with an intense shaking effect-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, featuring a steady and smooth perspective",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, featuring a steady and smooth perspective-0.mp4",
+            "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, featuring a steady and smooth perspective-1.mp4",
+            "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, featuring a steady and smooth perspective-2.mp4",
+            "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, featuring a steady and smooth perspective-3.mp4",
+            "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, featuring a steady and smooth perspective-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, racking focus",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, racking focus-0.mp4",
+            "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, racking focus-1.mp4",
+            "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, racking focus-2.mp4",
+            "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, racking focus-3.mp4",
+            "videos_t2v/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, racking focus-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "An astronaut flying in space, in super slow motion",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/An astronaut flying in space, in super slow motion-0.mp4",
+            "videos_t2v/An astronaut flying in space, in super slow motion-1.mp4",
+            "videos_t2v/An astronaut flying in space, in super slow motion-2.mp4",
+            "videos_t2v/An astronaut flying in space, in super slow motion-3.mp4",
+            "videos_t2v/An astronaut flying in space, in super slow motion-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "An astronaut flying in space, zoom in",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/An astronaut flying in space, zoom in-0.mp4",
+            "videos_t2v/An astronaut flying in space, zoom in-1.mp4",
+            "videos_t2v/An astronaut flying in space, zoom in-2.mp4",
+            "videos_t2v/An astronaut flying in space, zoom in-3.mp4",
+            "videos_t2v/An astronaut flying in space, zoom in-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "An astronaut flying in space, zoom out",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/An astronaut flying in space, zoom out-0.mp4",
+            "videos_t2v/An astronaut flying in space, zoom out-1.mp4",
+            "videos_t2v/An astronaut flying in space, zoom out-2.mp4",
+            "videos_t2v/An astronaut flying in space, zoom out-3.mp4",
+            "videos_t2v/An astronaut flying in space, zoom out-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "An astronaut flying in space, pan left",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/An astronaut flying in space, pan left-0.mp4",
+            "videos_t2v/An astronaut flying in space, pan left-1.mp4",
+            "videos_t2v/An astronaut flying in space, pan left-2.mp4",
+            "videos_t2v/An astronaut flying in space, pan left-3.mp4",
+            "videos_t2v/An astronaut flying in space, pan left-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "An astronaut flying in space, pan right",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/An astronaut flying in space, pan right-0.mp4",
+            "videos_t2v/An astronaut flying in space, pan right-1.mp4",
+            "videos_t2v/An astronaut flying in space, pan right-2.mp4",
+            "videos_t2v/An astronaut flying in space, pan right-3.mp4",
+            "videos_t2v/An astronaut flying in space, pan right-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "An astronaut flying in space, tilt up",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/An astronaut flying in space, tilt up-0.mp4",
+            "videos_t2v/An astronaut flying in space, tilt up-1.mp4",
+            "videos_t2v/An astronaut flying in space, tilt up-2.mp4",
+            "videos_t2v/An astronaut flying in space, tilt up-3.mp4",
+            "videos_t2v/An astronaut flying in space, tilt up-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "An astronaut flying in space, tilt down",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/An astronaut flying in space, tilt down-0.mp4",
+            "videos_t2v/An astronaut flying in space, tilt down-1.mp4",
+            "videos_t2v/An astronaut flying in space, tilt down-2.mp4",
+            "videos_t2v/An astronaut flying in space, tilt down-3.mp4",
+            "videos_t2v/An astronaut flying in space, tilt down-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "An astronaut flying in space, with an intense shaking effect",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/An astronaut flying in space, with an intense shaking effect-0.mp4",
+            "videos_t2v/An astronaut flying in space, with an intense shaking effect-1.mp4",
+            "videos_t2v/An astronaut flying in space, with an intense shaking effect-2.mp4",
+            "videos_t2v/An astronaut flying in space, with an intense shaking effect-3.mp4",
+            "videos_t2v/An astronaut flying in space, with an intense shaking effect-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "An astronaut flying in space, featuring a steady and smooth perspective",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/An astronaut flying in space, featuring a steady and smooth perspective-0.mp4",
+            "videos_t2v/An astronaut flying in space, featuring a steady and smooth perspective-1.mp4",
+            "videos_t2v/An astronaut flying in space, featuring a steady and smooth perspective-2.mp4",
+            "videos_t2v/An astronaut flying in space, featuring a steady and smooth perspective-3.mp4",
+            "videos_t2v/An astronaut flying in space, featuring a steady and smooth perspective-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "An astronaut flying in space, racking focus",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/An astronaut flying in space, racking focus-0.mp4",
+            "videos_t2v/An astronaut flying in space, racking focus-1.mp4",
+            "videos_t2v/An astronaut flying in space, racking focus-2.mp4",
+            "videos_t2v/An astronaut flying in space, racking focus-3.mp4",
+            "videos_t2v/An astronaut flying in space, racking focus-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, in super slow motion",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, in super slow motion-0.mp4",
+            "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, in super slow motion-1.mp4",
+            "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, in super slow motion-2.mp4",
+            "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, in super slow motion-3.mp4",
+            "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, in super slow motion-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, zoom in",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, zoom in-0.mp4",
+            "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, zoom in-1.mp4",
+            "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, zoom in-2.mp4",
+            "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, zoom in-3.mp4",
+            "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, zoom in-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, zoom out",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, zoom out-0.mp4",
+            "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, zoom out-1.mp4",
+            "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, zoom out-2.mp4",
+            "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, zoom out-3.mp4",
+            "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, zoom out-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, pan left",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, pan left-0.mp4",
+            "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, pan left-1.mp4",
+            "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, pan left-2.mp4",
+            "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, pan left-3.mp4",
+            "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, pan left-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, pan right",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, pan right-0.mp4",
+            "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, pan right-1.mp4",
+            "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, pan right-2.mp4",
+            "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, pan right-3.mp4",
+            "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, pan right-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, tilt up",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, tilt up-0.mp4",
+            "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, tilt up-1.mp4",
+            "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, tilt up-2.mp4",
+            "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, tilt up-3.mp4",
+            "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, tilt up-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, tilt down",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, tilt down-0.mp4",
+            "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, tilt down-1.mp4",
+            "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, tilt down-2.mp4",
+            "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, tilt down-3.mp4",
+            "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, tilt down-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, with an intense shaking effect",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, with an intense shaking effect-0.mp4",
+            "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, with an intense shaking effect-1.mp4",
+            "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, with an intense shaking effect-2.mp4",
+            "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, with an intense shaking effect-3.mp4",
+            "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, with an intense shaking effect-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, featuring a steady and smooth perspective",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, featuring a steady and smooth perspective-0.mp4",
+            "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, featuring a steady and smooth perspective-1.mp4",
+            "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, featuring a steady and smooth perspective-2.mp4",
+            "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, featuring a steady and smooth perspective-3.mp4",
+            "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, featuring a steady and smooth perspective-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, racking focus",
+        "dimension": [
+            "temporal_style"
+        ],
+        "video_list": [
+            "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, racking focus-0.mp4",
+            "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, racking focus-1.mp4",
+            "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, racking focus-2.mp4",
+            "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, racking focus-3.mp4",
+            "videos_t2v/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, racking focus-4.mp4"
+        ]
+    }
+]

@@ -1,0 +1,104 @@
+{
+ "arm": "meanflow",
+ "step": 9383,
+ "clips_seen": 450384,
+ "minutes": 60.0,
+ "params_M": 212.71,
+ "val_ema": 0.3811089729269345,
+ "history": [
+  {
+   "tag": "mid@0.5",
+   "n": 512,
+   "shift": 3.0,
+   "seed": 0,
+   "mf_steps": 1,
+   "euler_steps": 0,
+   "fvd": 12128.681495689516,
+   "ref": "train",
+   "motion": 0.050965274713234976,
+   "motion_ratio": 5.187578622993549,
+   "seconds": 88.4,
+   "step": 4695,
+   "val_ema": 0.38834278881549844
+  }
+ ],
+ "refs": {
+  "n_train_real": 2048,
+  "n_test": 2048,
+  "train_clips": 2115,
+  "test_clips": 196,
+  "fvd_train_vs_test": 72.17553199892487,
+  "fvd_train_vs_static_test": 215.0886819593164,
+  "motion_train": 0.009824482367811305,
+  "motion_test": 0.009845493565130425,
+  "seconds": 3027.8379373550415
+ },
+ "scores": [
+  {
+   "tag": "mf1_512",
+   "n": 512,
+   "shift": 3.0,
+   "seed": 0,
+   "mf_steps": 1,
+   "euler_steps": 0,
+   "fvd": 6770.675183715973,
+   "ref": "train",
+   "motion": 0.03180209990387084,
+   "motion_ratio": 3.237025495416071,
+   "seconds": 84.7
+  },
+  {
+   "tag": "mf2_512",
+   "n": 512,
+   "shift": 3.0,
+   "seed": 0,
+   "mf_steps": 2,
+   "euler_steps": 0,
+   "fvd": 11241.034793401806,
+   "ref": "train",
+   "motion": 0.04904160006844904,
+   "motion_ratio": 4.991774450033902,
+   "seconds": 85.4
+  },
+  {
+   "tag": "mf4_512",
+   "n": 512,
+   "shift": 3.0,
+   "seed": 0,
+   "mf_steps": 4,
+   "euler_steps": 0,
+   "fvd": 4442.646262670299,
+   "ref": "train",
+   "motion": 0.03865841499646194,
+   "motion_ratio": 3.93490603872642,
+   "seconds": 85.8
+  },
+  {
+   "tag": "final_mf4",
+   "n": 2048,
+   "shift": 3.0,
+   "seed": 0,
+   "mf_steps": 4,
+   "euler_steps": 0,
+   "fvd": 4420.1956064737315,
+   "ref": "train",
+   "motion": 0.038704752312696655,
+   "motion_ratio": 3.9396225535004232,
+   "seconds": 343.3,
+   "primary": true
+  },
+  {
+   "tag": "euler50_512",
+   "n": 512,
+   "shift": 3.0,
+   "seed": 0,
+   "mf_steps": 0,
+   "euler_steps": 50,
+   "fvd": 289.1610541090765,
+   "ref": "train",
+   "motion": 0.009518675983599678,
+   "motion_ratio": 0.9688730283425859,
+   "seconds": 108.6
+  }
+ ]
+}

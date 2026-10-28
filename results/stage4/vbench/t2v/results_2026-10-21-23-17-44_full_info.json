@@ -1,0 +1,1808 @@
+[
+    {
+        "prompt_en": "alley",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "alley"
+                }
+            }
+        },
+        "video_list": [
+            "videos_t2v/alley-0.mp4",
+            "videos_t2v/alley-1.mp4",
+            "videos_t2v/alley-2.mp4",
+            "videos_t2v/alley-3.mp4",
+            "videos_t2v/alley-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "amusement park",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "amusement park"
+                }
+            }
+        },
+        "video_list": [
+            "videos_t2v/amusement park-0.mp4",
+            "videos_t2v/amusement park-1.mp4",
+            "videos_t2v/amusement park-2.mp4",
+            "videos_t2v/amusement park-3.mp4",
+            "videos_t2v/amusement park-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "aquarium",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "aquarium"
+                }
+            }
+        },
+        "video_list": [
+            "videos_t2v/aquarium-0.mp4",
+            "videos_t2v/aquarium-1.mp4",
+            "videos_t2v/aquarium-2.mp4",
+            "videos_t2v/aquarium-3.mp4",
+            "videos_t2v/aquarium-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "arch",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "arch"
+                }
+            }
+        },
+        "video_list": [
+            "videos_t2v/arch-0.mp4",
+            "videos_t2v/arch-1.mp4",
+            "videos_t2v/arch-2.mp4",
+            "videos_t2v/arch-3.mp4",
+            "videos_t2v/arch-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "art gallery",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "art gallery"
+                }
+            }
+        },
+        "video_list": [
+            "videos_t2v/art gallery-0.mp4",
+            "videos_t2v/art gallery-1.mp4",
+            "videos_t2v/art gallery-2.mp4",
+            "videos_t2v/art gallery-3.mp4",
+            "videos_t2v/art gallery-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "bathroom",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "bathroom"
+                }
+            }
+        },
+        "video_list": [
+            "videos_t2v/bathroom-0.mp4",
+            "videos_t2v/bathroom-1.mp4",
+            "videos_t2v/bathroom-2.mp4",
+            "videos_t2v/bathroom-3.mp4",
+            "videos_t2v/bathroom-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "bakery shop",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "bakery shop"
+                }
+            }
+        },
+        "video_list": [
+            "videos_t2v/bakery shop-0.mp4",
+            "videos_t2v/bakery shop-1.mp4",
+            "videos_t2v/bakery shop-2.mp4",
+            "videos_t2v/bakery shop-3.mp4",
+            "videos_t2v/bakery shop-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "ballroom",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "ballroom"
+                }
+            }
+        },
+        "video_list": [
+            "videos_t2v/ballroom-0.mp4",
+            "videos_t2v/ballroom-1.mp4",
+            "videos_t2v/ballroom-2.mp4",
+            "videos_t2v/ballroom-3.mp4",
+            "videos_t2v/ballroom-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "bar",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "bar"
+                }
+            }
+        },
+        "video_list": [
+            "videos_t2v/bar-0.mp4",
+            "videos_t2v/bar-1.mp4",
+            "videos_t2v/bar-2.mp4",
+            "videos_t2v/bar-3.mp4",
+            "videos_t2v/bar-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "barn",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "barn"
+                }
+            }
+        },
+        "video_list": [
+            "videos_t2v/barn-0.mp4",
+            "videos_t2v/barn-1.mp4",
+            "videos_t2v/barn-2.mp4",
+            "videos_t2v/barn-3.mp4",
+            "videos_t2v/barn-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "basement",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "basement"
+                }
+            }
+        },
+        "video_list": [
+            "videos_t2v/basement-0.mp4",
+            "videos_t2v/basement-1.mp4",
+            "videos_t2v/basement-2.mp4",
+            "videos_t2v/basement-3.mp4",
+            "videos_t2v/basement-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "beach",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "beach"
+                }
+            }
+        },
+        "video_list": [
+            "videos_t2v/beach-0.mp4",
+            "videos_t2v/beach-1.mp4",
+            "videos_t2v/beach-2.mp4",
+            "videos_t2v/beach-3.mp4",
+            "videos_t2v/beach-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "bedroom",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "bedroom"
+                }
+            }
+        },
+        "video_list": [
+            "videos_t2v/bedroom-0.mp4",
+            "videos_t2v/bedroom-1.mp4",
+            "videos_t2v/bedroom-2.mp4",
+            "videos_t2v/bedroom-3.mp4",
+            "videos_t2v/bedroom-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "bridge",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "bridge"
+                }
+            }
+        },
+        "video_list": [
+            "videos_t2v/bridge-0.mp4",
+            "videos_t2v/bridge-1.mp4",
+            "videos_t2v/bridge-2.mp4",
+            "videos_t2v/bridge-3.mp4",
+            "videos_t2v/bridge-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "botanical garden",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "botanical garden"
+                }
+            }
+        },
+        "video_list": [
+            "videos_t2v/botanical garden-0.mp4",
+            "videos_t2v/botanical garden-1.mp4",
+            "videos_t2v/botanical garden-2.mp4",
+            "videos_t2v/botanical garden-3.mp4",
+            "videos_t2v/botanical garden-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "cafeteria",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "cafeteria"
+                }
+            }
+        },
+        "video_list": [
+            "videos_t2v/cafeteria-0.mp4",
+            "videos_t2v/cafeteria-1.mp4",
+            "videos_t2v/cafeteria-2.mp4",
+            "videos_t2v/cafeteria-3.mp4",
+            "videos_t2v/cafeteria-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "campsite",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "campsite"
+                }
+            }
+        },
+        "video_list": [
+            "videos_t2v/campsite-0.mp4",
+            "videos_t2v/campsite-1.mp4",
+            "videos_t2v/campsite-2.mp4",
+            "videos_t2v/campsite-3.mp4",
+            "videos_t2v/campsite-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "campus",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "campus"
+                }
+            }
+        },
+        "video_list": [
+            "videos_t2v/campus-0.mp4",
+            "videos_t2v/campus-1.mp4",
+            "videos_t2v/campus-2.mp4",
+            "videos_t2v/campus-3.mp4",
+            "videos_t2v/campus-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "carrousel",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "carrousel"
+                }
+            }
+        },
+        "video_list": [
+            "videos_t2v/carrousel-0.mp4",
+            "videos_t2v/carrousel-1.mp4",
+            "videos_t2v/carrousel-2.mp4",
+            "videos_t2v/carrousel-3.mp4",
+            "videos_t2v/carrousel-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "castle",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "castle"
+                }
+            }
+        },
+        "video_list": [
+            "videos_t2v/castle-0.mp4",
+            "videos_t2v/castle-1.mp4",
+            "videos_t2v/castle-2.mp4",
+            "videos_t2v/castle-3.mp4",
+            "videos_t2v/castle-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "cemetery",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "cemetery"
+                }
+            }
+        },
+        "video_list": [
+            "videos_t2v/cemetery-0.mp4",
+            "videos_t2v/cemetery-1.mp4",
+            "videos_t2v/cemetery-2.mp4",
+            "videos_t2v/cemetery-3.mp4",
+            "videos_t2v/cemetery-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "classroom",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "classroom"
+                }
+            }
+        },
+        "video_list": [
+            "videos_t2v/classroom-0.mp4",
+            "videos_t2v/classroom-1.mp4",
+            "videos_t2v/classroom-2.mp4",
+            "videos_t2v/classroom-3.mp4",
+            "videos_t2v/classroom-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "cliff",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "cliff"
+                }
+            }
+        },
+        "video_list": [
+            "videos_t2v/cliff-0.mp4",
+            "videos_t2v/cliff-1.mp4",
+            "videos_t2v/cliff-2.mp4",
+            "videos_t2v/cliff-3.mp4",
+            "videos_t2v/cliff-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "crosswalk",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "crosswalk"
+                }
+            }
+        },
+        "video_list": [
+            "videos_t2v/crosswalk-0.mp4",
+            "videos_t2v/crosswalk-1.mp4",
+            "videos_t2v/crosswalk-2.mp4",
+            "videos_t2v/crosswalk-3.mp4",
+            "videos_t2v/crosswalk-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "construction site",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "construction site"
+                }
+            }
+        },
+        "video_list": [
+            "videos_t2v/construction site-0.mp4",
+            "videos_t2v/construction site-1.mp4",
+            "videos_t2v/construction site-2.mp4",
+            "videos_t2v/construction site-3.mp4",
+            "videos_t2v/construction site-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "corridor",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "corridor"
+                }
+            }
+        },
+        "video_list": [
+            "videos_t2v/corridor-0.mp4",
+            "videos_t2v/corridor-1.mp4",
+            "videos_t2v/corridor-2.mp4",
+            "videos_t2v/corridor-3.mp4",
+            "videos_t2v/corridor-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "courtyard",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "courtyard"
+                }
+            }
+        },
+        "video_list": [
+            "videos_t2v/courtyard-0.mp4",
+            "videos_t2v/courtyard-1.mp4",
+            "videos_t2v/courtyard-2.mp4",
+            "videos_t2v/courtyard-3.mp4",
+            "videos_t2v/courtyard-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "desert",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "desert"
+                }
+            }
+        },
+        "video_list": [
+            "videos_t2v/desert-0.mp4",
+            "videos_t2v/desert-1.mp4",
+            "videos_t2v/desert-2.mp4",
+            "videos_t2v/desert-3.mp4",
+            "videos_t2v/desert-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "downtown",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "downtown"
+                }
+            }
+        },
+        "video_list": [
+            "videos_t2v/downtown-0.mp4",
+            "videos_t2v/downtown-1.mp4",
+            "videos_t2v/downtown-2.mp4",
+            "videos_t2v/downtown-3.mp4",
+            "videos_t2v/downtown-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "driveway",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "driveway"
+                }
+            }
+        },
+        "video_list": [
+            "videos_t2v/driveway-0.mp4",
+            "videos_t2v/driveway-1.mp4",
+            "videos_t2v/driveway-2.mp4",
+            "videos_t2v/driveway-3.mp4",
+            "videos_t2v/driveway-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "farm",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "farm"
+                }
+            }
+        },
+        "video_list": [
+            "videos_t2v/farm-0.mp4",
+            "videos_t2v/farm-1.mp4",
+            "videos_t2v/farm-2.mp4",
+            "videos_t2v/farm-3.mp4",
+            "videos_t2v/farm-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "food court",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "food court"
+                }
+            }
+        },
+        "video_list": [
+            "videos_t2v/food court-0.mp4",
+            "videos_t2v/food court-1.mp4",
+            "videos_t2v/food court-2.mp4",
+            "videos_t2v/food court-3.mp4",
+            "videos_t2v/food court-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "football field",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "football field"
+                }
+            }
+        },
+        "video_list": [
+            "videos_t2v/football field-0.mp4",
+            "videos_t2v/football field-1.mp4",
+            "videos_t2v/football field-2.mp4",
+            "videos_t2v/football field-3.mp4",
+            "videos_t2v/football field-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "forest road",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "forest road"
+                }
+            }
+        },
+        "video_list": [
+            "videos_t2v/forest road-0.mp4",
+            "videos_t2v/forest road-1.mp4",
+            "videos_t2v/forest road-2.mp4",
+            "videos_t2v/forest road-3.mp4",
+            "videos_t2v/forest road-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "fountain",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "fountain"
+                }
+            }
+        },
+        "video_list": [
+            "videos_t2v/fountain-0.mp4",
+            "videos_t2v/fountain-1.mp4",
+            "videos_t2v/fountain-2.mp4",
+            "videos_t2v/fountain-3.mp4",
+            "videos_t2v/fountain-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "gas station",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "gas station"
+                }
+            }
+        },
+        "video_list": [
+            "videos_t2v/gas station-0.mp4",
+            "videos_t2v/gas station-1.mp4",
+            "videos_t2v/gas station-2.mp4",
+            "videos_t2v/gas station-3.mp4",
+            "videos_t2v/gas station-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "glacier",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "glacier"
+                }
+            }
+        },
+        "video_list": [
+            "videos_t2v/glacier-0.mp4",
+            "videos_t2v/glacier-1.mp4",
+            "videos_t2v/glacier-2.mp4",
+            "videos_t2v/glacier-3.mp4",
+            "videos_t2v/glacier-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "golf course",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "golf course"
+                }
+            }
+        },
+        "video_list": [
+            "videos_t2v/golf course-0.mp4",
+            "videos_t2v/golf course-1.mp4",
+            "videos_t2v/golf course-2.mp4",
+            "videos_t2v/golf course-3.mp4",
+            "videos_t2v/golf course-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "indoor gymnasium",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "indoor gymnasium"
+                }
+            }
+        },
+        "video_list": [
+            "videos_t2v/indoor gymnasium-0.mp4",
+            "videos_t2v/indoor gymnasium-1.mp4",
+            "videos_t2v/indoor gymnasium-2.mp4",
+            "videos_t2v/indoor gymnasium-3.mp4",
+            "videos_t2v/indoor gymnasium-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "harbor",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "harbor"
+                }
+            }
+        },
+        "video_list": [
+            "videos_t2v/harbor-0.mp4",
+            "videos_t2v/harbor-1.mp4",
+            "videos_t2v/harbor-2.mp4",
+            "videos_t2v/harbor-3.mp4",
+            "videos_t2v/harbor-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "highway",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "highway"
+                }
+            }
+        },
+        "video_list": [
+            "videos_t2v/highway-0.mp4",
+            "videos_t2v/highway-1.mp4",
+            "videos_t2v/highway-2.mp4",
+            "videos_t2v/highway-3.mp4",
+            "videos_t2v/highway-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "hospital",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "hospital"
+                }
+            }
+        },
+        "video_list": [
+            "videos_t2v/hospital-0.mp4",
+            "videos_t2v/hospital-1.mp4",
+            "videos_t2v/hospital-2.mp4",
+            "videos_t2v/hospital-3.mp4",
+            "videos_t2v/hospital-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "house",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "house"
+                }
+            }
+        },
+        "video_list": [
+            "videos_t2v/house-0.mp4",
+            "videos_t2v/house-1.mp4",
+            "videos_t2v/house-2.mp4",
+            "videos_t2v/house-3.mp4",
+            "videos_t2v/house-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "iceberg",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "iceberg"
+                }
+            }
+        },
+        "video_list": [
+            "videos_t2v/iceberg-0.mp4",
+            "videos_t2v/iceberg-1.mp4",
+            "videos_t2v/iceberg-2.mp4",
+            "videos_t2v/iceberg-3.mp4",
+            "videos_t2v/iceberg-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "industrial area",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "industrial area"
+                }
+            }
+        },
+        "video_list": [
+            "videos_t2v/industrial area-0.mp4",
+            "videos_t2v/industrial area-1.mp4",
+            "videos_t2v/industrial area-2.mp4",
+            "videos_t2v/industrial area-3.mp4",
+            "videos_t2v/industrial area-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "jail cell",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "jail cell"
+                }
+            }
+        },
+        "video_list": [
+            "videos_t2v/jail cell-0.mp4",
+            "videos_t2v/jail cell-1.mp4",
+            "videos_t2v/jail cell-2.mp4",
+            "videos_t2v/jail cell-3.mp4",
+            "videos_t2v/jail cell-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "junkyard",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "junkyard"
+                }
+            }
+        },
+        "video_list": [
+            "videos_t2v/junkyard-0.mp4",
+            "videos_t2v/junkyard-1.mp4",
+            "videos_t2v/junkyard-2.mp4",
+            "videos_t2v/junkyard-3.mp4",
+            "videos_t2v/junkyard-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "kitchen",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "kitchen"
+                }
+            }
+        },
+        "video_list": [
+            "videos_t2v/kitchen-0.mp4",
+            "videos_t2v/kitchen-1.mp4",
+            "videos_t2v/kitchen-2.mp4",
+            "videos_t2v/kitchen-3.mp4",
+            "videos_t2v/kitchen-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "indoor library",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "indoor library"
+                }
+            }
+        },
+        "video_list": [
+            "videos_t2v/indoor library-0.mp4",
+            "videos_t2v/indoor library-1.mp4",
+            "videos_t2v/indoor library-2.mp4",
+            "videos_t2v/indoor library-3.mp4",
+            "videos_t2v/indoor library-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "lighthouse",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "lighthouse"
+                }
+            }
+        },
+        "video_list": [
+            "videos_t2v/lighthouse-0.mp4",
+            "videos_t2v/lighthouse-1.mp4",
+            "videos_t2v/lighthouse-2.mp4",
+            "videos_t2v/lighthouse-3.mp4",
+            "videos_t2v/lighthouse-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "laboratory",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "laboratory"
+                }
+            }
+        },
+        "video_list": [
+            "videos_t2v/laboratory-0.mp4",
+            "videos_t2v/laboratory-1.mp4",
+            "videos_t2v/laboratory-2.mp4",
+            "videos_t2v/laboratory-3.mp4",
+            "videos_t2v/laboratory-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "mansion",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "mansion"
+                }
+            }
+        },
+        "video_list": [
+            "videos_t2v/mansion-0.mp4",
+            "videos_t2v/mansion-1.mp4",
+            "videos_t2v/mansion-2.mp4",
+            "videos_t2v/mansion-3.mp4",
+            "videos_t2v/mansion-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "marsh",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "marsh"
+                }
+            }
+        },
+        "video_list": [
+            "videos_t2v/marsh-0.mp4",
+            "videos_t2v/marsh-1.mp4",
+            "videos_t2v/marsh-2.mp4",
+            "videos_t2v/marsh-3.mp4",
+            "videos_t2v/marsh-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "mountain",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "mountain"
+                }
+            }
+        },
+        "video_list": [
+            "videos_t2v/mountain-0.mp4",
+            "videos_t2v/mountain-1.mp4",
+            "videos_t2v/mountain-2.mp4",
+            "videos_t2v/mountain-3.mp4",
+            "videos_t2v/mountain-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "indoor movie theater",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "indoor movie theater"
+                }
+            }
+        },
+        "video_list": [
+            "videos_t2v/indoor movie theater-0.mp4",
+            "videos_t2v/indoor movie theater-1.mp4",
+            "videos_t2v/indoor movie theater-2.mp4",
+            "videos_t2v/indoor movie theater-3.mp4",
+            "videos_t2v/indoor movie theater-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "indoor museum",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "indoor museum"
+                }
+            }
+        },
+        "video_list": [
+            "videos_t2v/indoor museum-0.mp4",
+            "videos_t2v/indoor museum-1.mp4",
+            "videos_t2v/indoor museum-2.mp4",
+            "videos_t2v/indoor museum-3.mp4",
+            "videos_t2v/indoor museum-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "music studio",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "music studio"
+                }
+            }
+        },
+        "video_list": [
+            "videos_t2v/music studio-0.mp4",
+            "videos_t2v/music studio-1.mp4",
+            "videos_t2v/music studio-2.mp4",
+            "videos_t2v/music studio-3.mp4",
+            "videos_t2v/music studio-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "nursery",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "nursery"
+                }
+            }
+        },
+        "video_list": [
+            "videos_t2v/nursery-0.mp4",
+            "videos_t2v/nursery-1.mp4",
+            "videos_t2v/nursery-2.mp4",
+            "videos_t2v/nursery-3.mp4",
+            "videos_t2v/nursery-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "ocean",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "ocean"
+                }
+            }
+        },
+        "video_list": [
+            "videos_t2v/ocean-0.mp4",
+            "videos_t2v/ocean-1.mp4",
+            "videos_t2v/ocean-2.mp4",
+            "videos_t2v/ocean-3.mp4",
+            "videos_t2v/ocean-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "office",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "office"
+                }
+            }
+        },
+        "video_list": [
+            "videos_t2v/office-0.mp4",
+            "videos_t2v/office-1.mp4",
+            "videos_t2v/office-2.mp4",
+            "videos_t2v/office-3.mp4",
+            "videos_t2v/office-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "palace",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "palace"
+                }
+            }
+        },
+        "video_list": [
+            "videos_t2v/palace-0.mp4",
+            "videos_t2v/palace-1.mp4",
+            "videos_t2v/palace-2.mp4",
+            "videos_t2v/palace-3.mp4",
+            "videos_t2v/palace-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "parking lot",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "parking lot"
+                }
+            }
+        },
+        "video_list": [
+            "videos_t2v/parking lot-0.mp4",
+            "videos_t2v/parking lot-1.mp4",
+            "videos_t2v/parking lot-2.mp4",
+            "videos_t2v/parking lot-3.mp4",
+            "videos_t2v/parking lot-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "pharmacy",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "pharmacy"
+                }
+            }
+        },
+        "video_list": [
+            "videos_t2v/pharmacy-0.mp4",
+            "videos_t2v/pharmacy-1.mp4",
+            "videos_t2v/pharmacy-2.mp4",
+            "videos_t2v/pharmacy-3.mp4",
+            "videos_t2v/pharmacy-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "phone booth",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "phone booth"
+                }
+            }
+        },
+        "video_list": [
+            "videos_t2v/phone booth-0.mp4",
+            "videos_t2v/phone booth-1.mp4",
+            "videos_t2v/phone booth-2.mp4",
+            "videos_t2v/phone booth-3.mp4",
+            "videos_t2v/phone booth-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "raceway",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "raceway"
+                }
+            }
+        },
+        "video_list": [
+            "videos_t2v/raceway-0.mp4",
+            "videos_t2v/raceway-1.mp4",
+            "videos_t2v/raceway-2.mp4",
+            "videos_t2v/raceway-3.mp4",
+            "videos_t2v/raceway-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "restaurant",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "restaurant"
+                }
+            }
+        },
+        "video_list": [
+            "videos_t2v/restaurant-0.mp4",
+            "videos_t2v/restaurant-1.mp4",
+            "videos_t2v/restaurant-2.mp4",
+            "videos_t2v/restaurant-3.mp4",
+            "videos_t2v/restaurant-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "river",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "river"
+                }
+            }
+        },
+        "video_list": [
+            "videos_t2v/river-0.mp4",
+            "videos_t2v/river-1.mp4",
+            "videos_t2v/river-2.mp4",
+            "videos_t2v/river-3.mp4",
+            "videos_t2v/river-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "science museum",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "science museum"
+                }
+            }
+        },
+        "video_list": [
+            "videos_t2v/science museum-0.mp4",
+            "videos_t2v/science museum-1.mp4",
+            "videos_t2v/science museum-2.mp4",
+            "videos_t2v/science museum-3.mp4",
+            "videos_t2v/science museum-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "shower",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "shower"
+                }
+            }
+        },
+        "video_list": [
+            "videos_t2v/shower-0.mp4",
+            "videos_t2v/shower-1.mp4",
+            "videos_t2v/shower-2.mp4",
+            "videos_t2v/shower-3.mp4",
+            "videos_t2v/shower-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "ski slope",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "ski slope"
+                }
+            }
+        },
+        "video_list": [
+            "videos_t2v/ski slope-0.mp4",
+            "videos_t2v/ski slope-1.mp4",
+            "videos_t2v/ski slope-2.mp4",
+            "videos_t2v/ski slope-3.mp4",
+            "videos_t2v/ski slope-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "sky",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "sky"
+                }
+            }
+        },
+        "video_list": [
+            "videos_t2v/sky-0.mp4",
+            "videos_t2v/sky-1.mp4",
+            "videos_t2v/sky-2.mp4",
+            "videos_t2v/sky-3.mp4",
+            "videos_t2v/sky-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "skyscraper",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "skyscraper"
+                }
+            }
+        },
+        "video_list": [
+            "videos_t2v/skyscraper-0.mp4",
+            "videos_t2v/skyscraper-1.mp4",
+            "videos_t2v/skyscraper-2.mp4",
+            "videos_t2v/skyscraper-3.mp4",
+            "videos_t2v/skyscraper-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "baseball stadium",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "baseball stadium"
+                }
+            }
+        },
+        "video_list": [
+            "videos_t2v/baseball stadium-0.mp4",
+            "videos_t2v/baseball stadium-1.mp4",
+            "videos_t2v/baseball stadium-2.mp4",
+            "videos_t2v/baseball stadium-3.mp4",
+            "videos_t2v/baseball stadium-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "staircase",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "staircase"
+                }
+            }
+        },
+        "video_list": [
+            "videos_t2v/staircase-0.mp4",
+            "videos_t2v/staircase-1.mp4",
+            "videos_t2v/staircase-2.mp4",
+            "videos_t2v/staircase-3.mp4",
+            "videos_t2v/staircase-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "street",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "street"
+                }
+            }
+        },
+        "video_list": [
+            "videos_t2v/street-0.mp4",
+            "videos_t2v/street-1.mp4",
+            "videos_t2v/street-2.mp4",
+            "videos_t2v/street-3.mp4",
+            "videos_t2v/street-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "supermarket",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "supermarket"
+                }
+            }
+        },
+        "video_list": [
+            "videos_t2v/supermarket-0.mp4",
+            "videos_t2v/supermarket-1.mp4",
+            "videos_t2v/supermarket-2.mp4",
+            "videos_t2v/supermarket-3.mp4",
+            "videos_t2v/supermarket-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "indoor swimming pool",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "indoor swimming pool"
+                }
+            }
+        },
+        "video_list": [
+            "videos_t2v/indoor swimming pool-0.mp4",
+            "videos_t2v/indoor swimming pool-1.mp4",
+            "videos_t2v/indoor swimming pool-2.mp4",
+            "videos_t2v/indoor swimming pool-3.mp4",
+            "videos_t2v/indoor swimming pool-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "tower",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "tower"
+                }
+            }
+        },
+        "video_list": [
+            "videos_t2v/tower-0.mp4",
+            "videos_t2v/tower-1.mp4",
+            "videos_t2v/tower-2.mp4",
+            "videos_t2v/tower-3.mp4",
+            "videos_t2v/tower-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "outdoor track",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "outdoor track"
+                }
+            }
+        },
+        "video_list": [
+            "videos_t2v/outdoor track-0.mp4",
+            "videos_t2v/outdoor track-1.mp4",
+            "videos_t2v/outdoor track-2.mp4",
+            "videos_t2v/outdoor track-3.mp4",
+            "videos_t2v/outdoor track-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "train railway",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "train railway"
+                }
+            }
+        },
+        "video_list": [
+            "videos_t2v/train railway-0.mp4",
+            "videos_t2v/train railway-1.mp4",
+            "videos_t2v/train railway-2.mp4",
+            "videos_t2v/train railway-3.mp4",
+            "videos_t2v/train railway-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "train station platform",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "train station platform"
+                }
+            }
+        },
+        "video_list": [
+            "videos_t2v/train station platform-0.mp4",
+            "videos_t2v/train station platform-1.mp4",
+            "videos_t2v/train station platform-2.mp4",
+            "videos_t2v/train station platform-3.mp4",
+            "videos_t2v/train station platform-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "underwater coral reef",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "underwater coral reef"
+                }
+            }
+        },
+        "video_list": [
+            "videos_t2v/underwater coral reef-0.mp4",
+            "videos_t2v/underwater coral reef-1.mp4",
+            "videos_t2v/underwater coral reef-2.mp4",
+            "videos_t2v/underwater coral reef-3.mp4",
+            "videos_t2v/underwater coral reef-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "valley",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "valley"
+                }
+            }
+        },
+        "video_list": [
+            "videos_t2v/valley-0.mp4",
+            "videos_t2v/valley-1.mp4",
+            "videos_t2v/valley-2.mp4",
+            "videos_t2v/valley-3.mp4",
+            "videos_t2v/valley-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "volcano",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "volcano"
+                }
+            }
+        },
+        "video_list": [
+            "videos_t2v/volcano-0.mp4",
+            "videos_t2v/volcano-1.mp4",
+            "videos_t2v/volcano-2.mp4",
+            "videos_t2v/volcano-3.mp4",
+            "videos_t2v/volcano-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "waterfall",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "waterfall"
+                }
+            }
+        },
+        "video_list": [
+            "videos_t2v/waterfall-0.mp4",
+            "videos_t2v/waterfall-1.mp4",
+            "videos_t2v/waterfall-2.mp4",
+            "videos_t2v/waterfall-3.mp4",
+            "videos_t2v/waterfall-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "windmill",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "windmill"
+                }
+            }
+        },
+        "video_list": [
+            "videos_t2v/windmill-0.mp4",
+            "videos_t2v/windmill-1.mp4",
+            "videos_t2v/windmill-2.mp4",
+            "videos_t2v/windmill-3.mp4",
+            "videos_t2v/windmill-4.mp4"
+        ]
+    }
+]

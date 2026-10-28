@@ -1,0 +1,1424 @@
+[
+    {
+        "prompt_en": "a person",
+        "dimension": [
+            "object_class"
+        ],
+        "auxiliary_info": {
+            "object_class": {
+                "object": "person"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a person-0.mp4",
+            "videos_t2v/a person-1.mp4",
+            "videos_t2v/a person-2.mp4",
+            "videos_t2v/a person-3.mp4",
+            "videos_t2v/a person-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a bicycle",
+        "dimension": [
+            "object_class"
+        ],
+        "auxiliary_info": {
+            "object_class": {
+                "object": "bicycle"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a bicycle-0.mp4",
+            "videos_t2v/a bicycle-1.mp4",
+            "videos_t2v/a bicycle-2.mp4",
+            "videos_t2v/a bicycle-3.mp4",
+            "videos_t2v/a bicycle-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a car",
+        "dimension": [
+            "object_class"
+        ],
+        "auxiliary_info": {
+            "object_class": {
+                "object": "car"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a car-0.mp4",
+            "videos_t2v/a car-1.mp4",
+            "videos_t2v/a car-2.mp4",
+            "videos_t2v/a car-3.mp4",
+            "videos_t2v/a car-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a motorcycle",
+        "dimension": [
+            "object_class"
+        ],
+        "auxiliary_info": {
+            "object_class": {
+                "object": "motorcycle"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a motorcycle-0.mp4",
+            "videos_t2v/a motorcycle-1.mp4",
+            "videos_t2v/a motorcycle-2.mp4",
+            "videos_t2v/a motorcycle-3.mp4",
+            "videos_t2v/a motorcycle-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "an airplane",
+        "dimension": [
+            "object_class"
+        ],
+        "auxiliary_info": {
+            "object_class": {
+                "object": "airplane"
+            }
+        },
+        "video_list": [
+            "videos_t2v/an airplane-0.mp4",
+            "videos_t2v/an airplane-1.mp4",
+            "videos_t2v/an airplane-2.mp4",
+            "videos_t2v/an airplane-3.mp4",
+            "videos_t2v/an airplane-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a bus",
+        "dimension": [
+            "object_class"
+        ],
+        "auxiliary_info": {
+            "object_class": {
+                "object": "bus"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a bus-0.mp4",
+            "videos_t2v/a bus-1.mp4",
+            "videos_t2v/a bus-2.mp4",
+            "videos_t2v/a bus-3.mp4",
+            "videos_t2v/a bus-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a train",
+        "dimension": [
+            "object_class"
+        ],
+        "auxiliary_info": {
+            "object_class": {
+                "object": "train"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a train-0.mp4",
+            "videos_t2v/a train-1.mp4",
+            "videos_t2v/a train-2.mp4",
+            "videos_t2v/a train-3.mp4",
+            "videos_t2v/a train-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a truck",
+        "dimension": [
+            "object_class"
+        ],
+        "auxiliary_info": {
+            "object_class": {
+                "object": "truck"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a truck-0.mp4",
+            "videos_t2v/a truck-1.mp4",
+            "videos_t2v/a truck-2.mp4",
+            "videos_t2v/a truck-3.mp4",
+            "videos_t2v/a truck-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a boat",
+        "dimension": [
+            "object_class"
+        ],
+        "auxiliary_info": {
+            "object_class": {
+                "object": "boat"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a boat-0.mp4",
+            "videos_t2v/a boat-1.mp4",
+            "videos_t2v/a boat-2.mp4",
+            "videos_t2v/a boat-3.mp4",
+            "videos_t2v/a boat-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a traffic light",
+        "dimension": [
+            "object_class"
+        ],
+        "auxiliary_info": {
+            "object_class": {
+                "object": "traffic light"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a traffic light-0.mp4",
+            "videos_t2v/a traffic light-1.mp4",
+            "videos_t2v/a traffic light-2.mp4",
+            "videos_t2v/a traffic light-3.mp4",
+            "videos_t2v/a traffic light-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a fire hydrant",
+        "dimension": [
+            "object_class"
+        ],
+        "auxiliary_info": {
+            "object_class": {
+                "object": "fire hydrant"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a fire hydrant-0.mp4",
+            "videos_t2v/a fire hydrant-1.mp4",
+            "videos_t2v/a fire hydrant-2.mp4",
+            "videos_t2v/a fire hydrant-3.mp4",
+            "videos_t2v/a fire hydrant-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a stop sign",
+        "dimension": [
+            "object_class"
+        ],
+        "auxiliary_info": {
+            "object_class": {
+                "object": "stop sign"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a stop sign-0.mp4",
+            "videos_t2v/a stop sign-1.mp4",
+            "videos_t2v/a stop sign-2.mp4",
+            "videos_t2v/a stop sign-3.mp4",
+            "videos_t2v/a stop sign-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a parking meter",
+        "dimension": [
+            "object_class"
+        ],
+        "auxiliary_info": {
+            "object_class": {
+                "object": "parking meter"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a parking meter-0.mp4",
+            "videos_t2v/a parking meter-1.mp4",
+            "videos_t2v/a parking meter-2.mp4",
+            "videos_t2v/a parking meter-3.mp4",
+            "videos_t2v/a parking meter-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a bench",
+        "dimension": [
+            "object_class"
+        ],
+        "auxiliary_info": {
+            "object_class": {
+                "object": "bench"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a bench-0.mp4",
+            "videos_t2v/a bench-1.mp4",
+            "videos_t2v/a bench-2.mp4",
+            "videos_t2v/a bench-3.mp4",
+            "videos_t2v/a bench-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a bird",
+        "dimension": [
+            "object_class"
+        ],
+        "auxiliary_info": {
+            "object_class": {
+                "object": "bird"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a bird-0.mp4",
+            "videos_t2v/a bird-1.mp4",
+            "videos_t2v/a bird-2.mp4",
+            "videos_t2v/a bird-3.mp4",
+            "videos_t2v/a bird-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a cat",
+        "dimension": [
+            "object_class"
+        ],
+        "auxiliary_info": {
+            "object_class": {
+                "object": "cat"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a cat-0.mp4",
+            "videos_t2v/a cat-1.mp4",
+            "videos_t2v/a cat-2.mp4",
+            "videos_t2v/a cat-3.mp4",
+            "videos_t2v/a cat-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a dog",
+        "dimension": [
+            "object_class"
+        ],
+        "auxiliary_info": {
+            "object_class": {
+                "object": "dog"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a dog-0.mp4",
+            "videos_t2v/a dog-1.mp4",
+            "videos_t2v/a dog-2.mp4",
+            "videos_t2v/a dog-3.mp4",
+            "videos_t2v/a dog-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a horse",
+        "dimension": [
+            "object_class"
+        ],
+        "auxiliary_info": {
+            "object_class": {
+                "object": "horse"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a horse-0.mp4",
+            "videos_t2v/a horse-1.mp4",
+            "videos_t2v/a horse-2.mp4",
+            "videos_t2v/a horse-3.mp4",
+            "videos_t2v/a horse-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a sheep",
+        "dimension": [
+            "object_class"
+        ],
+        "auxiliary_info": {
+            "object_class": {
+                "object": "sheep"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a sheep-0.mp4",
+            "videos_t2v/a sheep-1.mp4",
+            "videos_t2v/a sheep-2.mp4",
+            "videos_t2v/a sheep-3.mp4",
+            "videos_t2v/a sheep-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a cow",
+        "dimension": [
+            "object_class"
+        ],
+        "auxiliary_info": {
+            "object_class": {
+                "object": "cow"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a cow-0.mp4",
+            "videos_t2v/a cow-1.mp4",
+            "videos_t2v/a cow-2.mp4",
+            "videos_t2v/a cow-3.mp4",
+            "videos_t2v/a cow-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "an elephant",
+        "dimension": [
+            "object_class"
+        ],
+        "auxiliary_info": {
+            "object_class": {
+                "object": "elephant"
+            }
+        },
+        "video_list": [
+            "videos_t2v/an elephant-0.mp4",
+            "videos_t2v/an elephant-1.mp4",
+            "videos_t2v/an elephant-2.mp4",
+            "videos_t2v/an elephant-3.mp4",
+            "videos_t2v/an elephant-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a bear",
+        "dimension": [
+            "object_class"
+        ],
+        "auxiliary_info": {
+            "object_class": {
+                "object": "bear"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a bear-0.mp4",
+            "videos_t2v/a bear-1.mp4",
+            "videos_t2v/a bear-2.mp4",
+            "videos_t2v/a bear-3.mp4",
+            "videos_t2v/a bear-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a zebra",
+        "dimension": [
+            "object_class"
+        ],
+        "auxiliary_info": {
+            "object_class": {
+                "object": "zebra"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a zebra-0.mp4",
+            "videos_t2v/a zebra-1.mp4",
+            "videos_t2v/a zebra-2.mp4",
+            "videos_t2v/a zebra-3.mp4",
+            "videos_t2v/a zebra-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a giraffe",
+        "dimension": [
+            "object_class"
+        ],
+        "auxiliary_info": {
+            "object_class": {
+                "object": "giraffe"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a giraffe-0.mp4",
+            "videos_t2v/a giraffe-1.mp4",
+            "videos_t2v/a giraffe-2.mp4",
+            "videos_t2v/a giraffe-3.mp4",
+            "videos_t2v/a giraffe-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a backpack",
+        "dimension": [
+            "object_class"
+        ],
+        "auxiliary_info": {
+            "object_class": {
+                "object": "backpack"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a backpack-0.mp4",
+            "videos_t2v/a backpack-1.mp4",
+            "videos_t2v/a backpack-2.mp4",
+            "videos_t2v/a backpack-3.mp4",
+            "videos_t2v/a backpack-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "an umbrella",
+        "dimension": [
+            "object_class"
+        ],
+        "auxiliary_info": {
+            "object_class": {
+                "object": "umbrella"
+            }
+        },
+        "video_list": [
+            "videos_t2v/an umbrella-0.mp4",
+            "videos_t2v/an umbrella-1.mp4",
+            "videos_t2v/an umbrella-2.mp4",
+            "videos_t2v/an umbrella-3.mp4",
+            "videos_t2v/an umbrella-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a handbag",
+        "dimension": [
+            "object_class"
+        ],
+        "auxiliary_info": {
+            "object_class": {
+                "object": "handbag"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a handbag-0.mp4",
+            "videos_t2v/a handbag-1.mp4",
+            "videos_t2v/a handbag-2.mp4",
+            "videos_t2v/a handbag-3.mp4",
+            "videos_t2v/a handbag-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a tie",
+        "dimension": [
+            "object_class"
+        ],
+        "auxiliary_info": {
+            "object_class": {
+                "object": "tie"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a tie-0.mp4",
+            "videos_t2v/a tie-1.mp4",
+            "videos_t2v/a tie-2.mp4",
+            "videos_t2v/a tie-3.mp4",
+            "videos_t2v/a tie-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a suitcase",
+        "dimension": [
+            "object_class"
+        ],
+        "auxiliary_info": {
+            "object_class": {
+                "object": "suitcase"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a suitcase-0.mp4",
+            "videos_t2v/a suitcase-1.mp4",
+            "videos_t2v/a suitcase-2.mp4",
+            "videos_t2v/a suitcase-3.mp4",
+            "videos_t2v/a suitcase-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a frisbee",
+        "dimension": [
+            "object_class"
+        ],
+        "auxiliary_info": {
+            "object_class": {
+                "object": "frisbee"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a frisbee-0.mp4",
+            "videos_t2v/a frisbee-1.mp4",
+            "videos_t2v/a frisbee-2.mp4",
+            "videos_t2v/a frisbee-3.mp4",
+            "videos_t2v/a frisbee-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "skis",
+        "dimension": [
+            "object_class"
+        ],
+        "auxiliary_info": {
+            "object_class": {
+                "object": "skis"
+            }
+        },
+        "video_list": [
+            "videos_t2v/skis-0.mp4",
+            "videos_t2v/skis-1.mp4",
+            "videos_t2v/skis-2.mp4",
+            "videos_t2v/skis-3.mp4",
+            "videos_t2v/skis-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a snowboard",
+        "dimension": [
+            "object_class"
+        ],
+        "auxiliary_info": {
+            "object_class": {
+                "object": "snowboard"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a snowboard-0.mp4",
+            "videos_t2v/a snowboard-1.mp4",
+            "videos_t2v/a snowboard-2.mp4",
+            "videos_t2v/a snowboard-3.mp4",
+            "videos_t2v/a snowboard-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a sports ball",
+        "dimension": [
+            "object_class"
+        ],
+        "auxiliary_info": {
+            "object_class": {
+                "object": "sports ball"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a sports ball-0.mp4",
+            "videos_t2v/a sports ball-1.mp4",
+            "videos_t2v/a sports ball-2.mp4",
+            "videos_t2v/a sports ball-3.mp4",
+            "videos_t2v/a sports ball-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a kite",
+        "dimension": [
+            "object_class"
+        ],
+        "auxiliary_info": {
+            "object_class": {
+                "object": "kite"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a kite-0.mp4",
+            "videos_t2v/a kite-1.mp4",
+            "videos_t2v/a kite-2.mp4",
+            "videos_t2v/a kite-3.mp4",
+            "videos_t2v/a kite-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a baseball bat",
+        "dimension": [
+            "object_class"
+        ],
+        "auxiliary_info": {
+            "object_class": {
+                "object": "baseball bat"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a baseball bat-0.mp4",
+            "videos_t2v/a baseball bat-1.mp4",
+            "videos_t2v/a baseball bat-2.mp4",
+            "videos_t2v/a baseball bat-3.mp4",
+            "videos_t2v/a baseball bat-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a baseball glove",
+        "dimension": [
+            "object_class"
+        ],
+        "auxiliary_info": {
+            "object_class": {
+                "object": "baseball glove"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a baseball glove-0.mp4",
+            "videos_t2v/a baseball glove-1.mp4",
+            "videos_t2v/a baseball glove-2.mp4",
+            "videos_t2v/a baseball glove-3.mp4",
+            "videos_t2v/a baseball glove-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a skateboard",
+        "dimension": [
+            "object_class"
+        ],
+        "auxiliary_info": {
+            "object_class": {
+                "object": "skateboard"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a skateboard-0.mp4",
+            "videos_t2v/a skateboard-1.mp4",
+            "videos_t2v/a skateboard-2.mp4",
+            "videos_t2v/a skateboard-3.mp4",
+            "videos_t2v/a skateboard-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a surfboard",
+        "dimension": [
+            "object_class"
+        ],
+        "auxiliary_info": {
+            "object_class": {
+                "object": "surfboard"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a surfboard-0.mp4",
+            "videos_t2v/a surfboard-1.mp4",
+            "videos_t2v/a surfboard-2.mp4",
+            "videos_t2v/a surfboard-3.mp4",
+            "videos_t2v/a surfboard-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a tennis racket",
+        "dimension": [
+            "object_class"
+        ],
+        "auxiliary_info": {
+            "object_class": {
+                "object": "tennis racket"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a tennis racket-0.mp4",
+            "videos_t2v/a tennis racket-1.mp4",
+            "videos_t2v/a tennis racket-2.mp4",
+            "videos_t2v/a tennis racket-3.mp4",
+            "videos_t2v/a tennis racket-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a bottle",
+        "dimension": [
+            "object_class"
+        ],
+        "auxiliary_info": {
+            "object_class": {
+                "object": "bottle"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a bottle-0.mp4",
+            "videos_t2v/a bottle-1.mp4",
+            "videos_t2v/a bottle-2.mp4",
+            "videos_t2v/a bottle-3.mp4",
+            "videos_t2v/a bottle-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a wine glass",
+        "dimension": [
+            "object_class"
+        ],
+        "auxiliary_info": {
+            "object_class": {
+                "object": "wine glass"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a wine glass-0.mp4",
+            "videos_t2v/a wine glass-1.mp4",
+            "videos_t2v/a wine glass-2.mp4",
+            "videos_t2v/a wine glass-3.mp4",
+            "videos_t2v/a wine glass-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a cup",
+        "dimension": [
+            "object_class"
+        ],
+        "auxiliary_info": {
+            "object_class": {
+                "object": "cup"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a cup-0.mp4",
+            "videos_t2v/a cup-1.mp4",
+            "videos_t2v/a cup-2.mp4",
+            "videos_t2v/a cup-3.mp4",
+            "videos_t2v/a cup-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a fork",
+        "dimension": [
+            "object_class"
+        ],
+        "auxiliary_info": {
+            "object_class": {
+                "object": "fork"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a fork-0.mp4",
+            "videos_t2v/a fork-1.mp4",
+            "videos_t2v/a fork-2.mp4",
+            "videos_t2v/a fork-3.mp4",
+            "videos_t2v/a fork-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a knife",
+        "dimension": [
+            "object_class"
+        ],
+        "auxiliary_info": {
+            "object_class": {
+                "object": "knife"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a knife-0.mp4",
+            "videos_t2v/a knife-1.mp4",
+            "videos_t2v/a knife-2.mp4",
+            "videos_t2v/a knife-3.mp4",
+            "videos_t2v/a knife-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a spoon",
+        "dimension": [
+            "object_class"
+        ],
+        "auxiliary_info": {
+            "object_class": {
+                "object": "spoon"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a spoon-0.mp4",
+            "videos_t2v/a spoon-1.mp4",
+            "videos_t2v/a spoon-2.mp4",
+            "videos_t2v/a spoon-3.mp4",
+            "videos_t2v/a spoon-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a bowl",
+        "dimension": [
+            "object_class"
+        ],
+        "auxiliary_info": {
+            "object_class": {
+                "object": "bowl"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a bowl-0.mp4",
+            "videos_t2v/a bowl-1.mp4",
+            "videos_t2v/a bowl-2.mp4",
+            "videos_t2v/a bowl-3.mp4",
+            "videos_t2v/a bowl-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a banana",
+        "dimension": [
+            "object_class"
+        ],
+        "auxiliary_info": {
+            "object_class": {
+                "object": "banana"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a banana-0.mp4",
+            "videos_t2v/a banana-1.mp4",
+            "videos_t2v/a banana-2.mp4",
+            "videos_t2v/a banana-3.mp4",
+            "videos_t2v/a banana-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "an apple",
+        "dimension": [
+            "object_class"
+        ],
+        "auxiliary_info": {
+            "object_class": {
+                "object": "apple"
+            }
+        },
+        "video_list": [
+            "videos_t2v/an apple-0.mp4",
+            "videos_t2v/an apple-1.mp4",
+            "videos_t2v/an apple-2.mp4",
+            "videos_t2v/an apple-3.mp4",
+            "videos_t2v/an apple-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a sandwich",
+        "dimension": [
+            "object_class"
+        ],
+        "auxiliary_info": {
+            "object_class": {
+                "object": "sandwich"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a sandwich-0.mp4",
+            "videos_t2v/a sandwich-1.mp4",
+            "videos_t2v/a sandwich-2.mp4",
+            "videos_t2v/a sandwich-3.mp4",
+            "videos_t2v/a sandwich-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "an orange",
+        "dimension": [
+            "object_class"
+        ],
+        "auxiliary_info": {
+            "object_class": {
+                "object": "orange"
+            }
+        },
+        "video_list": [
+            "videos_t2v/an orange-0.mp4",
+            "videos_t2v/an orange-1.mp4",
+            "videos_t2v/an orange-2.mp4",
+            "videos_t2v/an orange-3.mp4",
+            "videos_t2v/an orange-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "broccoli",
+        "dimension": [
+            "object_class"
+        ],
+        "auxiliary_info": {
+            "object_class": {
+                "object": "broccoli"
+            }
+        },
+        "video_list": [
+            "videos_t2v/broccoli-0.mp4",
+            "videos_t2v/broccoli-1.mp4",
+            "videos_t2v/broccoli-2.mp4",
+            "videos_t2v/broccoli-3.mp4",
+            "videos_t2v/broccoli-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a carrot",
+        "dimension": [
+            "object_class"
+        ],
+        "auxiliary_info": {
+            "object_class": {
+                "object": "carrot"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a carrot-0.mp4",
+            "videos_t2v/a carrot-1.mp4",
+            "videos_t2v/a carrot-2.mp4",
+            "videos_t2v/a carrot-3.mp4",
+            "videos_t2v/a carrot-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a hot dog",
+        "dimension": [
+            "object_class"
+        ],
+        "auxiliary_info": {
+            "object_class": {
+                "object": "hot dog"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a hot dog-0.mp4",
+            "videos_t2v/a hot dog-1.mp4",
+            "videos_t2v/a hot dog-2.mp4",
+            "videos_t2v/a hot dog-3.mp4",
+            "videos_t2v/a hot dog-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a pizza",
+        "dimension": [
+            "object_class"
+        ],
+        "auxiliary_info": {
+            "object_class": {
+                "object": "pizza"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a pizza-0.mp4",
+            "videos_t2v/a pizza-1.mp4",
+            "videos_t2v/a pizza-2.mp4",
+            "videos_t2v/a pizza-3.mp4",
+            "videos_t2v/a pizza-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a donut",
+        "dimension": [
+            "object_class"
+        ],
+        "auxiliary_info": {
+            "object_class": {
+                "object": "donut"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a donut-0.mp4",
+            "videos_t2v/a donut-1.mp4",
+            "videos_t2v/a donut-2.mp4",
+            "videos_t2v/a donut-3.mp4",
+            "videos_t2v/a donut-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a cake",
+        "dimension": [
+            "object_class"
+        ],
+        "auxiliary_info": {
+            "object_class": {
+                "object": "cake"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a cake-0.mp4",
+            "videos_t2v/a cake-1.mp4",
+            "videos_t2v/a cake-2.mp4",
+            "videos_t2v/a cake-3.mp4",
+            "videos_t2v/a cake-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a chair",
+        "dimension": [
+            "object_class"
+        ],
+        "auxiliary_info": {
+            "object_class": {
+                "object": "chair"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a chair-0.mp4",
+            "videos_t2v/a chair-1.mp4",
+            "videos_t2v/a chair-2.mp4",
+            "videos_t2v/a chair-3.mp4",
+            "videos_t2v/a chair-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a couch",
+        "dimension": [
+            "object_class"
+        ],
+        "auxiliary_info": {
+            "object_class": {
+                "object": "couch"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a couch-0.mp4",
+            "videos_t2v/a couch-1.mp4",
+            "videos_t2v/a couch-2.mp4",
+            "videos_t2v/a couch-3.mp4",
+            "videos_t2v/a couch-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a potted plant",
+        "dimension": [
+            "object_class"
+        ],
+        "auxiliary_info": {
+            "object_class": {
+                "object": "potted plant"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a potted plant-0.mp4",
+            "videos_t2v/a potted plant-1.mp4",
+            "videos_t2v/a potted plant-2.mp4",
+            "videos_t2v/a potted plant-3.mp4",
+            "videos_t2v/a potted plant-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a bed",
+        "dimension": [
+            "object_class"
+        ],
+        "auxiliary_info": {
+            "object_class": {
+                "object": "bed"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a bed-0.mp4",
+            "videos_t2v/a bed-1.mp4",
+            "videos_t2v/a bed-2.mp4",
+            "videos_t2v/a bed-3.mp4",
+            "videos_t2v/a bed-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a dining table",
+        "dimension": [
+            "object_class"
+        ],
+        "auxiliary_info": {
+            "object_class": {
+                "object": "dining table"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a dining table-0.mp4",
+            "videos_t2v/a dining table-1.mp4",
+            "videos_t2v/a dining table-2.mp4",
+            "videos_t2v/a dining table-3.mp4",
+            "videos_t2v/a dining table-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a toilet",
+        "dimension": [
+            "object_class"
+        ],
+        "auxiliary_info": {
+            "object_class": {
+                "object": "toilet"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a toilet-0.mp4",
+            "videos_t2v/a toilet-1.mp4",
+            "videos_t2v/a toilet-2.mp4",
+            "videos_t2v/a toilet-3.mp4",
+            "videos_t2v/a toilet-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a tv",
+        "dimension": [
+            "object_class"
+        ],
+        "auxiliary_info": {
+            "object_class": {
+                "object": "tv"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a tv-0.mp4",
+            "videos_t2v/a tv-1.mp4",
+            "videos_t2v/a tv-2.mp4",
+            "videos_t2v/a tv-3.mp4",
+            "videos_t2v/a tv-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a laptop",
+        "dimension": [
+            "object_class"
+        ],
+        "auxiliary_info": {
+            "object_class": {
+                "object": "laptop"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a laptop-0.mp4",
+            "videos_t2v/a laptop-1.mp4",
+            "videos_t2v/a laptop-2.mp4",
+            "videos_t2v/a laptop-3.mp4",
+            "videos_t2v/a laptop-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a remote",
+        "dimension": [
+            "object_class"
+        ],
+        "auxiliary_info": {
+            "object_class": {
+                "object": "remote"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a remote-0.mp4",
+            "videos_t2v/a remote-1.mp4",
+            "videos_t2v/a remote-2.mp4",
+            "videos_t2v/a remote-3.mp4",
+            "videos_t2v/a remote-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a keyboard",
+        "dimension": [
+            "object_class"
+        ],
+        "auxiliary_info": {
+            "object_class": {
+                "object": "keyboard"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a keyboard-0.mp4",
+            "videos_t2v/a keyboard-1.mp4",
+            "videos_t2v/a keyboard-2.mp4",
+            "videos_t2v/a keyboard-3.mp4",
+            "videos_t2v/a keyboard-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a cell phone",
+        "dimension": [
+            "object_class"
+        ],
+        "auxiliary_info": {
+            "object_class": {
+                "object": "cell phone"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a cell phone-0.mp4",
+            "videos_t2v/a cell phone-1.mp4",
+            "videos_t2v/a cell phone-2.mp4",
+            "videos_t2v/a cell phone-3.mp4",
+            "videos_t2v/a cell phone-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a microwave",
+        "dimension": [
+            "object_class"
+        ],
+        "auxiliary_info": {
+            "object_class": {
+                "object": "microwave"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a microwave-0.mp4",
+            "videos_t2v/a microwave-1.mp4",
+            "videos_t2v/a microwave-2.mp4",
+            "videos_t2v/a microwave-3.mp4",
+            "videos_t2v/a microwave-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "an oven",
+        "dimension": [
+            "object_class"
+        ],
+        "auxiliary_info": {
+            "object_class": {
+                "object": "oven"
+            }
+        },
+        "video_list": [
+            "videos_t2v/an oven-0.mp4",
+            "videos_t2v/an oven-1.mp4",
+            "videos_t2v/an oven-2.mp4",
+            "videos_t2v/an oven-3.mp4",
+            "videos_t2v/an oven-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a toaster",
+        "dimension": [
+            "object_class"
+        ],
+        "auxiliary_info": {
+            "object_class": {
+                "object": "toaster"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a toaster-0.mp4",
+            "videos_t2v/a toaster-1.mp4",
+            "videos_t2v/a toaster-2.mp4",
+            "videos_t2v/a toaster-3.mp4",
+            "videos_t2v/a toaster-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a sink",
+        "dimension": [
+            "object_class"
+        ],
+        "auxiliary_info": {
+            "object_class": {
+                "object": "sink"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a sink-0.mp4",
+            "videos_t2v/a sink-1.mp4",
+            "videos_t2v/a sink-2.mp4",
+            "videos_t2v/a sink-3.mp4",
+            "videos_t2v/a sink-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a refrigerator",
+        "dimension": [
+            "object_class"
+        ],
+        "auxiliary_info": {
+            "object_class": {
+                "object": "refrigerator"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a refrigerator-0.mp4",
+            "videos_t2v/a refrigerator-1.mp4",
+            "videos_t2v/a refrigerator-2.mp4",
+            "videos_t2v/a refrigerator-3.mp4",
+            "videos_t2v/a refrigerator-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a book",
+        "dimension": [
+            "object_class"
+        ],
+        "auxiliary_info": {
+            "object_class": {
+                "object": "book"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a book-0.mp4",
+            "videos_t2v/a book-1.mp4",
+            "videos_t2v/a book-2.mp4",
+            "videos_t2v/a book-3.mp4",
+            "videos_t2v/a book-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a clock",
+        "dimension": [
+            "object_class"
+        ],
+        "auxiliary_info": {
+            "object_class": {
+                "object": "clock"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a clock-0.mp4",
+            "videos_t2v/a clock-1.mp4",
+            "videos_t2v/a clock-2.mp4",
+            "videos_t2v/a clock-3.mp4",
+            "videos_t2v/a clock-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a vase",
+        "dimension": [
+            "object_class"
+        ],
+        "auxiliary_info": {
+            "object_class": {
+                "object": "vase"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a vase-0.mp4",
+            "videos_t2v/a vase-1.mp4",
+            "videos_t2v/a vase-2.mp4",
+            "videos_t2v/a vase-3.mp4",
+            "videos_t2v/a vase-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "scissors",
+        "dimension": [
+            "object_class"
+        ],
+        "auxiliary_info": {
+            "object_class": {
+                "object": "scissors"
+            }
+        },
+        "video_list": [
+            "videos_t2v/scissors-0.mp4",
+            "videos_t2v/scissors-1.mp4",
+            "videos_t2v/scissors-2.mp4",
+            "videos_t2v/scissors-3.mp4",
+            "videos_t2v/scissors-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a teddy bear",
+        "dimension": [
+            "object_class"
+        ],
+        "auxiliary_info": {
+            "object_class": {
+                "object": "teddy bear"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a teddy bear-0.mp4",
+            "videos_t2v/a teddy bear-1.mp4",
+            "videos_t2v/a teddy bear-2.mp4",
+            "videos_t2v/a teddy bear-3.mp4",
+            "videos_t2v/a teddy bear-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a hair drier",
+        "dimension": [
+            "object_class"
+        ],
+        "auxiliary_info": {
+            "object_class": {
+                "object": "hair drier"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a hair drier-0.mp4",
+            "videos_t2v/a hair drier-1.mp4",
+            "videos_t2v/a hair drier-2.mp4",
+            "videos_t2v/a hair drier-3.mp4",
+            "videos_t2v/a hair drier-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a toothbrush",
+        "dimension": [
+            "object_class"
+        ],
+        "auxiliary_info": {
+            "object_class": {
+                "object": "toothbrush"
+            }
+        },
+        "video_list": [
+            "videos_t2v/a toothbrush-0.mp4",
+            "videos_t2v/a toothbrush-1.mp4",
+            "videos_t2v/a toothbrush-2.mp4",
+            "videos_t2v/a toothbrush-3.mp4",
+            "videos_t2v/a toothbrush-4.mp4"
+        ]
+    }
+]

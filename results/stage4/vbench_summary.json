@@ -1,0 +1,67 @@
+{
+ "vbench_commit": "fd18b3d055cb",
+ "t2v_original": {
+  "raw": {
+   "motion smoothness": 0.968675080273752,
+   "subject consistency": 0.8753936280367068,
+   "spatial relationship": 0.060333909538251636,
+   "human action": 0.2,
+   "aesthetic quality": 0.34770341993019144,
+   "color": 0.8439125146883767,
+   "overall consistency": 0.14530738082824535,
+   "background consistency": 0.9451604798782703,
+   "appearance style": 0.20401594158496725,
+   "scene": 0.06031976744186047,
+   "multiple objects": 0.029115853658536587,
+   "temporal flickering": 0.987753644271258,
+   "temporal style": 0.12154665957111865,
+   "object class": 0.24968354430379747,
+   "dynamic degree": 0.8055555555555556,
+   "imaging quality": 0.5149264606968055
+  },
+  "missing": [],
+  "quality": 0.7558901286126022,
+  "semantic": 0.3225793736980418,
+  "total": 0.6692279776296901
+ },
+ "t2v_long_prompts": {
+  "raw": {
+   "multiple objects": 0.025914634146341462,
+   "overall consistency": 0.13998835984697586,
+   "subject consistency": 0.9219656998550312,
+   "spatial relationship": 0.07349508852842844,
+   "scene": 0.08459302325581396,
+   "dynamic degree": 0.5833333333333334,
+   "human action": 0.242,
+   "imaging quality": 0.5005157773731476,
+   "background consistency": 0.9596106240915697,
+   "temporal style": 0.12378852804284543,
+   "object class": 0.2873417721518987,
+   "appearance style": 0.21258569240196032,
+   "aesthetic quality": 0.36157252878271123,
+   "color": 0.7724717470029969,
+   "motion smoothness": 0.9796865449682387
+  },
+  "missing": [
+   "temporal flickering"
+  ],
+  "semantic": 0.3302857728260555
+ },
+ "i2v": {
+  "raw": {
+   "dynamic degree": 0.6934959349593496,
+   "i2v subject": 0.9363706171282424,
+   "aesthetic quality": 0.5087208215283676,
+   "background consistency": 0.9362744252616112,
+   "camera motion": 0.24796854521625164,
+   "i2v background": 0.9591663146531636,
+   "subject consistency": 0.8576676287654715,
+   "imaging quality": 0.6343330952929592,
+   "motion smoothness": 0.9649242431326027
+  },
+  "missing": [],
+  "quality": 0.7500099237930781,
+  "i2v": 0.9023710435926241,
+  "total": 0.8261904836928511
+ }
+}
