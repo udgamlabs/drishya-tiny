@@ -16,7 +16,7 @@ ap.add_argument("--out", required=True); ap.add_argument("--expect", type=int, d
 a = ap.parse_args()
 
 n = 0
-with open(a.out, "w", newline="") as f:
+with open(a.out + ".tmp", "w", newline="") as f:
     w = csv.writer(f); w.writerow(["vid", "start_s", "zip", "split"])
     # same order as training/train_t2v.py Shards (sorted lat_*.npy; the cap_*.json files sort identically)
     for cp in sorted(glob.glob(os.path.join(a.shards, "cap_*.json"))):
@@ -25,3 +25,4 @@ with open(a.out, "w", newline="") as f:
             w.writerow([r["vid"], round(float(r["start"]), 3), int(m.group(1)) if m else "", a.split]); n += 1
 print(a.out, n, "windows")
 assert not a.expect or n == a.expect, f"expected {a.expect} rows, got {n}"
+os.replace(a.out + ".tmp", a.out)
