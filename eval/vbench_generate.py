@@ -95,8 +95,8 @@ def run_jobs(jobs, st, tag):
         chunk = jobs[b:b + a.batch]; sd = a.seed + b // a.batch
         firsts = torch.cat([j[2] for j in chunk]).to(dev) if chunk[0][2] is not None else None
         vids = generate([j[0] for j in chunk], firsts, st, sd)
-        for j, v in zip(chunk, vids):
-            save_mp4(v, os.path.join(a.out, j[1])); seeds[j[1]] = [sd, chunk.index(j)]
+        for idx, (j, v) in enumerate(zip(chunk, vids)):
+            save_mp4(v, os.path.join(a.out, j[1])); seeds[j[1]] = [sd, idx]
         if (b // a.batch) % 20 == 0:
             print(json.dumps({"gen": tag, "done": b + len(chunk), "of": len(jobs), "per_s": round((b + len(chunk)) / (time.time() - t0), 2)}), flush=True)
     old = json.load(open(os.path.join(a.out, "seeds.json"))) if os.path.exists(os.path.join(a.out, "seeds.json")) else {}
